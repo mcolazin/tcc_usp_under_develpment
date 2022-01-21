@@ -1,0 +1,5566 @@
+"municipios","idhm"
+"São Caetano do Sul (SP)",0.862
+"Águas de São Pedro (SP)",0.854
+"Florianópolis (SC)",0.847
+"Balneário Camboriú (SC)",0.845
+"Vitória (ES)",0.845
+"Santos (SP)",0.84
+"Niterói (RJ)",0.837
+"Joaçaba (SC)",0.827
+"Brasília (DF)",0.824
+"Curitiba (PR)",0.823
+"Jundiaí (SP)",0.822
+"Valinhos (SP)",0.819
+"Vinhedo (SP)",0.817
+"Santo André (SP)",0.815
+"Araraquara (SP)",0.815
+"Santana de Parnaíba (SP)",0.814
+"Nova Lima (MG)",0.813
+"Ilha Solteira (SP)",0.812
+"Americana (SP)",0.811
+"Belo Horizonte (MG)",0.81
+"Joinville (SC)",0.809
+"São José (SC)",0.809
+"Maringá (PR)",0.808
+"São José dos Campos (SP)",0.807
+"Rio Fortuna (SC)",0.806
+"Presidente Prudente (SP)",0.806
+"Blumenau (SC)",0.806
+"São Bernardo do Campo (SP)",0.805
+"Porto Alegre (RS)",0.805
+"Campinas (SP)",0.805
+"São Carlos (SP)",0.805
+"Assis (SP)",0.805
+"São Paulo (SP)",0.805
+"Rio Claro (SP)",0.803
+"Jaraguá do Sul (SC)",0.803
+"Rio do Sul (SC)",0.802
+"Bauru (SP)",0.801
+"Pirassununga (SP)",0.801
+"São Miguel do Oeste (SC)",0.801
+"Concórdia (SC)",0.8
+"Taubaté (SP)",0.8
+"Botucatu (SP)",0.8
+"Vila Velha (ES)",0.8
+"Ribeirão Preto (SP)",0.8
+"Rio de Janeiro (RJ)",0.799
+"Goiânia (GO)",0.799
+"Marília (SP)",0.798
+"Sorocaba (SP)",0.798
+"Guaratinguetá (SP)",0.798
+"Fernandópolis (SP)",0.797
+"São José do Rio Preto (SP)",0.797
+"São João da Boa Vista (SP)",0.797
+"Itapema (SC)",0.796
+"Carlos Barbosa (RS)",0.796
+"Tubarão (SC)",0.796
+"Itajaí (SC)",0.795
+"Brusque (SC)",0.795
+"Iomerê (SC)",0.795
+"Treze Tílias (SC)",0.795
+"Paulínia (SP)",0.795
+"Holambra (SP)",0.793
+"Ipiranga do Sul (RS)",0.791
+"Quatro Pontes (PR)",0.791
+"Nova Odessa (SP)",0.791
+"Saltinho (SP)",0.791
+"Três Arroios (RS)",0.791
+"Votuporanga (SP)",0.79
+"Adamantina (SP)",0.79
+"Santa Cruz da Conceição (SP)",0.79
+"Chapecó (SC)",0.79
+"Lagoa dos Três Cantos (RS)",0.789
+"Luzerna (SC)",0.789
+"Barretos (SP)",0.789
+"Uberlândia (MG)",0.789
+"Cândido Rodrigues (SP)",0.789
+"Mairiporã (SP)",0.788
+"Caçapava (SP)",0.788
+"Cruzeiro (SP)",0.788
+"Palmas (TO)",0.788
+"Fernando de Noronha (PE)",0.788
+"Indaiatuba (SP)",0.788
+"Araçatuba (SP)",0.788
+"Barra Bonita (SP)",0.788
+"Criciúma (SC)",0.788
+"Itajubá (MG)",0.787
+"Espírito Santo do Pinhal (SP)",0.787
+"Barueri (SP)",0.786
+"Lins (SP)",0.786
+"Pompéia (SP)",0.786
+"Porto União (SC)",0.786
+"Garibaldi (RS)",0.786
+"Monte Aprazível (SP)",0.785
+"Catanduva (SP)",0.785
+"Casca (RS)",0.785
+"Cuiabá (MT)",0.785
+"Nova Araçá (RS)",0.785
+"Tremembé (SP)",0.785
+"Piracicaba (SP)",0.785
+"Amparo (SP)",0.785
+"Santa Maria (RS)",0.784
+"Campo Grande (MS)",0.784
+"Ribeirão Pires (SP)",0.784
+"Santa Fé do Sul (SP)",0.784
+"Salto Veloso (SC)",0.784
+"Mogi Mirim (SP)",0.784
+"Ivoti (RS)",0.784
+"Jaguariúna (SP)",0.784
+"Timbó (SC)",0.784
+"Arujá (SP)",0.784
+"Mogi das Cruzes (SP)",0.783
+"Pinhalzinho (SC)",0.783
+"Horizontina (RS)",0.783
+"Lavras (MG)",0.782
+"Cascavel (PR)",0.782
+"Pato Branco (PR)",0.782
+"São Bento do Sul (SC)",0.782
+"Cerquilho (SP)",0.782
+"Caxias do Sul (RS)",0.782
+"Santo Amaro da Imperatriz (SC)",0.781
+"Maravilha (SC)",0.781
+"Lacerdópolis (SC)",0.781
+"Bombinhas (SC)",0.781
+"Santa Bárbara D'Oeste (SP)",0.781
+"Araras (SP)",0.781
+"Caieiras (SP)",0.781
+"Ijuí (RS)",0.781
+"Águas da Prata (SP)",0.781
+"Cotia (SP)",0.78
+"Pomerode (SC)",0.78
+"Cocal do Sul (SC)",0.78
+"Corupá (SC)",0.78
+"Vista Alegre do Prata (RS)",0.78
+"Orlândia (SP)",0.78
+"Birigui (SP)",0.78
+"Braço do Trombudo (SC)",0.78
+"Franca (SP)",0.78
+"Bebedouro (SP)",0.78
+"Nova Petrópolis (RS)",0.78
+"Salto (SP)",0.78
+"Boituva (SP)",0.78
+"Piratininga (SP)",0.779
+"Seara (SC)",0.779
+"Andradina (SP)",0.779
+"Poços de Caldas (MG)",0.779
+"Jaboticabal (SP)",0.778
+"Nova Bréscia (RS)",0.778
+"Itatiba (SP)",0.778
+"Bento Gonçalves (RS)",0.778
+"Londrina (PR)",0.778
+"Juiz de Fora (MG)",0.778
+"Lajeado (RS)",0.778
+"Tietê (SP)",0.778
+"Braço do Norte (SC)",0.778
+"Varginha (MG)",0.778
+"Ourinhos (SP)",0.778
+"Jaú (SP)",0.778
+"Indaial (SC)",0.777
+"Selbach (RS)",0.777
+"José Bonifácio (SP)",0.777
+"Pinheiro Preto (SC)",0.777
+"Jacareí (SP)",0.777
+"Sarandi (RS)",0.777
+"Louveira (SP)",0.777
+"Mafra (SC)",0.777
+"Victor Graeff (RS)",0.777
+"Farroupilha (RS)",0.777
+"Lagoa Santa (MG)",0.777
+"Osasco (SP)",0.776
+"Erechim (RS)",0.776
+"Dracena (SP)",0.776
+"Araçoiaba da Serra (SP)",0.776
+"Pirapozinho (SP)",0.776
+"Passo Fundo (RS)",0.776
+"Jales (SP)",0.776
+"Iracemápolis (SP)",0.776
+"Bragança Paulista (SP)",0.776
+"Itaú de Minas (MG)",0.776
+"Trombudo Central (SC)",0.775
+"Ceres (GO)",0.775
+"Itapiranga (SC)",0.775
+"Limeira (SP)",0.775
+"Viçosa (MG)",0.775
+"Xanxerê (SC)",0.775
+"Santa Rita do Passa Quatro (SP)",0.775
+"Cruzália (SP)",0.774
+"Mogi Guaçu (SP)",0.774
+"Massaranduba (SC)",0.774
+"Siderópolis (SC)",0.774
+"Treviso (SC)",0.774
+"Ouro (SC)",0.774
+"Marau (RS)",0.774
+"Marechal Cândido Rondon (PR)",0.774
+"Pouso Alegre (MG)",0.774
+"São José do Rio Pardo (SP)",0.774
+"Pedrinhas Paulista (SP)",0.774
+"Francisco Beltrão (PR)",0.774
+"Rio das Ostras (RJ)",0.773
+"Santana da Ponte Pensa (SP)",0.773
+"Olímpia (SP)",0.773
+"Santa Cruz do Sul (RS)",0.773
+"Pindamonhangaba (SP)",0.773
+"Itu (SP)",0.773
+"Auriflama (SP)",0.773
+"Serra Alta (SC)",0.773
+"Matão (SP)",0.773
+"Sebastianópolis do Sul (SP)",0.773
+"Araguari (MG)",0.773
+"Paraí (RS)",0.773
+"Veranópolis (RS)",0.773
+"Santo Ângelo (RS)",0.772
+"Urussanga (SC)",0.772
+"Uberaba (MG)",0.772
+"Monções (SP)",0.772
+"Santa Salete (SP)",0.772
+"Recife (PE)",0.772
+"Araxá (MG)",0.772
+"São Sebastião (SP)",0.772
+"Aratiba (RS)",0.772
+"Sales Oliveira (SP)",0.772
+"Maracaí (SP)",0.771
+"Poá (SP)",0.771
+"Volta Redonda (RJ)",0.771
+"Tupã (SP)",0.771
+"Ipatinga (MG)",0.771
+"Itá (SC)",0.771
+"Lajeado Grande (SC)",0.771
+"Montes Claros (MG)",0.77
+"Timóteo (MG)",0.77
+"Presidente Castello Branco (SC)",0.77
+"Aracaju (SE)",0.77
+"Macatuba (SP)",0.77
+"Santa Rosa de Viterbo (SP)",0.77
+"Oriente (SP)",0.77
+"Ouroeste (SP)",0.77
+"Vargem Grande Paulista (SP)",0.77
+"Lages (SC)",0.77
+"Armazém (SC)",0.77
+"Garça (SP)",0.769
+"Campo Limpo Paulista (SP)",0.769
+"Schroeder (SC)",0.769
+"Taboão da Serra (SP)",0.769
+"São Carlos (SC)",0.769
+"Cosmópolis (SP)",0.769
+"Arroio do Meio (RS)",0.769
+"Tupi Paulista (SP)",0.769
+"Santa Rosa (RS)",0.769
+"Pedreira (SP)",0.769
+"Barbacena (MG)",0.769
+"Monte Alto (SP)",0.768
+"Palotina (PR)",0.768
+"Bilac (SP)",0.768
+"Maracajá (SC)",0.768
+"São Roque (SP)",0.768
+"Lucas do Rio Verde (MT)",0.768
+"São Vicente (SP)",0.768
+"São Marcos (RS)",0.768
+"Toledo (PR)",0.768
+"Três Passos (RS)",0.768
+"Resende (RJ)",0.768
+"Igarapava (SP)",0.768
+"Nova Veneza (SC)",0.768
+"Nova Boa Vista (RS)",0.768
+"São Luís (MA)",0.768
+"Regente Feijó (SP)",0.768
+"Novo Xingu (RS)",0.767
+"Capivari de Baixo (SC)",0.767
+"Orindiúva (SP)",0.767
+"Encantado (RS)",0.767
+"Serra Negra (SP)",0.767
+"Dois Vizinhos (PR)",0.767
+"Votorantim (SP)",0.767
+"Avaré (SP)",0.767
+"Estrela (RS)",0.767
+"Santiago (RS)",0.766
+"Ivatuba (PR)",0.766
+"Mauá (SP)",0.766
+"Pereira Barreto (SP)",0.766
+"Alumínio (SP)",0.766
+"Parnamirim (RN)",0.766
+"São Simão (SP)",0.766
+"Poloni (SP)",0.766
+"Catalão (GO)",0.766
+"Lorena (SP)",0.766
+"Carazinho (RS)",0.766
+"Cedral (SP)",0.766
+"Nova Prata (RS)",0.766
+"Peritiba (SC)",0.766
+"Capivari do Sul (RS)",0.766
+"Ibirubá (RS)",0.765
+"Atibaia (SP)",0.765
+"Colinas (RS)",0.765
+"Nova Erechim (SC)",0.765
+"São Domingos (SC)",0.765
+"Guaporé (RS)",0.765
+"Suzano (SP)",0.765
+"Patos de Minas (MG)",0.765
+"Não-Me-Toque (RS)",0.765
+"Maricá (RJ)",0.765
+"Ituverava (SP)",0.765
+"Nova Europa (SP)",0.765
+"Espumoso (RS)",0.765
+"Imbituba (SC)",0.765
+"Gaspar (SC)",0.765
+"Arroio Trinta (SC)",0.764
+"Imbé (RS)",0.764
+"Gramado (RS)",0.764
+"Montauri (RS)",0.764
+"Santo Antônio do Palma (RS)",0.764
+"Macaé (RJ)",0.764
+"Paraíso do Tocantins (TO)",0.764
+"São Valentim do Sul (RS)",0.764
+"Cerro Largo (RS)",0.764
+"Rosana (SP)",0.764
+"Ouro Branco (MG)",0.764
+"Lençóis Paulista (SP)",0.764
+"Rondinha (RS)",0.764
+"Cachoeira Paulista (SP)",0.764
+"Divinópolis (MG)",0.764
+"Videira (SC)",0.764
+"Itapetininga (SP)",0.763
+"Ponta Grossa (PR)",0.763
+"São Domingos do Sul (RS)",0.763
+"Guararapes (SP)",0.763
+"Guarulhos (SP)",0.763
+"Fagundes Varela (RS)",0.763
+"Gabriel Monteiro (SP)",0.763
+"Barra Funda (RS)",0.763
+"Buritama (SP)",0.763
+"São Pedro do Butiá (RS)",0.763
+"Presidente Venceslau (SP)",0.763
+"Natal (RN)",0.763
+"João Pessoa (PB)",0.763
+"Medianeira (PR)",0.763
+"Paranavaí (PR)",0.763
+"Santa Cruz do Rio Pardo (SP)",0.762
+"Paraguaçu Paulista (SP)",0.762
+"São Joaquim da Barra (SP)",0.762
+"Boa Vista do Buricá (RS)",0.762
+"Mococa (SP)",0.762
+"Sumaré (SP)",0.762
+"São Francisco do Sul (SC)",0.762
+"Mirassol (SP)",0.762
+"Serranópolis do Iguaçu (PR)",0.762
+"Torres (RS)",0.762
+"Itupeva (SP)",0.762
+"Saldanha Marinho (RS)",0.762
+"Itapira (SP)",0.762
+"Osvaldo Cruz (SP)",0.762
+"David Canabarro (RS)",0.762
+"Zortéa (SC)",0.761
+"Vila Maria (RS)",0.761
+"Conselheiro Lafaiete (MG)",0.761
+"Nova Pádua (RS)",0.761
+"Itapoá (SC)",0.761
+"Santa Rita D'Oeste (SP)",0.761
+"Batatais (SP)",0.761
+"Indiana (SP)",0.761
+"Iguaba Grande (RJ)",0.761
+"Entre Rios do Oeste (PR)",0.761
+"Alfenas (MG)",0.761
+"Panambi (RS)",0.761
+"Sertãozinho (SP)",0.761
+"Taió (SC)",0.761
+"Umuarama (PR)",0.761
+"São João do Oeste (SC)",0.761
+"Araranguá (SC)",0.76
+"Serafina Corrêa (RS)",0.76
+"Goiandira (GO)",0.76
+"Tapejara (RS)",0.76
+"Frederico Westphalen (RS)",0.76
+"Santa Adélia (SP)",0.76
+"Porto Belo (SC)",0.76
+"Estrela D'Oeste (SP)",0.76
+"Sete Lagoas (MG)",0.76
+"Descalvado (SP)",0.76
+"Rio Negro (PR)",0.76
+"Itaara (RS)",0.76
+"Modelo (SC)",0.76
+"Campinas do Sul (RS)",0.76
+"Tijucas (SC)",0.76
+"Taiúva (SP)",0.76
+"Jandira (SP)",0.76
+"Cornélio Procópio (PR)",0.759
+"Várzea Paulista (SP)",0.759
+"Santo Antônio do Planalto (RS)",0.759
+"Caraguatatuba (SP)",0.759
+"Presidente Getúlio (SC)",0.759
+"Rio das Pedras (SP)",0.759
+"Taquaral (SP)",0.759
+"Iporã do Oeste (SC)",0.759
+"Três de Maio (RS)",0.759
+"Gurupi (TO)",0.759
+"São Lourenço (MG)",0.759
+"Nova Candelária (RS)",0.759
+"Rubinéia (SP)",0.759
+"Monte Alegre do Sul (SP)",0.759
+"Inúbia Paulista (SP)",0.759
+"Salvador (BA)",0.759
+"Penápolis (SP)",0.759
+"Cordeirópolis (SP)",0.758
+"Herval D'Oeste (SC)",0.758
+"Itaúna (MG)",0.758
+"Porto Feliz (SP)",0.758
+"Colorado (RS)",0.758
+"Antônio Prado (RS)",0.758
+"São José dos Pinhais (PR)",0.758
+"Piratuba (SC)",0.758
+"Piraju (SP)",0.758
+"Iguaraçu (PR)",0.758
+"São João Del Rei (MG)",0.758
+"João Monlevade (MG)",0.758
+"Fernando Prestes (SP)",0.758
+"Nova Londrina (PR)",0.758
+"Álvares Machado (SP)",0.758
+"Faxinal dos Guedes (SC)",0.758
+"Guabiju (RS)",0.758
+"Nova Mutum (MT)",0.758
+"Picada Café (RS)",0.758
+"Maripá (PR)",0.758
+"Vista Gaúcha (RS)",0.757
+"Campo Mourão (PR)",0.757
+"Presidente Lucena (RS)",0.757
+"Chapada (RS)",0.757
+"Diadema (SP)",0.757
+"Águas de Santa Bárbara (SP)",0.757
+"Gravatal (SC)",0.757
+"Dois Lajeados (RS)",0.757
+"Colina (SP)",0.757
+"Vanini (RS)",0.757
+"Estância Velha (RS)",0.757
+"Piquete (SP)",0.757
+"Palhoça (SC)",0.757
+"Jataí (GO)",0.757
+"Santo Antônio do Aracanguá (SP)",0.757
+"Presidente Bernardes (SP)",0.757
+"Canoinhas (SC)",0.757
+"Pedro Leopoldo (MG)",0.757
+"Cachoeirinha (RS)",0.757
+"Santa Rosa de Lima (SC)",0.757
+"Contagem (MG)",0.756
+"Hortolândia (SP)",0.756
+"Jambeiro (SP)",0.756
+"Passos (MG)",0.756
+"Itabira (MG)",0.756
+"Quinze de Novembro (RS)",0.756
+"Pirangi (SP)",0.756
+"Ilhabela (SP)",0.756
+"Cravinhos (SP)",0.756
+"Nova Castilho (SP)",0.756
+"Bálsamo (SP)",0.756
+"Balneário Piçarras (SC)",0.756
+"Fortaleza dos Valos (RS)",0.756
+"Coronel Fabriciano (MG)",0.755
+"Cianorte (PR)",0.755
+"Alto Bela Vista (SC)",0.755
+"São Pedro (SP)",0.755
+"São José do Ouro (RS)",0.755
+"Rondonópolis (MT)",0.755
+"Pongaí (SP)",0.755
+"Formiga (MG)",0.755
+"Montenegro (RS)",0.755
+"Brodowski (SP)",0.755
+"Orleans (SC)",0.755
+"Saudades (SC)",0.755
+"Aparecida (SP)",0.755
+"São Ludgero (SC)",0.755
+"Flores da Cunha (RS)",0.754
+"Constantina (RS)",0.754
+"Vera Cruz (SP)",0.754
+"Analândia (SP)",0.754
+"Fortaleza (CE)",0.754
+"Mongaguá (SP)",0.754
+"Lauro de Freitas (BA)",0.754
+"Corumbataí (SP)",0.754
+"Praia Grande (SP)",0.754
+"Cunhataí (SC)",0.754
+"Guabiruba (SC)",0.754
+"Neves Paulista (SP)",0.754
+"Esteio (RS)",0.754
+"Registro (SP)",0.754
+"São Vendelino (RS)",0.754
+"Rio Verde (GO)",0.754
+"Rodeio (SC)",0.754
+"Sinop (MT)",0.754
+"Rio do Oeste (SC)",0.754
+"Boracéia (SP)",0.754
+"Chapadão do Sul (MS)",0.754
+"Garopaba (SC)",0.753
+"João Neiva (ES)",0.753
+"Palmeira D'Oeste (SP)",0.753
+"Santo Anastácio (SP)",0.753
+"Ajuricaba (RS)",0.753
+"Mangaratiba (RJ)",0.753
+"Monte Azul Paulista (SP)",0.753
+"Rancho Queimado (SC)",0.753
+"Estação (RS)",0.753
+"Guaíra (SP)",0.753
+"Congonhas (MG)",0.753
+"Novo Horizonte (SP)",0.753
+"Forquilhinha (SC)",0.753
+"Tarumã (SP)",0.753
+"Magda (SP)",0.753
+"Três Fronteiras (SP)",0.753
+"Ipeúna (SP)",0.753
+"Nicolau Vergueiro (RS)",0.753
+"Salvador das Missões (RS)",0.753
+"Nilópolis (RJ)",0.753
+"Três Marias (MG)",0.752
+"Tatuí (SP)",0.752
+"Xaxim (SC)",0.752
+"Westfalia (RS)",0.752
+"Capinzal (SC)",0.752
+"Boa Vista (RR)",0.752
+"Tunápolis (SC)",0.752
+"Monte Belo do Sul (RS)",0.752
+"Pranchita (PR)",0.752
+"Severiano de Almeida (RS)",0.752
+"Aracruz (ES)",0.752
+"Lucélia (SP)",0.752
+"Araguaína (TO)",0.752
+"Enéas Marques (PR)",0.752
+"Laguna (SC)",0.752
+"Marapoama (SP)",0.752
+"Primavera do Leste (MT)",0.752
+"Itumbiara (GO)",0.752
+"Planalto Alegre (SC)",0.751
+"Indiaporã (SP)",0.751
+"Guaramirim (SC)",0.751
+"Pinhais (PR)",0.751
+"Nhandeara (SP)",0.751
+"Bastos (SP)",0.751
+"Guarujá (SP)",0.751
+"Porto Ferreira (SP)",0.751
+"Ubatuba (SP)",0.751
+"Rancharia (SP)",0.751
+"Mirandópolis (SP)",0.751
+"Guaxupé (MG)",0.751
+"Sertão (RS)",0.751
+"Cataguases (MG)",0.751
+"Sales (SP)",0.751
+"Tapiratiba (SP)",0.751
+"Osório (RS)",0.751
+"Guaraciaba (SC)",0.751
+"Catiguá (SP)",0.751
+"Teresina (PI)",0.751
+"Foz do Iguaçu (PR)",0.751
+"Cambuí (MG)",0.751
+"Mandaguari (PR)",0.751
+"Turiúba (SP)",0.751
+"Américo Brasiliense (SP)",0.751
+"Feliz (RS)",0.75
+"Bom Despacho (MG)",0.75
+"Cruz Alta (RS)",0.75
+"Paranaguá (PR)",0.75
+"Canoas (RS)",0.75
+"Capivari (SP)",0.75
+"Bariri (SP)",0.75
+"Campo Verde (MT)",0.75
+"Água Santa (RS)",0.75
+"São João do Pau D'Alho (SP)",0.75
+"Presidente Epitácio (SP)",0.75
+"Rio Grande da Serra (SP)",0.749
+"Embu-Guaçu (SP)",0.749
+"União Paulista (SP)",0.749
+"Oscar Bressane (SP)",0.749
+"São Lourenço do Oeste (SC)",0.749
+"Carapicuíba (SP)",0.749
+"Xavantina (SC)",0.749
+"Betim (MG)",0.749
+"Terra Roxa (SP)",0.749
+"Artur Nogueira (SP)",0.749
+"Peruíbe (SP)",0.749
+"Pirajuí (SP)",0.749
+"Arcos (MG)",0.749
+"Antônio Carlos (SC)",0.749
+"Harmonia (RS)",0.749
+"Paraíso (SP)",0.749
+"Pareci Novo (RS)",0.749
+"Campos do Jordão (SP)",0.749
+"Laurentino (SC)",0.749
+"Linha Nova (RS)",0.749
+"Ipuã (SP)",0.749
+"Miraselva (PR)",0.748
+"Duartina (SP)",0.748
+"São João de Iracema (SP)",0.748
+"Mondaí (SC)",0.748
+"Taquaritinga (SP)",0.748
+"Apucarana (PR)",0.748
+"São João do Polêsine (RS)",0.748
+"Ituporanga (SC)",0.748
+"Tanabi (SP)",0.748
+"Barra do Garças (MT)",0.748
+"Cafelândia (PR)",0.748
+"Canela (RS)",0.748
+"Cabedelo (PB)",0.748
+"Nova Trento (SC)",0.748
+"Arapongas (PR)",0.748
+"Barão (RS)",0.748
+"Cândido Mota (SP)",0.747
+"Confins (MG)",0.747
+"Cordilheira Alta (SC)",0.747
+"Tucunduva (RS)",0.747
+"Iturama (MG)",0.747
+"Condor (RS)",0.747
+"Dourados (MS)",0.747
+"Nova Aurora (GO)",0.747
+"Jandaia do Sul (PR)",0.747
+"Ouvidor (GO)",0.747
+"Governador Celso Ramos (SC)",0.747
+"Alto Alegre (RS)",0.747
+"Sud Mennucci (SP)",0.747
+"Brumadinho (MG)",0.747
+"Sananduva (RS)",0.747
+"Novo Hamburgo (RS)",0.747
+"Charqueadas (RS)",0.747
+"Teutônia (RS)",0.747
+"Elisiário (SP)",0.747
+"Floreal (SP)",0.747
+"Nova Bassano (RS)",0.747
+"Ribeirão do Sul (SP)",0.747
+"Astorga (PR)",0.747
+"Potirendaba (SP)",0.747
+"Ibitinga (SP)",0.747
+"General Salgado (SP)",0.747
+"Pato Bragado (PR)",0.747
+"Tapera (RS)",0.747
+"São José do Inhacorá (RS)",0.747
+"Paraíso do Norte (PR)",0.746
+"Itambé (PR)",0.746
+"Capitão (RS)",0.746
+"Getúlio Vargas (RS)",0.746
+"Mato Leitão (RS)",0.746
+"Bady Bassitt (SP)",0.746
+"Bom Princípio (RS)",0.746
+"Muçum (RS)",0.746
+"Coqueiros do Sul (RS)",0.746
+"Palmital (SP)",0.746
+"Urânia (SP)",0.746
+"Colatina (ES)",0.746
+"Balneário Arroio do Silva (SC)",0.746
+"Doutor Camargo (PR)",0.746
+"Borá (SP)",0.746
+"Nuporanga (SP)",0.746
+"Santa Tereza (RS)",0.746
+"Valparaíso de Goiás (GO)",0.746
+"Cachoeiro de Itapemirim (ES)",0.746
+"Belém (PA)",0.746
+"Petrópolis (RJ)",0.745
+"Nova Friburgo (RJ)",0.745
+"Bozano (RS)",0.745
+"Miguel Pereira (RJ)",0.745
+"Três Ranchos (GO)",0.745
+"Iacanga (SP)",0.745
+"Floraí (PR)",0.745
+"Junqueirópolis (SP)",0.745
+"Rafard (SP)",0.745
+"Américo de Campos (SP)",0.745
+"Águas de Lindóia (SP)",0.745
+"Campo Largo (PR)",0.745
+"Mairipotaba (GO)",0.745
+"Agudos (SP)",0.745
+"Campo Bom (RS)",0.745
+"Águas Frias (SC)",0.745
+"Urupês (SP)",0.745
+"Itanhaém (SP)",0.745
+"Echaporã (SP)",0.745
+"Perdões (MG)",0.744
+"Leme (SP)",0.744
+"Formosa (GO)",0.744
+"Coronel Barros (RS)",0.744
+"Pires do Rio (GO)",0.744
+"Santa Helena (PR)",0.744
+"Três Corações (MG)",0.744
+"Campos de Júlio (MT)",0.744
+"Poço das Antas (RS)",0.744
+"Paracatu (MG)",0.744
+"Vista Alegre do Alto (SP)",0.744
+"Uruguaiana (RS)",0.744
+"Nova Palma (RS)",0.744
+"Dumont (SP)",0.744
+"Sorriso (MT)",0.744
+"Barra do Jacaré (PR)",0.744
+"Lobato (PR)",0.744
+"Arealva (SP)",0.744
+"Coronel Freitas (SC)",0.744
+"Três Lagoas (MS)",0.744
+"Mendonça (SP)",0.744
+"Torrinha (SP)",0.744
+"Rio Grande (RS)",0.744
+"São Manuel (SP)",0.744
+"Salete (SC)",0.744
+"Bento de Abreu (SP)",0.744
+"Itápolis (SP)",0.744
+"Bicas (MG)",0.744
+"Nova Luzitânia (SP)",0.743
+"Sobradinho (RS)",0.743
+"Capão da Canoa (RS)",0.743
+"Mira Estrela (SP)",0.743
+"Penha (SC)",0.743
+"Caxambu (MG)",0.743
+"Iporá (GO)",0.743
+"Descanso (SC)",0.743
+"Guatapará (SP)",0.743
+"Jaguariaíva (PR)",0.743
+"Mairinque (SP)",0.743
+"Santa Cruz da Esperança (SP)",0.743
+"Jacarezinho (PR)",0.743
+"São Jorge do Ivaí (PR)",0.743
+"Matinhos (PR)",0.743
+"Augusto Pestana (RS)",0.743
+"Dois Irmãos (RS)",0.743
+"Promissão (SP)",0.743
+"Marema (SC)",0.743
+"Macaubal (SP)",0.743
+"Lindóia do Sul (SC)",0.743
+"Imigrante (RS)",0.743
+"Jussara (GO)",0.743
+"Morro Reuter (RS)",0.743
+"Irani (SC)",0.742
+"Cunha Porã (SC)",0.742
+"Bocaina (SP)",0.742
+"Ascurra (SC)",0.742
+"Lindóia (SP)",0.742
+"Dona Emma (SC)",0.742
+"São Martinho (SC)",0.742
+"Cachoeira do Sul (RS)",0.742
+"Lourdes (SP)",0.742
+"Chapadão do Céu (GO)",0.742
+"Vila Flores (RS)",0.742
+"Tio Hugo (RS)",0.742
+"Barro Alto (GO)",0.742
+"Bom Sucesso do Sul (PR)",0.742
+"Itapecerica da Serra (SP)",0.742
+"Dolcinópolis (SP)",0.742
+"Cafelândia (SP)",0.742
+"Pedranópolis (SP)",0.742
+"Campos Novos (SC)",0.742
+"Vazante (MG)",0.742
+"Quatro Barras (PR)",0.742
+"Silveira Martins (RS)",0.742
+"Mariana (MG)",0.742
+"Nova Ramada (RS)",0.742
+"Cotiporã (RS)",0.741
+"Dirce Reis (SP)",0.741
+"Nova Roma do Sul (RS)",0.741
+"Miguelópolis (SP)",0.741
+"Santos Dumont (MG)",0.741
+"João Ramalho (SP)",0.741
+"Alfredo Marcondes (SP)",0.741
+"Pejuçara (RS)",0.741
+"Carneirinho (MG)",0.741
+"Anhumas (SP)",0.741
+"Motuca (SP)",0.741
+"São Luiz Gonzaga (RS)",0.741
+"Cachoeira da Prata (MG)",0.741
+"Ouro Preto (MG)",0.741
+"Agronômica (SC)",0.741
+"Bambuí (MG)",0.741
+"Jumirim (SP)",0.741
+"Içara (SC)",0.741
+"Guaraí (TO)",0.741
+"Monte Castelo (SP)",0.741
+"Teodoro Sampaio (SP)",0.741
+"União da Vitória (PR)",0.74
+"Mercedes (PR)",0.74
+"Quirinópolis (GO)",0.74
+"Araucária (PR)",0.74
+"Brotas (SP)",0.74
+"Sabáudia (PR)",0.74
+"Lagoa Santa (GO)",0.74
+"Macedônia (SP)",0.74
+"Rifaina (SP)",0.74
+"Nova Alvorada (RS)",0.74
+"Tiradentes (MG)",0.74
+"Santa Clara do Sul (RS)",0.74
+"Benedito Novo (SC)",0.74
+"Santópolis do Aguapeí (SP)",0.74
+"Chopinzinho (PR)",0.74
+"Bagé (RS)",0.74
+"Estiva Gerbi (SP)",0.74
+"Almirante Tamandaré do Sul (RS)",0.74
+"Arroio do Sal (RS)",0.74
+"São João Batista (SC)",0.74
+"Estrela do Norte (SP)",0.74
+"Ibirá (SP)",0.74
+"Anta Gorda (RS)",0.74
+"Alegrete (RS)",0.74
+"Muzambinho (MG)",0.74
+"Turvo (SC)",0.74
+"Porto Nacional (TO)",0.74
+"Delfinópolis (MG)",0.74
+"Salvador do Sul (RS)",0.74
+"Otacílio Costa (SC)",0.74
+"Aramina (SP)",0.74
+"Itanhandu (MG)",0.739
+"Piracaia (SP)",0.739
+"Manduri (SP)",0.739
+"Santo Inácio (PR)",0.739
+"Edéia (GO)",0.739
+"Ubiratã (PR)",0.739
+"Pederneiras (SP)",0.739
+"Carlos Gomes (RS)",0.739
+"São Leopoldo (RS)",0.739
+"São José da Barra (MG)",0.739
+"São Pedro da Serra (RS)",0.739
+"Nova Granada (SP)",0.739
+"Vista Alegre (RS)",0.739
+"Serra (ES)",0.739
+"Ituiutaba (MG)",0.739
+"Santo Augusto (RS)",0.739
+"Viradouro (SP)",0.739
+"Bom Retiro do Sul (RS)",0.739
+"São Gonçalo (RJ)",0.739
+"Taquaruçu do Sul (RS)",0.739
+"Santa Mercedes (SP)",0.739
+"Catuípe (RS)",0.739
+"Rolândia (PR)",0.739
+"Guaiçara (SP)",0.739
+"Biguaçu (SC)",0.739
+"São Sebastião do Caí (RS)",0.739
+"Pelotas (RS)",0.739
+"Ibiaçá (RS)",0.739
+"Pontal do Paraná (PR)",0.738
+"Santa Terezinha de Itaipu (PR)",0.738
+"Nova Aliança (SP)",0.738
+"Cabreúva (SP)",0.738
+"Barra Velha (SC)",0.738
+"Gaurama (RS)",0.738
+"Lagoa Vermelha (RS)",0.738
+"Porecatu (PR)",0.738
+"Campina das Missões (RS)",0.738
+"Humaitá (RS)",0.738
+"Rio Negrinho (SC)",0.738
+"Ilhota (SC)",0.738
+"Onda Verde (SP)",0.738
+"Corbélia (PR)",0.738
+"Santo Cristo (RS)",0.738
+"Santa Ernestina (SP)",0.738
+"São João do Itaperiú (SC)",0.738
+"Valença (RJ)",0.738
+"Quatá (SP)",0.738
+"Ipumirim (SC)",0.738
+"Meleiro (SC)",0.738
+"Itaipulândia (PR)",0.738
+"Mirassolândia (SP)",0.738
+"Ferraz de Vasconcelos (SP)",0.738
+"Morro da Fumaça (SC)",0.738
+"Dourado (SP)",0.738
+"Santa Isabel (SP)",0.738
+"Itatiaia (RJ)",0.737
+"Guaraci (SP)",0.737
+"Guarani das Missões (RS)",0.737
+"Braúna (SP)",0.737
+"Uruaçu (GO)",0.737
+"Parapuã (SP)",0.737
+"Cumari (GO)",0.737
+"Manaus (AM)",0.737
+"Tangará (SC)",0.737
+"Cubatão (SP)",0.737
+"Palmitos (SC)",0.737
+"Roseira (SP)",0.737
+"Vargem Grande do Sul (SP)",0.737
+"Vera Cruz (RS)",0.737
+"Ribeirão Vermelho (MG)",0.737
+"Pindorama (SP)",0.737
+"Ibirama (SC)",0.737
+"Mesquita (RJ)",0.737
+"Luiz Alves (SC)",0.737
+"Santa Gertrudes (SP)",0.737
+"Santa Lúcia (SP)",0.737
+"Anápolis (GO)",0.737
+"Presidente Nereu (SC)",0.737
+"Piumhi (MG)",0.737
+"Palmeira das Missões (RS)",0.737
+"Vale Real (RS)",0.737
+"Charqueada (SP)",0.736
+"Gravataí (RS)",0.736
+"Turmalina (SP)",0.736
+"Sanclerlândia (GO)",0.736
+"São Borja (RS)",0.736
+"Camargo (RS)",0.736
+"Atalaia (PR)",0.736
+"Floresta (PR)",0.736
+"Mendes (RJ)",0.736
+"Conchas (SP)",0.736
+"Iepê (SP)",0.736
+"Ipira (SC)",0.736
+"Grão Pará (SC)",0.736
+"São Gotardo (MG)",0.736
+"Maracaju (MS)",0.736
+"Navegantes (SC)",0.736
+"Pereiras (SP)",0.736
+"Porto Velho (RO)",0.736
+"Unaí (MG)",0.736
+"Pariquera-Açu (SP)",0.736
+"Nova Itaberaba (SC)",0.736
+"Bom Jesus da Penha (MG)",0.735
+"Santa Rita do Trivelato (MT)",0.735
+"Nova Independência (SP)",0.735
+"Valentim Gentil (SP)",0.735
+"Presidente Alves (SP)",0.735
+"Porto Rico (PR)",0.735
+"Santa Branca (SP)",0.735
+"Itapevi (SP)",0.735
+"Lauro Muller (SC)",0.735
+"Embu (SP)",0.735
+"Olinda (PE)",0.735
+"Marialva (PR)",0.735
+"Tabapuã (SP)",0.735
+"Aspásia (SP)",0.735
+"São Mateus (ES)",0.735
+"Jaciara (MT)",0.735
+"Nova Esperança do Sul (RS)",0.735
+"Caçador (SC)",0.735
+"Buritizal (SP)",0.735
+"Cabo Frio (RJ)",0.735
+"Jardinópolis (SP)",0.735
+"Xangri-Lá (RS)",0.735
+"Glicério (SP)",0.735
+"Alto Feliz (RS)",0.734
+"Pontal do Araguaia (MT)",0.734
+"Sarzedo (MG)",0.734
+"Bom Jesus do Norte (ES)",0.734
+"São Pedro de Alcântara (SC)",0.734
+"Divinolândia (SP)",0.734
+"Barra do Guarita (RS)",0.734
+"Andradas (MG)",0.734
+"Cássia dos Coqueiros (SP)",0.734
+"Morrinhos (GO)",0.734
+"Barroso (MG)",0.734
+"Muriaé (MG)",0.734
+"Cristais Paulista (SP)",0.734
+"Rincão (SP)",0.734
+"Campo Novo do Parecis (MT)",0.734
+"Cambé (PR)",0.734
+"Bernardino de Campos (SP)",0.734
+"Cajobi (SP)",0.734
+"Telêmaco Borba (PR)",0.734
+"Várzea Grande (MT)",0.734
+"Renascença (PR)",0.733
+"Montividiu (GO)",0.733
+"Jarinu (SP)",0.733
+"Taquari (RS)",0.733
+"Iacri (SP)",0.733
+"Triunfo (RS)",0.733
+"Lucianópolis (SP)",0.733
+"Colombo (PR)",0.733
+"Bananal (SP)",0.733
+"Macapá (AP)",0.733
+"Aurora (SC)",0.733
+"Ariranha (SP)",0.733
+"Santa Clara D'Oeste (SP)",0.733
+"Barra do Piraí (RJ)",0.733
+"Pradópolis (SP)",0.733
+"Protásio Alves (RS)",0.733
+"Monte Mor (SP)",0.733
+"Carmo do Rio Claro (MG)",0.733
+"Caldas Novas (GO)",0.733
+"Atalanta (SC)",0.733
+"Arabutã (SC)",0.733
+"Nova Aurora (PR)",0.733
+"Arraial do Cabo (RJ)",0.733
+"União da Serra (RS)",0.733
+"Gentil (RS)",0.733
+"Céu Azul (PR)",0.732
+"Paulista (PE)",0.732
+"São Jorge (RS)",0.732
+"Flórida (PR)",0.732
+"Pontes Gestal (SP)",0.732
+"Salesópolis (SP)",0.732
+"Urutaí (GO)",0.732
+"Itapeva (SP)",0.732
+"Firminópolis (GO)",0.732
+"Extrema (MG)",0.732
+"Quintana (SP)",0.732
+"Rodeio Bonito (RS)",0.732
+"Bom Jesus do Itabapoana (RJ)",0.732
+"Chiapetta (RS)",0.732
+"Aragarças (GO)",0.732
+"Palestina (SP)",0.732
+"Piacatu (SP)",0.732
+"Paranapuã (SP)",0.732
+"Santo Expedito (SP)",0.732
+"Jaborá (SC)",0.732
+"Sacramento (MG)",0.732
+"Engenheiro Coelho (SP)",0.732
+"Pedro Afonso (TO)",0.732
+"Guarani D'Oeste (SP)",0.732
+"Lagoa da Prata (MG)",0.732
+"Fartura (SP)",0.732
+"Santo Expedito do Sul (RS)",0.732
+"Sapezal (MT)",0.732
+"Goioerê (PR)",0.731
+"Castilho (SP)",0.731
+"Guarapuava (PR)",0.731
+"Vilhena (RO)",0.731
+"São José do Cedro (SC)",0.731
+"Meridiano (SP)",0.731
+"Relvado (RS)",0.731
+"Tambaú (SP)",0.731
+"Soledade (RS)",0.731
+"Rio Quente (GO)",0.731
+"Fraiburgo (SC)",0.731
+"Nova Santa Rosa (PR)",0.731
+"Franco da Rocha (SP)",0.731
+"Marinópolis (SP)",0.731
+"Luís Antônio (SP)",0.731
+"Guararema (SP)",0.731
+"Sabará (MG)",0.731
+"Imperatriz (MA)",0.731
+"São Bonifácio (SC)",0.731
+"Três Pontas (MG)",0.731
+"Tamboara (PR)",0.731
+"Guarapari (ES)",0.731
+"Pirapora (MG)",0.731
+"São Luís de Montes Belos (GO)",0.731
+"Boa Vista do Incra (RS)",0.731
+"Itapejara D'Oeste (PR)",0.731
+"Grupiara (MG)",0.731
+"Matozinhos (MG)",0.731
+"Frutal (MG)",0.73
+"Bertioga (SP)",0.73
+"Teresópolis (RJ)",0.73
+"Anchieta (ES)",0.73
+"Ivaiporã (PR)",0.73
+"Raposos (MG)",0.73
+"Sagres (SP)",0.73
+"Óleo (SP)",0.73
+"Itabirito (MG)",0.73
+"Guaíba (RS)",0.73
+"Guarujá do Sul (SC)",0.73
+"Palmelo (GO)",0.73
+"Engenheiro Beltrão (PR)",0.73
+"Caçu (GO)",0.73
+"Itajobi (SP)",0.73
+"Itaperuna (RJ)",0.73
+"Ipiguá (SP)",0.73
+"Natividade (RJ)",0.73
+"Tupãssi (PR)",0.73
+"Mineiros do Tietê (SP)",0.73
+"Borda da Mata (MG)",0.73
+"Colorado (PR)",0.73
+"Ilópolis (RS)",0.73
+"Casa Branca (SP)",0.73
+"Embaúba (SP)",0.73
+"Adolfo (SP)",0.73
+"Patrocínio Paulista (SP)",0.73
+"Altinópolis (SP)",0.73
+"Mariano Moro (RS)",0.73
+"Borborema (SP)",0.73
+"Quilombo (SC)",0.73
+"Salto de Pirapora (SP)",0.729
+"Serrana (SP)",0.729
+"São Gabriel do Oeste (MS)",0.729
+"Iconha (ES)",0.729
+"Rio Bom (PR)",0.729
+"Assis Chateaubriand (PR)",0.729
+"Cidreira (RS)",0.729
+"Pratápolis (MG)",0.729
+"Tangará da Serra (MT)",0.729
+"Água Boa (MT)",0.729
+"Barra Mansa (RJ)",0.729
+"Laranjal Paulista (SP)",0.729
+"São José da Lapa (MG)",0.729
+"Rio dos Cedros (SC)",0.729
+"Socorro (SP)",0.729
+"Pedrinópolis (MG)",0.729
+"Conquista (MG)",0.729
+"Caiabu (SP)",0.729
+"Paraisópolis (MG)",0.729
+"Zacarias (SP)",0.729
+"Lavrinhas (SP)",0.729
+"Diorama (GO)",0.729
+"Cerqueira César (SP)",0.729
+"Cordeiro (RJ)",0.729
+"Rio do Campo (SC)",0.729
+"Patrocínio (MG)",0.729
+"Roca Sales (RS)",0.729
+"Chavantes (SP)",0.729
+"Treze de Maio (SC)",0.729
+"Cajamar (SP)",0.728
+"Venda Nova do Imigrante (ES)",0.728
+"Santa Albertina (SP)",0.728
+"Pains (MG)",0.728
+"Pedras Grandes (SC)",0.728
+"Cândido Godói (RS)",0.728
+"Armação dos Búzios (RJ)",0.728
+"Assaí (PR)",0.728
+"Sabino (SP)",0.728
+"Monte Carmelo (MG)",0.728
+"Caeté (MG)",0.728
+"Ipê (RS)",0.728
+"Reginópolis (SP)",0.728
+"Tuiuti (SP)",0.728
+"Carambeí (PR)",0.728
+"Terra Boa (PR)",0.728
+"Balneário Gaivota (SC)",0.728
+"Tuparendi (RS)",0.728
+"São Lourenço da Serra (SP)",0.728
+"Caibi (SC)",0.728
+"Santa Cruz das Palmeiras (SP)",0.728
+"Sombrio (SC)",0.728
+"Álvares Florence (SP)",0.728
+"Santiago do Sul (SC)",0.728
+"Boa Vista do Sul (RS)",0.728
+"Guaimbê (SP)",0.728
+"Mato Castelhano (RS)",0.727
+"São João (PR)",0.727
+"Rio Branco (AC)",0.727
+"Coronel Pilar (RS)",0.727
+"Santa Helena (SC)",0.727
+"Pardinho (SP)",0.727
+"Igaraçu do Tietê (SP)",0.727
+"Ipaussu (SP)",0.727
+"Areado (MG)",0.727
+"Rialma (GO)",0.727
+"Cachoeira de Goiás (GO)",0.727
+"Governador Valadares (MG)",0.727
+"Piúma (ES)",0.727
+"Ubirajara (SP)",0.727
+"Porangatu (GO)",0.727
+"Ipiranga do Norte (MT)",0.727
+"Itutinga (MG)",0.727
+"Cassilândia (MS)",0.727
+"Taquara (RS)",0.727
+"Emilianópolis (SP)",0.727
+"Herculândia (SP)",0.727
+"Sant'Ana do Livramento (RS)",0.727
+"Pirapora do Bom Jesus (SP)",0.727
+"Goianésia (GO)",0.727
+"Flora Rica (SP)",0.727
+"Bandeirantes (PR)",0.727
+"Ermo (SC)",0.726
+"Pérola D'Oeste (PR)",0.726
+"Cachoeira Dourada (MG)",0.726
+"Jacutinga (RS)",0.726
+"Itapuranga (GO)",0.726
+"Castelo (ES)",0.726
+"Além Paraíba (MG)",0.726
+"Ibiporã (PR)",0.726
+"Leopoldina (MG)",0.726
+"Ibiraçu (ES)",0.726
+"Murutinga do Sul (SP)",0.726
+"Nova Guataporanga (SP)",0.726
+"Camboriú (SC)",0.726
+"São Martinho (RS)",0.726
+"Iguape (SP)",0.726
+"Munhoz de Melo (PR)",0.726
+"Tarabai (SP)",0.726
+"Irati (PR)",0.726
+"Itumirim (MG)",0.726
+"Casimiro de Abreu (RJ)",0.726
+"Sapucaia do Sul (RS)",0.726
+"Goiatuba (GO)",0.725
+"Paulo de Faria (SP)",0.725
+"Santa Bárbara do Sul (RS)",0.725
+"Matelândia (PR)",0.725
+"Guapiaçu (SP)",0.725
+"Valparaíso (SP)",0.725
+"Alpinópolis (MG)",0.725
+"Ponte Preta (RS)",0.725
+"Itapaci (GO)",0.725
+"Cambira (PR)",0.725
+"Ibiam (SC)",0.725
+"Santa Cecília do Sul (RS)",0.725
+"Sertaneja (PR)",0.725
+"São Tomé (PR)",0.725
+"Pacaembu (SP)",0.725
+"Pontão (RS)",0.725
+"Três Rios (RJ)",0.725
+"Agrolândia (SC)",0.725
+"Vitória Brasil (SP)",0.725
+"Clementina (SP)",0.725
+"Miraguaí (RS)",0.725
+"Carrancas (MG)",0.725
+"São Manoel do Paraná (PR)",0.725
+"Itapuí (SP)",0.725
+"Pará de Minas (MG)",0.725
+"Pontal (SP)",0.725
+"Ilha Comprida (SP)",0.725
+"Garuva (SC)",0.725
+"Pinhalzinho (SP)",0.725
+"Barrinha (SP)",0.725
+"Pitangui (MG)",0.725
+"Anhanguera (GO)",0.725
+"São José do Sul (RS)",0.725
+"Andirá (PR)",0.725
+"Loanda (PR)",0.725
+"Dois Córregos (SP)",0.725
+"Araputanga (MT)",0.725
+"Ibiraiaras (RS)",0.724
+"Ubá (MG)",0.724
+"São João Batista do Glória (MG)",0.724
+"Angra dos Reis (RJ)",0.724
+"Lupércio (SP)",0.724
+"Itirapina (SP)",0.724
+"Botuverá (SC)",0.724
+"Florestal (MG)",0.724
+"Linhares (ES)",0.724
+"Indianópolis (PR)",0.724
+"Mirante do Paranapanema (SP)",0.724
+"Santo Antônio do Monte (MG)",0.724
+"Guaíra (PR)",0.724
+"Monte Sião (MG)",0.724
+"Doutor Ricardo (RS)",0.724
+"Douradina (PR)",0.724
+"Carvalhópolis (MG)",0.724
+"Ronda Alta (RS)",0.724
+"Mesópolis (SP)",0.724
+"Arapuá (MG)",0.724
+"Ivorá (RS)",0.724
+"São João da Paraúna (GO)",0.724
+"Marcelino Ramos (RS)",0.724
+"Paço do Lumiar (MA)",0.724
+"Luz (MG)",0.724
+"Santa Helena de Goiás (GO)",0.724
+"Águas Mornas (SC)",0.723
+"Capinópolis (MG)",0.723
+"Bom Progresso (RS)",0.723
+"Vespasiano Correa (RS)",0.723
+"Perdizes (MG)",0.723
+"Jaci (SP)",0.723
+"Cruzeiro do Sul (RS)",0.723
+"Seberi (RS)",0.723
+"Gastão Vidigal (SP)",0.723
+"Pirajuba (MG)",0.723
+"Sertanópolis (PR)",0.723
+"Coronel Vivida (PR)",0.723
+"Santa Cecília do Pavão (PR)",0.723
+"Santo Antônio de Goiás (GO)",0.723
+"Peabiru (PR)",0.723
+"Pitangueiras (SP)",0.723
+"São Francisco (SP)",0.723
+"Porto Xavier (RS)",0.723
+"Arapoti (PR)",0.723
+"Taciba (SP)",0.723
+"Erval Velho (SC)",0.723
+"Rinópolis (SP)",0.723
+"Barra do Rio Azul (RS)",0.723
+"Juruaia (MG)",0.723
+"Itapagipe (MG)",0.723
+"Diamante do Norte (PR)",0.723
+"Formosa do Oeste (PR)",0.723
+"Panorama (SP)",0.722
+"Queluz (SP)",0.722
+"Realeza (PR)",0.722
+"Iraceminha (SC)",0.722
+"Água Limpa (GO)",0.722
+"Barão de Cocais (MG)",0.722
+"Califórnia (PR)",0.722
+"Ouro Fino (MG)",0.722
+"Nova Esperança (PR)",0.722
+"Cosmorama (SP)",0.722
+"Cardoso (SP)",0.722
+"Palminópolis (GO)",0.722
+"Virmond (PR)",0.722
+"Alvinlândia (SP)",0.722
+"Engenheiro Paulo de Frontin (RJ)",0.722
+"Arco-Íris (SP)",0.722
+"Palmares Paulista (SP)",0.722
+"Canápolis (MG)",0.722
+"São Jorge D'Oeste (PR)",0.722
+"Marmeleiro (PR)",0.722
+"Trabiju (SP)",0.722
+"São Sebastião do Paraíso (MG)",0.722
+"Uraí (PR)",0.721
+"Marumbi (PR)",0.721
+"Cambará (PR)",0.721
+"Capão Bonito (SP)",0.721
+"Nerópolis (GO)",0.721
+"Aparecida D'Oeste (SP)",0.721
+"Nova Andradina (MS)",0.721
+"Altônia (PR)",0.721
+"Glória de Dourados (MS)",0.721
+"Martinópolis (SP)",0.721
+"Rubiácea (SP)",0.721
+"Barreiras (BA)",0.721
+"Piracanjuba (GO)",0.721
+"Pratinha (MG)",0.721
+"Paranaíba (MS)",0.721
+"Jaguaruna (SC)",0.721
+"Anhembi (SP)",0.721
+"Monsenhor Paulo (MG)",0.721
+"Kaloré (PR)",0.721
+"Giruá (RS)",0.721
+"Igrejinha (RS)",0.721
+"Ribeirão dos Índios (SP)",0.721
+"Santa Rita do Sapucaí (MG)",0.721
+"Moema (MG)",0.721
+"Vacaria (RS)",0.721
+"Piranhas (GO)",0.721
+"Cascalho Rico (MG)",0.721
+"Lavínia (SP)",0.721
+"Maceió (AL)",0.721
+"Alegre (ES)",0.721
+"Japaraíba (MG)",0.721
+"Parisi (SP)",0.721
+"Uchoa (SP)",0.721
+"Ângulo (PR)",0.721
+"Curitibanos (SC)",0.721
+"Mossoró (RN)",0.72
+"São Bento do Sapucaí (SP)",0.72
+"Verê (PR)",0.72
+"São Simão (GO)",0.72
+"Itapeva (MG)",0.72
+"Palmitinho (RS)",0.72
+"São João das Duas Pontes (SP)",0.72
+"Pouso Redondo (SC)",0.72
+"Paracambi (RJ)",0.72
+"Fazenda Rio Grande (PR)",0.72
+"São Valentim (RS)",0.72
+"Matias Barbosa (MG)",0.72
+"Faxinal do Soturno (RS)",0.72
+"Cananéia (SP)",0.72
+"Caconde (SP)",0.72
+"Itapura (SP)",0.72
+"Pinhal (RS)",0.72
+"Boa Esperança (PR)",0.72
+"Ourizona (PR)",0.72
+"Ivinhema (MS)",0.72
+"Inhumas (GO)",0.72
+"Passo de Torres (SC)",0.72
+"Uniflor (PR)",0.72
+"André da Rocha (RS)",0.72
+"Campina Grande (PB)",0.72
+"Icém (SP)",0.72
+"Santa Isabel do Ivaí (PR)",0.72
+"Lutécia (SP)",0.72
+"Timbé do Sul (SC)",0.72
+"Paiva (MG)",0.72
+"Alto Horizonte (GO)",0.719
+"Celso Ramos (SC)",0.719
+"Gavião Peixoto (SP)",0.719
+"Ouro Verde de Goiás (GO)",0.719
+"Iperó (SP)",0.719
+"Guaporema (PR)",0.719
+"Rubiataba (GO)",0.719
+"Guaraçaí (SP)",0.719
+"Itaporanga (SP)",0.719
+"Platina (SP)",0.719
+"Salmourão (SP)",0.719
+"Mamborê (PR)",0.719
+"Angatuba (SP)",0.719
+"Coroados (SP)",0.719
+"São João de Meriti (RJ)",0.719
+"Guariba (SP)",0.719
+"São José dos Quatro Marcos (MT)",0.719
+"Paraibuna (SP)",0.719
+"Planalto (SP)",0.719
+"Novais (SP)",0.719
+"São Mateus do Sul (PR)",0.719
+"Dores do Indaiá (MG)",0.719
+"Caibaté (RS)",0.719
+"Jupiá (SC)",0.719
+"Itaberaí (GO)",0.719
+"Mombuca (SP)",0.719
+"Tramandaí (RS)",0.719
+"Cruzaltense (RS)",0.719
+"Tupaciguara (MG)",0.719
+"Ciríaco (RS)",0.719
+"Barão de Cotegipe (RS)",0.719
+"Mandaguaçu (PR)",0.718
+"Praia Grande (SC)",0.718
+"Nova Veneza (GO)",0.718
+"Diamantino (MT)",0.718
+"Tupandi (RS)",0.718
+"Santo Antônio da Platina (PR)",0.718
+"Ananindeua (PA)",0.718
+"Tombos (MG)",0.718
+"Guará (SP)",0.718
+"Vargem Bonita (SC)",0.718
+"Paial (SC)",0.718
+"Araruama (RJ)",0.718
+"Mineiros (GO)",0.718
+"Cacoal (RO)",0.718
+"Aparecida de Goiânia (GO)",0.718
+"Itaguaru (GO)",0.718
+"Itauçu (GO)",0.718
+"Conquista D'Oeste (MT)",0.718
+"Santo Antônio de Pádua (RJ)",0.718
+"Campina Grande do Sul (PR)",0.718
+"Lagamar (MG)",0.718
+"Ibiá (MG)",0.718
+"Narandiba (SP)",0.718
+"Dobrada (SP)",0.718
+"Jussara (PR)",0.718
+"Cariacica (ES)",0.718
+"Jaboti (PR)",0.718
+"Três Cachoeiras (RS)",0.718
+"Palmeira (PR)",0.718
+"Fundão (ES)",0.718
+"Mariápolis (SP)",0.718
+"Paulistânia (SP)",0.718
+"Cidade Gaúcha (PR)",0.718
+"Nova Santa Rita (RS)",0.718
+"Bom Jesus (SC)",0.718
+"Salto do Lontra (PR)",0.718
+"Fama (MG)",0.717
+"Cruzeiro do Oeste (PR)",0.717
+"Borrazópolis (PR)",0.717
+"Nova Aliança do Ivaí (PR)",0.717
+"Paranapanema (SP)",0.717
+"Ponte Nova (MG)",0.717
+"Piranguinho (MG)",0.717
+"Tigrinhos (SC)",0.717
+"Campina do Monte Alegre (SP)",0.717
+"Itobi (SP)",0.717
+"Getulina (SP)",0.717
+"São José do Alegre (MG)",0.717
+"Engenho Velho (RS)",0.717
+"Juatuba (MG)",0.717
+"Ocauçu (SP)",0.717
+"Viamão (RS)",0.717
+"Paranacity (PR)",0.717
+"São Pedro do Ivaí (PR)",0.717
+"Jacupiranga (SP)",0.717
+"Cidade Ocidental (GO)",0.717
+"Guaratuba (PR)",0.717
+"Mato Queimado (RS)",0.717
+"Guatambú (SC)",0.717
+"Eldorado do Sul (RS)",0.717
+"Santo Antônio da Patrulha (RS)",0.717
+"Jaboatão dos Guararapes (PE)",0.717
+"Paula Freitas (PR)",0.717
+"Santa Inês (PR)",0.717
+"São José do Herval (RS)",0.717
+"Goianá (MG)",0.716
+"Petrolândia (SC)",0.716
+"Júlio Mesquita (SP)",0.716
+"Jacinto Machado (SC)",0.716
+"Diamantina (MG)",0.716
+"Taquaral de Goiás (GO)",0.716
+"Paiçandu (PR)",0.716
+"Luís Eduardo Magalhães (BA)",0.716
+"Manoel Ribas (PR)",0.716
+"Matupá (MT)",0.716
+"Campos dos Goytacazes (RJ)",0.716
+"Doutor Pedrinho (SC)",0.716
+"Ribeirão Claro (PR)",0.716
+"Juína (MT)",0.716
+"Fênix (PR)",0.716
+"Bela Vista do Paraíso (PR)",0.716
+"Torixoréu (MT)",0.716
+"Santo Antônio do Paraíso (PR)",0.716
+"Paulo Lopes (SC)",0.716
+"Capitão Leônidas Marques (PR)",0.716
+"Piedade (SP)",0.716
+"Júlio de Castilhos (RS)",0.716
+"Ernestina (RS)",0.716
+"Balneário Barra do Sul (SC)",0.716
+"Bela Vista de Goiás (GO)",0.716
+"Nova Prata do Iguaçu (PR)",0.716
+"Davinópolis (GO)",0.716
+"Putinga (RS)",0.715
+"Santa Carmem (MT)",0.715
+"Orizona (GO)",0.715
+"Arvoredo (SC)",0.715
+"Formosa do Sul (SC)",0.715
+"Severínia (SP)",0.715
+"Rio Brilhante (MS)",0.715
+"Morungaba (SP)",0.715
+"Flórida Paulista (SP)",0.715
+"Itaguaí (RJ)",0.715
+"Passa Quatro (MG)",0.715
+"Niquelândia (GO)",0.715
+"Pinheiral (RJ)",0.715
+"Nova Canaã Paulista (SP)",0.715
+"Machado (MG)",0.715
+"Nova Serrana (MG)",0.715
+"Queiroz (SP)",0.715
+"Pedregulho (SP)",0.715
+"Santa Luzia (MG)",0.715
+"Formoso (GO)",0.715
+"São Sebastião da Amoreira (PR)",0.715
+"Parauapebas (PA)",0.715
+"Aguaí (SP)",0.715
+"Farol (PR)",0.715
+"Quinta do Sol (PR)",0.715
+"Paraguaçu (MG)",0.715
+"Jacutinga (MG)",0.715
+"Pouso Novo (RS)",0.715
+"Palmares do Sul (RS)",0.715
+"Jaguapitã (PR)",0.715
+"São Vicente de Minas (MG)",0.715
+"São Gonçalo do Sapucaí (MG)",0.715
+"Sobral (CE)",0.714
+"Vassouras (RJ)",0.714
+"Nantes (SP)",0.714
+"Mormaço (RS)",0.714
+"Nova Santa Helena (MT)",0.714
+"Riqueza (SC)",0.714
+"Fátima do Sul (MS)",0.714
+"Glorinha (RS)",0.714
+"Itaquaquecetuba (SP)",0.714
+"Campo Alegre (SC)",0.714
+"Avaí (SP)",0.714
+"Catanduvas (SC)",0.714
+"Santa Teresa (ES)",0.714
+"Laranjal (MG)",0.714
+"Santa Rita do Araguaia (GO)",0.714
+"Juscimeira (MT)",0.714
+"Anicuns (GO)",0.714
+"Populina (SP)",0.714
+"Santo Antônio do Jardim (SP)",0.714
+"Alta Floresta (MT)",0.714
+"Quatiguá (PR)",0.714
+"Terra Roxa (PR)",0.714
+"Ji-Paraná (RO)",0.714
+"Torre de Pedra (SP)",0.714
+"Tapurah (MT)",0.714
+"Nova Esperança do Sudoeste (PR)",0.714
+"Rio Pomba (MG)",0.714
+"Ijaci (MG)",0.714
+"Seropédica (RJ)",0.713
+"Carmo do Rio Verde (GO)",0.713
+"Bom Jesus dos Perdões (SP)",0.713
+"Itaí (SP)",0.713
+"Itaocara (RJ)",0.713
+"Nipoã (SP)",0.713
+"Portão (RS)",0.713
+"Águas de Chapecó (SC)",0.713
+"Crato (CE)",0.713
+"Canudos do Vale (RS)",0.713
+"São José das Palmeiras (PR)",0.713
+"Perobal (PR)",0.713
+"Itaqui (RS)",0.713
+"Carlópolis (PR)",0.713
+"Irapuã (SP)",0.713
+"Nova Iguaçu (RJ)",0.713
+"Guarantã (SP)",0.713
+"Palestina de Goiás (GO)",0.713
+"Cruzeiro do Sul (PR)",0.713
+"Imbuia (SC)",0.713
+"Colíder (MT)",0.713
+"Carapebus (RJ)",0.713
+"Porto Real (RJ)",0.713
+"Itapecerica (MG)",0.713
+"Curvelo (MG)",0.713
+"Florínia (SP)",0.713
+"Miracema (RJ)",0.713
+"Presidente Castelo Branco (PR)",0.713
+"Santa Fé de Goiás (GO)",0.713
+"Cajuru (SP)",0.713
+"Rondon (PR)",0.713
+"Alto Paraíso de Goiás (GO)",0.713
+"Venâncio Aires (RS)",0.712
+"Itabuna (BA)",0.712
+"Bom Jesus do Oeste (SC)",0.712
+"Lindolfo Collor (RS)",0.712
+"Vianópolis (GO)",0.712
+"Conceição de Macabu (RJ)",0.712
+"Santa Vitória do Palmar (RS)",0.712
+"Eugênio de Castro (RS)",0.712
+"Petrolina de Goiás (GO)",0.712
+"Nova Venécia (ES)",0.712
+"Alambari (SP)",0.712
+"Biritiba-Mirim (SP)",0.712
+"Crissiumal (RS)",0.712
+"Erebango (RS)",0.712
+"Planura (MG)",0.712
+"Ribeirão Bonito (SP)",0.712
+"Jaguari (RS)",0.712
+"Uru (SP)",0.712
+"Tapira (MG)",0.712
+"Congonhal (MG)",0.712
+"Conceição das Alagoas (MG)",0.712
+"Japurá (PR)",0.712
+"Morro Agudo (SP)",0.712
+"Sede Nova (RS)",0.712
+"Feira de Santana (BA)",0.712
+"Irapuru (SP)",0.712
+"Jardim (MS)",0.712
+"São Pedro da Aldeia (RJ)",0.712
+"Morrinhos do Sul (RS)",0.711
+"Rio Novo do Sul (ES)",0.711
+"Paulicéia (SP)",0.711
+"Vicentina (MS)",0.711
+"Barão de Antonina (SP)",0.711
+"Paranaiguara (GO)",0.711
+"Campo Belo (MG)",0.711
+"Jaborandi (SP)",0.711
+"Piquerobi (SP)",0.711
+"Ribeirão Corrente (SP)",0.711
+"Alcinópolis (MS)",0.711
+"Sapiranga (RS)",0.711
+"Cezarina (GO)",0.711
+"Israelândia (GO)",0.711
+"Igaratá (SP)",0.711
+"Medeiros (MG)",0.711
+"Lambari (MG)",0.711
+"Varjão de Minas (MG)",0.711
+"Chiador (MG)",0.711
+"Missal (PR)",0.711
+"Duque de Caxias (RJ)",0.711
+"Barracão (RS)",0.71
+"Pinheirinho do Vale (RS)",0.71
+"Novo Itacolomi (PR)",0.71
+"Marechal Floriano (ES)",0.71
+"Timburi (SP)",0.71
+"Nazário (GO)",0.71
+"Witmarsum (SC)",0.71
+"Glória D'Oeste (MT)",0.71
+"Brejo Alegre (SP)",0.71
+"Pimenta Bueno (RO)",0.71
+"Santa Vitória (MG)",0.71
+"Lima Duarte (MG)",0.71
+"Buriti Alegre (GO)",0.71
+"Três Coroas (RS)",0.71
+"Lupionópolis (PR)",0.71
+"Itanhangá (MT)",0.71
+"Paulo Bento (RS)",0.71
+"Ibiúna (SP)",0.71
+"Ibaiti (PR)",0.71
+"Nova Olímpia (PR)",0.71
+"São Miguel da Boa Vista (SC)",0.71
+"Apiaí (SP)",0.71
+"São Miguel Arcanjo (SP)",0.71
+"Alfredo Chaves (ES)",0.71
+"Quarto Centenário (PR)",0.71
+"Rio Bonito (RJ)",0.71
+"Colômbia (SP)",0.71
+"Prado Ferreira (PR)",0.71
+"Limeira do Oeste (MG)",0.71
+"Monteiro Lobato (SP)",0.71
+"Monte Santo de Minas (MG)",0.71
+"Terra Rica (PR)",0.71
+"Pouso Alto (MG)",0.71
+"Carmo do Cajuru (MG)",0.71
+"Leandro Ferreira (MG)",0.71
+"Estrela Dalva (MG)",0.71
+"Santa Cruz de Monte Castelo (PR)",0.71
+"Caicó (RN)",0.71
+"Cachoeira Alta (GO)",0.71
+"Pitangueiras (PR)",0.71
+"Capitólio (MG)",0.71
+"Bataguassu (MS)",0.71
+"Taiaçu (SP)",0.71
+"Ouro Verde do Oeste (PR)",0.709
+"Tupanciretã (RS)",0.709
+"Juquitiba (SP)",0.709
+"Cantagalo (RJ)",0.709
+"Sandovalina (SP)",0.709
+"Cláudio (MG)",0.709
+"Saquarema (RJ)",0.709
+"Goiás (GO)",0.709
+"Nova Era (MG)",0.709
+"Magé (RJ)",0.709
+"Ampére (PR)",0.709
+"Serra do Navio (AP)",0.709
+"Visconde do Rio Branco (MG)",0.709
+"São Pedro do Sul (RS)",0.709
+"Rio Paranaíba (MG)",0.709
+"Dom Silvério (MG)",0.709
+"Silvânia (GO)",0.709
+"Paranapoema (PR)",0.709
+"Rio Negro (MS)",0.709
+"São Gabriel da Palha (ES)",0.709
+"Campanha (MG)",0.709
+"Gália (SP)",0.709
+"Nossa Senhora das Graças (PR)",0.709
+"Jardinópolis (SC)",0.709
+"Taguaí (SP)",0.709
+"Pirapetinga (MG)",0.709
+"Cruzeiro do Iguaçu (PR)",0.709
+"São Sepé (RS)",0.708
+"Campos Borges (RS)",0.708
+"Ibirarema (SP)",0.708
+"Piraí do Sul (PR)",0.708
+"Flor do Sertão (SC)",0.708
+"Paulo Frontin (PR)",0.708
+"Piraí (RJ)",0.708
+"Romaria (MG)",0.708
+"São José de Ribamar (MA)",0.708
+"Tenente Portela (RS)",0.708
+"Coromandel (MG)",0.708
+"Ibicaré (SC)",0.708
+"Crixás (GO)",0.708
+"Cáceres (MT)",0.708
+"Jateí (MS)",0.708
+"Juranda (PR)",0.708
+"Abadia de Goiás (GO)",0.708
+"Alvorada (TO)",0.708
+"Mallet (PR)",0.708
+"Conchal (SP)",0.708
+"Madre de Deus (BA)",0.708
+"Araporã (MG)",0.708
+"Alvorada do Sul (PR)",0.708
+"Dom Pedrito (RS)",0.708
+"Apiúna (SC)",0.708
+"São João Nepomuceno (MG)",0.708
+"Itaiópolis (SC)",0.708
+"Atilio Vivacqua (ES)",0.708
+"Galvão (SC)",0.708
+"Pedra do Indaiá (MG)",0.708
+"Mirim Doce (SC)",0.708
+"Áurea (RS)",0.707
+"Jandaia (GO)",0.707
+"Conselheiro Mairinck (PR)",0.707
+"Itaguajé (PR)",0.707
+"Santa Bárbara (MG)",0.707
+"Derrubadas (RS)",0.707
+"Várzea (PB)",0.707
+"São José do Hortêncio (RS)",0.707
+"Iracema do Oeste (PR)",0.707
+"Arroio do Tigre (RS)",0.707
+"Rio Branco (MT)",0.707
+"Rancho Alegre (PR)",0.707
+"Rio Novo (MG)",0.707
+"Iguatama (MG)",0.707
+"Montes Claros de Goiás (GO)",0.707
+"Matutina (MG)",0.707
+"Sul Brasil (SC)",0.707
+"Minaçu (GO)",0.707
+"Estrela do Norte (GO)",0.707
+"Jaguarão (RS)",0.707
+"Irati (SC)",0.707
+"Leópolis (PR)",0.707
+"Itirapuã (SP)",0.707
+"Sarapuí (SP)",0.707
+"Campos Novos Paulista (SP)",0.706
+"Cromínia (GO)",0.706
+"Santa Bárbara de Goiás (GO)",0.706
+"Planalto (PR)",0.706
+"Santa Cruz de Minas (MG)",0.706
+"Cachoeira de Minas (MG)",0.706
+"Três Barras (SC)",0.706
+"Mossâmedes (GO)",0.706
+"Ivaté (PR)",0.706
+"Campestre da Serra (RS)",0.706
+"Caetanópolis (MG)",0.706
+"Paim Filho (RS)",0.706
+"Santa Juliana (MG)",0.706
+"Campo Florido (MG)",0.706
+"Cesário Lange (SP)",0.706
+"Capanema (PR)",0.706
+"Iporã (PR)",0.706
+"Princesa (SC)",0.706
+"Dionísio Cerqueira (SC)",0.706
+"Itatinga (SP)",0.706
+"Xambrê (PR)",0.706
+"Costa Rica (MS)",0.706
+"Caratinga (MG)",0.706
+"Hidrolândia (GO)",0.706
+"Chuí (RS)",0.706
+"Lapa (PR)",0.706
+"Joviânia (GO)",0.706
+"Novo Horizonte (SC)",0.706
+"Novo Barreiro (RS)",0.706
+"Laranjeiras do Sul (PR)",0.706
+"Doutor Maurício Cardoso (RS)",0.706
+"Douradoquara (MG)",0.706
+"Ibiraci (MG)",0.706
+"Barracão (PR)",0.706
+"Santo Antônio do Pinhal (SP)",0.706
+"Coxilha (RS)",0.706
+"Planaltina do Paraná (PR)",0.705
+"Carmo do Paranaíba (MG)",0.705
+"Itamonte (MG)",0.705
+"Santa Rosa do Sul (SC)",0.705
+"União do Oeste (SC)",0.705
+"Avanhandava (SP)",0.705
+"Guiratinga (MT)",0.705
+"Belmonte (SC)",0.705
+"Itaju (SP)",0.705
+"Jesuítas (PR)",0.705
+"Ribeirão Grande (SP)",0.705
+"Restinga (SP)",0.705
+"Vila Lângaro (RS)",0.705
+"Borebi (SP)",0.705
+"Bofete (SP)",0.705
+"Santa Fé (PR)",0.705
+"Santa Tereza do Oeste (PR)",0.705
+"Alto Taquari (MT)",0.705
+"Inajá (PR)",0.705
+"Santa Rosa da Serra (MG)",0.705
+"Papanduva (SC)",0.704
+"Mateus Leme (MG)",0.704
+"Quaraí (RS)",0.704
+"Boa Esperança (MG)",0.704
+"Nova Marilândia (MT)",0.704
+"Campina da Lagoa (PR)",0.704
+"São José da Varginha (MG)",0.704
+"Lontras (SC)",0.704
+"Siqueira Campos (PR)",0.704
+"Arenápolis (MT)",0.704
+"Canas (SP)",0.704
+"Quissamã (RJ)",0.704
+"Tabatinga (SP)",0.704
+"Araçariguama (SP)",0.704
+"Santa Mônica (PR)",0.704
+"Nova Xavantina (MT)",0.704
+"Parobé (RS)",0.704
+"São Miguel do Iguaçu (PR)",0.704
+"São Pedro do Paraná (PR)",0.704
+"Chapadão do Lageado (SC)",0.704
+"Buritinópolis (GO)",0.704
+"Cássia (MG)",0.704
+"Ladário (MS)",0.704
+"Campina Verde (MG)",0.704
+"Ibirité (MG)",0.704
+"Salto do Itararé (PR)",0.704
+"Euclides da Cunha Paulista (SP)",0.704
+"Salto Grande (SP)",0.704
+"Araruna (PR)",0.704
+"Mirassol D'Oeste (MT)",0.704
+"Ivolândia (GO)",0.704
+"Palma Sola (SC)",0.704
+"Rancho Alegre D'Oeste (PR)",0.704
+"Alto Araguaia (MT)",0.704
+"Caçapava do Sul (RS)",0.704
+"Macuco (RJ)",0.703
+"Araquari (SC)",0.703
+"Itararé (SP)",0.703
+"Tapejara (PR)",0.703
+"Lagoa Formosa (MG)",0.703
+"Três Palmeiras (RS)",0.703
+"Uruana (GO)",0.703
+"Coxim (MS)",0.703
+"Perdigão (MG)",0.703
+"Porangaba (SP)",0.703
+"Guarantã do Norte (MT)",0.703
+"Riolândia (SP)",0.703
+"São Pedro do Turvo (SP)",0.703
+"Jeriquara (SP)",0.703
+"Boa Vista do Cadeado (RS)",0.703
+"Iguatu (PR)",0.703
+"Francisco Morato (SP)",0.703
+"Maria Helena (PR)",0.703
+"Fernão (SP)",0.703
+"Entre Rios do Sul (RS)",0.703
+"Iporanga (SP)",0.703
+"Campo Novo (RS)",0.703
+"Ibaté (SP)",0.703
+"Conceição dos Ouros (MG)",0.703
+"Guaçuí (ES)",0.703
+"Camapuã (MS)",0.703
+"Pontes E Lacerda (MT)",0.703
+"Goianápolis (GO)",0.703
+"Palma (MG)",0.703
+"Castro (PR)",0.703
+"Caseiros (RS)",0.703
+"Nonoai (RS)",0.702
+"Adelândia (GO)",0.702
+"Luiziânia (SP)",0.702
+"Edealina (GO)",0.702
+"Santo Antônio da Alegria (SP)",0.702
+"Dionísio (MG)",0.702
+"Santo Antônio de Posse (SP)",0.702
+"Botelhos (MG)",0.702
+"Pontalinda (SP)",0.702
+"Itaguaçu (ES)",0.702
+"Ariquemes (RO)",0.702
+"Correia Pinto (SC)",0.702
+"Inhaúma (MG)",0.702
+"Viadutos (RS)",0.702
+"Morro Redondo (RS)",0.702
+"Vitorino (PR)",0.702
+"Nortelândia (MT)",0.702
+"Paraíba do Sul (RJ)",0.702
+"Maria da Fé (MG)",0.702
+"Guapirama (PR)",0.702
+"Muitos Capões (RS)",0.702
+"Campos Altos (MG)",0.702
+"Baixo Guandu (ES)",0.702
+"Pitanga (PR)",0.702
+"Ponta Porã (MS)",0.701
+"Barra Bonita (SC)",0.701
+"Mariana Pimentel (RS)",0.701
+"Primeiro de Maio (PR)",0.701
+"Luziânia (GO)",0.701
+"Marcelândia (MT)",0.701
+"Colinas do Tocantins (TO)",0.701
+"Ribeirão do Pinhal (PR)",0.701
+"Bom Jesus de Goiás (GO)",0.701
+"Senador Canedo (GO)",0.701
+"Campo Magro (PR)",0.701
+"Morro Grande (SC)",0.701
+"Patos (PB)",0.701
+"Nova Ponte (MG)",0.701
+"Indiara (GO)",0.701
+"Travesseiro (RS)",0.701
+"Braganey (PR)",0.701
+"Araguainha (MT)",0.701
+"Presidente Olegário (MG)",0.701
+"Taquarituba (SP)",0.701
+"Pratânia (SP)",0.701
+"Santa Terezinha de Goiás (GO)",0.701
+"Eusébio (CE)",0.701
+"Alto Garças (MT)",0.701
+"Guaranésia (MG)",0.701
+"Brasilândia (MS)",0.701
+"Brazabrantes (GO)",0.701
+"Santa Rosa de Goiás (GO)",0.701
+"Florestópolis (PR)",0.701
+"Tabaí (RS)",0.701
+"São Sebastião da Grama (SP)",0.701
+"Ipameri (GO)",0.701
+"Nanuque (MG)",0.701
+"Castelândia (GO)",0.701
+"Dianópolis (TO)",0.701
+"Dona Eusébia (MG)",0.701
+"Centenário (RS)",0.701
+"Teófilo Otoni (MG)",0.701
+"Santo Antônio de Jesus (BA)",0.7
+"Alto Alegre (SP)",0.7
+"Pérola (PR)",0.7
+"Boqueirão do Leão (RS)",0.7
+"Bocaiúva (MG)",0.7
+"Ubarana (SP)",0.7
+"Aurilândia (GO)",0.7
+"Salgado Filho (PR)",0.7
+"Cachoeiras de Macacu (RJ)",0.7
+"Andrelândia (MG)",0.7
+"Boa Esperança do Iguaçu (PR)",0.7
+"Paraíso (SC)",0.7
+"Sangão (SC)",0.7
+"São Tomás de Aquino (MG)",0.7
+"Rolim de Moura (RO)",0.7
+"São Roque do Canaã (ES)",0.7
+"Santa Mariana (PR)",0.7
+"Naviraí (MS)",0.7
+"Porto Amazonas (PR)",0.7
+"Cacequi (RS)",0.7
+"Juquiá (SP)",0.7
+"Piraquara (PR)",0.7
+"Carmópolis de Minas (MG)",0.7
+"Conceição do Pará (MG)",0.7
+"Vidal Ramos (SC)",0.7
+"Americano do Brasil (GO)",0.7
+"Corumbá (MS)",0.7
+"Floriano (PI)",0.7
+"Ubiretama (RS)",0.7
+"Joaquim Távora (PR)",0.7
+"Rosário do Sul (RS)",0.699
+"Novo Alegre (TO)",0.699
+"Jaraguá (GO)",0.699
+"Oliveira (MG)",0.699
+"Cristalina (GO)",0.699
+"Suzanápolis (SP)",0.699
+"Vera Cruz do Oeste (PR)",0.699
+"Urupema (SC)",0.699
+"Mário Campos (MG)",0.699
+"Tomazina (PR)",0.699
+"Almirante Tamandaré (PR)",0.699
+"Vargem (SP)",0.699
+"Irineópolis (SC)",0.699
+"Alvorada (RS)",0.699
+"Lavras do Sul (RS)",0.699
+"Trindade (GO)",0.699
+"Cambuquira (MG)",0.699
+"Barbosa (SP)",0.699
+"Silvianópolis (MG)",0.699
+"Marzagão (GO)",0.699
+"Brochier (RS)",0.699
+"Anchieta (SC)",0.699
+"Caiçara (RS)",0.699
+"Maximiliano de Almeida (RS)",0.699
+"Capela do Alto (SP)",0.699
+"Cruz das Almas (BA)",0.699
+"Novo Brasil (GO)",0.699
+"Madre de Deus de Minas (MG)",0.699
+"Joanópolis (SP)",0.699
+"São Gabriel (RS)",0.699
+"Saudade do Iguaçu (PR)",0.699
+"Cláudia (MT)",0.699
+"Nobres (MT)",0.699
+"Douradina (MS)",0.699
+"Bom Retiro (SC)",0.699
+"Terra Nova do Norte (MT)",0.698
+"Campestre (MG)",0.698
+"Bela Vista (MS)",0.698
+"Guapimirim (RJ)",0.698
+"Corumbaíba (GO)",0.698
+"Arroio dos Ratos (RS)",0.698
+"Jerônimo Monteiro (ES)",0.698
+"Santana da Vargem (MG)",0.698
+"Abaeté (MG)",0.698
+"Claraval (MG)",0.698
+"Mariópolis (PR)",0.698
+"Cachoeira Dourada (GO)",0.698
+"Candiota (RS)",0.698
+"Fazenda Vilanova (RS)",0.698
+"Picos (PI)",0.698
+"Major Gercino (SC)",0.698
+"Ribeira (SP)",0.698
+"Palmeiras de Goiás (GO)",0.698
+"Santa Cecília (SC)",0.698
+"Araújos (MG)",0.698
+"Nova América da Colina (PR)",0.698
+"Guaraci (PR)",0.698
+"Água Doce (SC)",0.698
+"Igarapé (MG)",0.698
+"Passo do Sobrado (RS)",0.698
+"Porto Mauá (RS)",0.698
+"Canelinha (SC)",0.697
+"Miracatu (SP)",0.697
+"Cambará do Sul (RS)",0.697
+"Damolândia (GO)",0.697
+"Aloândia (GO)",0.697
+"Arantina (MG)",0.697
+"Carandaí (MG)",0.697
+"Aparecida do Taboado (MS)",0.697
+"Tapira (PR)",0.697
+"Areias (SP)",0.697
+"Bom Jesus do Sul (PR)",0.697
+"Rio das Antas (SC)",0.697
+"Comendador Gomes (MG)",0.697
+"Ingaí (MG)",0.697
+"São Miguel do Passa Quatro (GO)",0.697
+"Soledade de Minas (MG)",0.697
+"Porciúncula (RJ)",0.697
+"Fátima (TO)",0.697
+"Guapó (GO)",0.697
+"Dona Francisca (RS)",0.697
+"Potim (SP)",0.697
+"Petrolina (PE)",0.697
+"João Pinheiro (MG)",0.697
+"Caiuá (SP)",0.697
+"Combinado (TO)",0.697
+"Turvânia (GO)",0.697
+"Manhumirim (MG)",0.697
+"Guzolândia (SP)",0.697
+"Camaquã (RS)",0.697
+"Pinhalão (PR)",0.697
+"Maratá (RS)",0.697
+"São Luís do Paraitinga (SP)",0.697
+"Angélica (MS)",0.697
+"Janiópolis (PR)",0.696
+"Morada Nova de Minas (MG)",0.696
+"Turvolândia (MG)",0.696
+"Carmo (RJ)",0.696
+"Pracinha (SP)",0.696
+"Japira (PR)",0.696
+"Ipiranga de Goiás (GO)",0.696
+"Balneário Pinhal (RS)",0.696
+"Santa Izabel do Oeste (PR)",0.696
+"Ipiaçu (MG)",0.696
+"Bom Jardim da Serra (SC)",0.696
+"Marilândia (ES)",0.696
+"Tocos do Moji (MG)",0.696
+"Balsa Nova (PR)",0.696
+"Vargem Bonita (MG)",0.696
+"Estrela do Sul (MG)",0.696
+"Barbosa Ferraz (PR)",0.696
+"Espírito Santo do Turvo (SP)",0.696
+"Cruzeiro da Fortaleza (MG)",0.696
+"Alto Paraná (PR)",0.696
+"Coronel Martins (SC)",0.696
+"Moiporá (GO)",0.696
+"São Jerônimo (RS)",0.696
+"Brasnorte (MT)",0.696
+"Serra do Salitre (MG)",0.696
+"Pedro de Toledo (SP)",0.696
+"Santo Antônio do Caiuá (PR)",0.696
+"Abelardo Luz (SC)",0.696
+"Marataízes (ES)",0.696
+"Janaúba (MG)",0.696
+"Fortuna de Minas (MG)",0.696
+"Areiópolis (SP)",0.695
+"Tuneiras do Oeste (PR)",0.695
+"Capim Branco (MG)",0.695
+"Prata (MG)",0.695
+"Anahy (PR)",0.695
+"Cruzília (MG)",0.695
+"Tapes (RS)",0.695
+"São João do Sul (SC)",0.695
+"Carangola (MG)",0.695
+"Sarandi (PR)",0.695
+"Elias Fausto (SP)",0.695
+"Morro Agudo de Goiás (GO)",0.695
+"Iraí de Minas (MG)",0.695
+"Cristiano Otoni (MG)",0.695
+"Alegria (RS)",0.695
+"Tabaporã (MT)",0.695
+"Ouro Verde (SC)",0.695
+"Araçaí (MG)",0.695
+"Pinhal de São Bento (PR)",0.695
+"Paraopeba (MG)",0.694
+"Deodápolis (MS)",0.694
+"Urubici (SC)",0.694
+"José Boiteux (SC)",0.694
+"São João da Urtiga (RS)",0.694
+"Cajati (SP)",0.694
+"Governador Lindenberg (ES)",0.694
+"Itambaracá (PR)",0.694
+"Cabrália Paulista (SP)",0.694
+"Coqueiral (MG)",0.694
+"Abdon Batista (SC)",0.694
+"Camaçari (BA)",0.694
+"Piên (PR)",0.694
+"Clevelândia (PR)",0.694
+"Pequeri (MG)",0.694
+"Nova Alvorada do Sul (MS)",0.694
+"Juazeiro do Norte (CE)",0.694
+"Heitoraí (GO)",0.694
+"Santana de Cataguases (MG)",0.694
+"Astolfo Dutra (MG)",0.694
+"Goianira (GO)",0.694
+"Arvorezinha (RS)",0.694
+"Muqui (ES)",0.694
+"Agudo (RS)",0.694
+"São José do Seridó (RN)",0.694
+"Campo Alegre de Goiás (GO)",0.694
+"Tupanci do Sul (RS)",0.694
+"Itaguari (GO)",0.693
+"Araçu (GO)",0.693
+"Paraty (RJ)",0.693
+"Sulina (PR)",0.693
+"Rio Pardo (RS)",0.693
+"Caiapônia (GO)",0.693
+"Lagoinha (SP)",0.693
+"Ponte Serrada (SC)",0.693
+"São Patrício (GO)",0.693
+"Senador Salgado Filho (RS)",0.693
+"Itarumã (GO)",0.693
+"Rianápolis (GO)",0.693
+"São João do Ivaí (PR)",0.693
+"Aparecida do Rio Doce (GO)",0.693
+"Ipanema (MG)",0.693
+"Porto Lucena (RS)",0.693
+"Pirenópolis (GO)",0.693
+"Itaboraí (RJ)",0.693
+"Canarana (MT)",0.693
+"Guimarânia (MG)",0.693
+"São José da Bela Vista (SP)",0.693
+"Cafeara (PR)",0.693
+"Independência (RS)",0.693
+"Itaberá (SP)",0.693
+"Aporé (GO)",0.693
+"Guairaçá (PR)",0.693
+"Itiquira (MT)",0.693
+"Natércia (MG)",0.693
+"Barra do Bugres (MT)",0.693
+"Coqueiro Baixo (RS)",0.692
+"Campos Belos (GO)",0.692
+"Cafezal do Sul (PR)",0.692
+"Doresópolis (MG)",0.692
+"Santana (AP)",0.692
+"Ribeirãozinho (MT)",0.692
+"Inconfidentes (MG)",0.692
+"Córrego Danta (MG)",0.692
+"Cerejeiras (RO)",0.692
+"São Sebastião da Bela Vista (MG)",0.692
+"Bandeira do Sul (MG)",0.692
+"São Paulo das Missões (RS)",0.692
+"Romelândia (SC)",0.692
+"Recreio (MG)",0.692
+"Ouro Verde (SP)",0.692
+"Bossoroca (RS)",0.692
+"Inaciolândia (GO)",0.692
+"Aperibé (RJ)",0.692
+"Brasópolis (MG)",0.692
+"Córrego do Bom Jesus (MG)",0.692
+"Querência (MT)",0.692
+"Bom Sucesso (MG)",0.692
+"Machadinho (RS)",0.692
+"Cristais (MG)",0.692
+"Feliz Natal (MT)",0.692
+"Camaragibe (PE)",0.692
+"Caarapó (MS)",0.692
+"Dom Pedro de Alcântara (RS)",0.691
+"Poço Fundo (MG)",0.691
+"Conceição da Aparecida (MG)",0.691
+"Irecê (BA)",0.691
+"Nova Monte Verde (MT)",0.691
+"Itaguara (MG)",0.691
+"Marilândia do Sul (PR)",0.691
+"Turvelândia (GO)",0.691
+"São Fidélis (RJ)",0.691
+"Arambaré (RS)",0.691
+"Itajá (GO)",0.691
+"Santo Antônio da Barra (GO)",0.691
+"Currais Novos (RN)",0.691
+"Estiva (MG)",0.691
+"Candeias (BA)",0.691
+"Caxambu do Sul (SC)",0.691
+"Iraí (RS)",0.691
+"Cambuci (RJ)",0.691
+"Eldorado (SP)",0.691
+"Mara Rosa (GO)",0.691
+"Santarém (PA)",0.691
+"Itaúba (MT)",0.69
+"São Domingos do Prata (MG)",0.69
+"Santa Rita de Caldas (MG)",0.69
+"Pilar do Sul (SP)",0.69
+"Prudente de Morais (MG)",0.69
+"Ilhéus (BA)",0.69
+"Camacho (MG)",0.69
+"Quatis (RJ)",0.69
+"Major Vieira (SC)",0.69
+"Curvelândia (MT)",0.69
+"Lunardelli (PR)",0.69
+"Campo Erê (SC)",0.69
+"Porto Vera Cruz (RS)",0.69
+"Dom Aquino (MT)",0.69
+"Coronel Macedo (SP)",0.69
+"Nazareno (MG)",0.69
+"Guarda-Mor (MG)",0.69
+"Jaru (RO)",0.689
+"Pompéu (MG)",0.689
+"Muliterno (RS)",0.689
+"Sertão Santana (RS)",0.689
+"São Gonçalo do Pará (MG)",0.689
+"Abadia dos Dourados (MG)",0.689
+"Ponte Alta do Norte (SC)",0.689
+"Esperança Nova (PR)",0.689
+"Prados (MG)",0.689
+"Abadiânia (GO)",0.689
+"Jardim Alegre (PR)",0.689
+"Comodoro (MT)",0.689
+"Manhuaçu (MG)",0.689
+"Nova Hartz (RS)",0.689
+"Terra de Areia (RS)",0.689
+"Butiá (RS)",0.689
+"Santo Afonso (MT)",0.689
+"Rolador (RS)",0.689
+"Jequitibá (MG)",0.689
+"Figueirópolis (TO)",0.689
+"Quatro Irmãos (RS)",0.689
+"Carmo da Mata (MG)",0.689
+"Camanducaia (MG)",0.689
+"Tiradentes do Sul (RS)",0.689
+"Jaupaci (GO)",0.689
+"São Francisco de Sales (MG)",0.688
+"Vespasiano (MG)",0.688
+"Porto Barreiro (PR)",0.688
+"Querência do Norte (PR)",0.688
+"Sarutaiá (SP)",0.688
+"São José do Calçado (ES)",0.688
+"Biquinhas (MG)",0.688
+"Roque Gonzales (RS)",0.688
+"Aquidauana (MS)",0.688
+"Campinorte (GO)",0.688
+"Cristianópolis (GO)",0.688
+"Monte Belo (MG)",0.688
+"Dom Cavati (MG)",0.688
+"Álvaro de Carvalho (SP)",0.688
+"Jundiaí do Sul (PR)",0.688
+"Italva (RJ)",0.688
+"Mangueirinha (PR)",0.688
+"Tocantins (MG)",0.688
+"Chapada dos Guimarães (MT)",0.688
+"Itamarati de Minas (MG)",0.688
+"Rolante (RS)",0.688
+"Nova Fátima (PR)",0.688
+"Nova Guarita (MT)",0.688
+"Vila Rica (MT)",0.688
+"Novo Cabrais (RS)",0.688
+"Santa Cruz de Goiás (GO)",0.688
+"Anita Garibaldi (SC)",0.688
+"Faxinal (PR)",0.687
+"Araguaiana (MT)",0.687
+"Dom Viçoso (MG)",0.687
+"Jataizinho (PR)",0.687
+"Antonina (PR)",0.687
+"Salto do Jacuí (RS)",0.687
+"Pontalina (GO)",0.687
+"Varjão (GO)",0.687
+"Santa Lúcia (PR)",0.687
+"Rio Azul (PR)",0.687
+"Wenceslau Braz (PR)",0.687
+"Passa Tempo (MG)",0.687
+"Herval (RS)",0.687
+"Arenópolis (GO)",0.687
+"Abatiá (PR)",0.687
+"São Joaquim (SC)",0.687
+"Guaraíta (GO)",0.687
+"Buriti de Goiás (GO)",0.687
+"Balsas (MA)",0.687
+"Planalto (RS)",0.687
+"São Lourenço do Sul (RS)",0.687
+"Marques de Souza (RS)",0.687
+"Trindade do Sul (RS)",0.687
+"Faria Lemos (MG)",0.687
+"Caldas (MG)",0.687
+"Parnaíba (PI)",0.687
+"Santana do Itararé (PR)",0.687
+"Altair (SP)",0.687
+"Angelina (SC)",0.687
+"Aceguá (RS)",0.687
+"Guareí (SP)",0.687
+"Maracanaú (CE)",0.686
+"Brejinho de Nazaré (TO)",0.686
+"Cabo de Santo Agostinho (PE)",0.686
+"Belo Oriente (MG)",0.686
+"Campo do Tenente (PR)",0.686
+"Viana (ES)",0.686
+"Águas Lindas de Goiás (GO)",0.686
+"Dores de Campos (MG)",0.686
+"Ponte Branca (MT)",0.686
+"Ipuiúna (MG)",0.686
+"Córrego do Ouro (GO)",0.686
+"Santo Antônio das Missões (RS)",0.686
+"Guanhães (MG)",0.686
+"Panamá (GO)",0.686
+"Serra Azul (SP)",0.686
+"Nova Canaã do Norte (MT)",0.686
+"Jóia (RS)",0.686
+"Santa Maria da Serra (SP)",0.686
+"Bom Sucesso (PR)",0.686
+"Mundo Novo (MS)",0.686
+"Leoberto Leal (SC)",0.686
+"Sidrolândia (MS)",0.686
+"Pimenta (MG)",0.686
+"Acreúna (GO)",0.686
+"General Câmara (RS)",0.686
+"Morretes (PR)",0.686
+"Vargeão (SC)",0.686
+"Espírito Santo do Dourado (MG)",0.685
+"Piranguçu (MG)",0.685
+"Porto dos Gaúchos (MT)",0.685
+"Liberato Salzano (RS)",0.685
+"Rio Piracicaba (MG)",0.685
+"Santana do Paraíso (MG)",0.685
+"Porto Vitória (PR)",0.685
+"Conceição da Barra de Minas (MG)",0.685
+"Erval Seco (RS)",0.685
+"Caldazinha (GO)",0.685
+"Arandu (SP)",0.685
+"São Francisco de Paula (RS)",0.685
+"São João D'Aliança (GO)",0.685
+"Teixeira de Freitas (BA)",0.685
+"São Vicente do Sul (RS)",0.685
+"Ibema (PR)",0.685
+"Gramado dos Loureiros (RS)",0.685
+"Colorado do Oeste (RO)",0.685
+"Fazenda Nova (GO)",0.685
+"Resende Costa (MG)",0.685
+"Elói Mendes (MG)",0.685
+"Terezópolis de Goiás (GO)",0.685
+"Comendador Levy Gasparian (RJ)",0.685
+"Brasilândia do Tocantins (TO)",0.684
+"Areal (RJ)",0.684
+"Piraúba (MG)",0.684
+"Senador José Bento (MG)",0.684
+"Mar de Espanha (MG)",0.684
+"Professor Jamil (GO)",0.684
+"Batayporã (MS)",0.684
+"Miracema do Tocantins (TO)",0.684
+"Antônio Prado de Minas (MG)",0.684
+"Aragoiânia (GO)",0.684
+"Vicentinópolis (GO)",0.684
+"Porto Franco (MA)",0.684
+"Santa Cruz do Xingu (MT)",0.684
+"Aimorés (MG)",0.684
+"São José do Barreiro (SP)",0.684
+"Cunha (SP)",0.684
+"Rochedo de Minas (MG)",0.684
+"Eldorado (MS)",0.684
+"Belford Roxo (RJ)",0.684
+"Fronteira (MG)",0.684
+"Porteirão (GO)",0.684
+"Itarana (ES)",0.684
+"Maçambará (RS)",0.684
+"Pilar de Goiás (GO)",0.684
+"Catas Altas (MG)",0.684
+"Novo Gama (GO)",0.684
+"Ribeirão das Neves (MG)",0.684
+"Bonfinópolis (GO)",0.683
+"Antônio Carlos (MG)",0.683
+"Barbalha (CE)",0.683
+"Forquetinha (RS)",0.683
+"Careaçu (MG)",0.683
+"Divinópolis do Tocantins (TO)",0.683
+"São Pedro do Iguaçu (PR)",0.683
+"Restinga Seca (RS)",0.683
+"Paverama (RS)",0.683
+"Barra de São Francisco (ES)",0.683
+"Quartel Geral (MG)",0.683
+"Honório Serpa (PR)",0.683
+"Campo do Meio (MG)",0.683
+"Tiros (MG)",0.683
+"Mozarlândia (GO)",0.683
+"Rio Claro (RJ)",0.683
+"Ressaquinha (MG)",0.683
+"Sete de Setembro (RS)",0.683
+"Toropi (RS)",0.683
+"Guidoval (MG)",0.683
+"Gonçalves (MG)",0.683
+"Santa Isabel (GO)",0.683
+"Progresso (RS)",0.683
+"Denise (MT)",0.683
+"Alagoinhas (BA)",0.683
+"Bom Jesus do Amparo (MG)",0.683
+"Arceburgo (MG)",0.683
+"Caucaia (CE)",0.682
+"Alexânia (GO)",0.682
+"Carmo de Minas (MG)",0.682
+"Maquiné (RS)",0.682
+"Santa Luzia (PB)",0.682
+"Pedreiras (MA)",0.682
+"Limoeiro do Norte (CE)",0.682
+"Turmalina (MG)",0.682
+"Queluzito (MG)",0.682
+"Ouro Preto do Oeste (RO)",0.682
+"Frei Rogério (SC)",0.682
+"Juara (MT)",0.682
+"São Domingos do Norte (ES)",0.682
+"São José do Rio Claro (MT)",0.682
+"Patrocínio do Muriaé (MG)",0.682
+"Ametista do Sul (RS)",0.682
+"Nova Olímpia (MT)",0.682
+"Santa Terezinha do Progresso (SC)",0.682
+"Santa Rita de Jacutinga (MG)",0.682
+"Campos Gerais (MG)",0.682
+"Flor da Serra do Sul (PR)",0.682
+"Areia Branca (RN)",0.682
+"São Carlos do Ivaí (PR)",0.682
+"Jardim Olinda (PR)",0.682
+"Formigueiro (RS)",0.682
+"Selvíria (MS)",0.682
+"Três Barras do Paraná (PR)",0.681
+"Rio Bananal (ES)",0.681
+"Amorinópolis (GO)",0.681
+"Brasilândia do Sul (PR)",0.681
+"Nova Glória (GO)",0.681
+"Tabuleiro (MG)",0.681
+"Conceição da Barra (ES)",0.681
+"Sonora (MS)",0.681
+"Vila Pavão (ES)",0.681
+"Inocência (MS)",0.681
+"Itatiba do Sul (RS)",0.681
+"Contenda (PR)",0.681
+"Tocantinópolis (TO)",0.681
+"Marilena (PR)",0.681
+"Erval Grande (RS)",0.681
+"Quedas do Iguaçu (PR)",0.681
+"Jaboticatubas (MG)",0.681
+"Roncador (PR)",0.681
+"Baependi (MG)",0.681
+"Serranópolis (GO)",0.681
+"Bela Vista da Caroba (PR)",0.681
+"Minas do Leão (RS)",0.681
+"Campo Bonito (PR)",0.681
+"Gouveia (MG)",0.681
+"Boa Esperança do Sul (SP)",0.681
+"Bandeirantes (MS)",0.681
+"Tapiraí (SP)",0.681
+"Descoberto (MG)",0.68
+"Entre-Ijuís (RS)",0.68
+"Queimados (RJ)",0.68
+"Vera (MT)",0.68
+"Maripá de Minas (MG)",0.68
+"Canitar (SP)",0.68
+"Rio das Flores (RJ)",0.68
+"Itaóca (SP)",0.68
+"Miraí (MG)",0.68
+"Carpina (PE)",0.68
+"Quitandinha (PR)",0.68
+"Nova Santa Bárbara (PR)",0.68
+"Arapoema (TO)",0.68
+"Esmeralda (RS)",0.68
+"Mutunópolis (GO)",0.68
+"Lidianópolis (PR)",0.68
+"Corinto (MG)",0.68
+"Gurinhatã (MG)",0.68
+"Mirador (PR)",0.68
+"Sapucaí-Mirim (MG)",0.68
+"Arapeí (SP)",0.68
+"Ilicínea (MG)",0.68
+"Corumbá de Goiás (GO)",0.68
+"Acari (RN)",0.679
+"Boa Esperança (ES)",0.679
+"Cajazeiras (PB)",0.679
+"Pedra Preta (MT)",0.679
+"Matrinchã (GO)",0.679
+"Araricá (RS)",0.679
+"Guapé (MG)",0.679
+"Glaucilândia (MG)",0.679
+"Figueirópolis D'Oeste (MT)",0.679
+"Lagoa Grande (MG)",0.679
+"Dueré (TO)",0.679
+"Abreu E Lima (PE)",0.679
+"Estrela Velha (RS)",0.679
+"Rio Preto (MG)",0.679
+"Jaguaraçu (MG)",0.679
+"Ipueira (RN)",0.679
+"Taquarivaí (SP)",0.679
+"Salinas (MG)",0.679
+"Rio Branco do Sul (PR)",0.679
+"Candeias (MG)",0.678
+"Wenceslau Braz (MG)",0.678
+"Centralina (MG)",0.678
+"Quadra (SP)",0.678
+"Pedro Osório (RS)",0.678
+"Pinhal Grande (RS)",0.678
+"Cedro do Abaeté (MG)",0.678
+"Vitória da Conquista (BA)",0.678
+"Jaguaré (ES)",0.678
+"Bonfinópolis de Minas (MG)",0.678
+"Córrego Fundo (MG)",0.678
+"Catanduvas (PR)",0.678
+"Poxoréo (MT)",0.678
+"Alto Paraíso (PR)",0.678
+"Sagrada Família (RS)",0.678
+"Nova América (GO)",0.678
+"Silveiras (SP)",0.678
+"Pau dos Ferros (RN)",0.678
+"Luminárias (MG)",0.678
+"Piedade do Rio Grande (MG)",0.678
+"Águia Branca (ES)",0.678
+"Nazaré Paulista (SP)",0.678
+"Hidrolina (GO)",0.677
+"Aurora do Tocantins (TO)",0.677
+"Juazeiro (BA)",0.677
+"Maurilândia (GO)",0.677
+"Figueira (PR)",0.677
+"Itatiaiuçu (MG)",0.677
+"Guaraciama (MG)",0.677
+"Catu (BA)",0.677
+"Marabá Paulista (SP)",0.677
+"Guarani (MG)",0.677
+"Pedra Bela (SP)",0.677
+"Guaraniaçu (PR)",0.677
+"São Bernardino (SC)",0.677
+"Coronel Xavier Chaves (MG)",0.677
+"Itapirapuã (GO)",0.677
+"Serrania (MG)",0.677
+"Iguatu (CE)",0.677
+"Serra da Saudade (MG)",0.677
+"Eunápolis (BA)",0.677
+"Itariri (SP)",0.677
+"Caruaru (PE)",0.677
+"Alvinópolis (MG)",0.676
+"Reserva do Cabaçal (MT)",0.676
+"Lagoa Dourada (MG)",0.676
+"Perolândia (GO)",0.676
+"Porto Seguro (BA)",0.676
+"Arapuã (PR)",0.676
+"Marituba (PA)",0.676
+"Paraíso do Sul (RS)",0.676
+"Luciara (MT)",0.676
+"São Sebastião do Rio Verde (MG)",0.676
+"São Jorge do Patrocínio (PR)",0.676
+"Prudentópolis (PR)",0.676
+"Santa Maria do Herval (RS)",0.676
+"Boa Vista das Missões (RS)",0.676
+"Estrela do Indaiá (MG)",0.676
+"Alto Piquiri (PR)",0.676
+"Ewbank da Câmara (MG)",0.676
+"Parelhas (RN)",0.676
+"Dias D'Ávila (BA)",0.676
+"Novo Tiradentes (RS)",0.676
+"Conceição de Ipanema (MG)",0.676
+"Sapucaia (RJ)",0.675
+"São Francisco de Assis (RS)",0.675
+"Pedralva (MG)",0.675
+"Ibituruna (MG)",0.675
+"Aruanã (GO)",0.675
+"Apiacás (MT)",0.675
+"Moreira Sales (PR)",0.675
+"Teixeiras (MG)",0.675
+"Guia Lopes da Laguna (MS)",0.675
+"Oliveira de Fátima (TO)",0.675
+"Eugenópolis (MG)",0.675
+"Guapiara (SP)",0.675
+"Aripuanã (MT)",0.675
+"Silvanópolis (TO)",0.675
+"Simões Filho (BA)",0.675
+"Lajeado (TO)",0.675
+"Bela Vista do Toldo (SC)",0.675
+"Naque (MG)",0.675
+"Vila Valério (ES)",0.675
+"Água Comprida (MG)",0.675
+"Virginópolis (MG)",0.675
+"Monte Castelo (SC)",0.675
+"Mantena (MG)",0.675
+"Araguaçu (TO)",0.675
+"Godoy Moreira (PR)",0.675
+"Alfredo Vasconcelos (MG)",0.675
+"Capetinga (MG)",0.675
+"Pacatuba (CE)",0.675
+"São Francisco do Conde (BA)",0.674
+"Olímpio Noronha (MG)",0.674
+"Anitápolis (SC)",0.674
+"Bela Vista de Minas (MG)",0.674
+"Pequi (MG)",0.674
+"Senador Cortes (MG)",0.674
+"Iaras (SP)",0.674
+"Braga (RS)",0.674
+"Cabo Verde (MG)",0.674
+"Santa Inês (MA)",0.674
+"Russas (CE)",0.674
+"Candelária (RS)",0.674
+"Paulo Afonso (BA)",0.674
+"Novo Mundo (MT)",0.674
+"Gouvelândia (GO)",0.674
+"Cerro Grande (RS)",0.674
+"São Pedro da União (MG)",0.674
+"Brasilândia de Minas (MG)",0.674
+"Indianópolis (MG)",0.674
+"Guiricema (MG)",0.674
+"Ibitiúra de Minas (MG)",0.674
+"Itamogi (MG)",0.674
+"Monte Alegre de Minas (MG)",0.674
+"Peixe (TO)",0.674
+"Araguapaz (GO)",0.674
+"Inhacorá (RS)",0.673
+"Cristalândia (TO)",0.673
+"Rio Verde de Mato Grosso (MS)",0.673
+"Palmeirópolis (TO)",0.673
+"Canaã dos Carajás (PA)",0.673
+"Vitor Meireles (SC)",0.673
+"Pinheiros (ES)",0.673
+"Porto Alegre do Norte (MT)",0.673
+"Dom Bosco (MG)",0.673
+"Jauru (MT)",0.673
+"Amambai (MS)",0.673
+"Ponte Alta (SC)",0.673
+"Guarabira (PB)",0.673
+"Rio Acima (MG)",0.673
+"Consolação (MG)",0.673
+"Novo Progresso (PA)",0.673
+"Guanambi (BA)",0.673
+"Castanhal (PA)",0.673
+"Bom Jardim de Minas (MG)",0.673
+"Sete Barras (SP)",0.673
+"Natividade (TO)",0.673
+"Albertina (MG)",0.673
+"Apiacá (ES)",0.673
+"Buritis (MG)",0.672
+"Paraúna (GO)",0.672
+"São Roque de Minas (MG)",0.672
+"Liberdade (MG)",0.672
+"Rebouças (PR)",0.672
+"Britânia (GO)",0.672
+"Santo Antônio do Amparo (MG)",0.672
+"Alecrim (RS)",0.672
+"Espigão D'Oeste (RO)",0.672
+"Laguna Carapã (MS)",0.672
+"Redenção (PA)",0.672
+"Bandeirante (SC)",0.672
+"Capão do Cipó (RS)",0.672
+"São Bento Abade (MG)",0.672
+"União de Minas (MG)",0.672
+"Paranaíta (MT)",0.672
+"Entre Rios de Minas (MG)",0.672
+"Alto do Rodrigues (RN)",0.672
+"Açailândia (MA)",0.672
+"Maravilhas (MG)",0.672
+"Turvo (PR)",0.672
+"Santo Antônio do Sudoeste (PR)",0.671
+"Pedro Gomes (MS)",0.671
+"São José da Boa Vista (PR)",0.671
+"Teixeira Soares (PR)",0.671
+"Nova Resende (MG)",0.671
+"Ananás (TO)",0.671
+"Paty do Alferes (RJ)",0.671
+"Santa Maria de Jetibá (ES)",0.671
+"Alpestre (RS)",0.671
+"Esmeraldas (MG)",0.671
+"Xambioá (TO)",0.671
+"Palmeira (SC)",0.671
+"Colméia (TO)",0.671
+"Corguinho (MS)",0.671
+"Baldim (MG)",0.671
+"Água Fria de Goiás (GO)",0.671
+"São João da Barra (RJ)",0.671
+"Garruchos (RS)",0.671
+"Natalândia (MG)",0.671
+"Sentinela do Sul (RS)",0.671
+"Santo Antônio do Aventureiro (MG)",0.671
+"Tupirama (TO)",0.67
+"Divisa Nova (MG)",0.67
+"Santa Luzia D'Oeste (RO)",0.67
+"Fortaleza de Minas (MG)",0.67
+"Barra do Ribeiro (RS)",0.67
+"Lagoa Bonita do Sul (RS)",0.67
+"Formoso do Araguaia (TO)",0.67
+"Conceição do Castelo (ES)",0.67
+"Água Clara (MS)",0.67
+"Itaparica (BA)",0.67
+"Claro dos Poções (MG)",0.67
+"Bom Jardim de Goiás (GO)",0.67
+"Uirapuru (GO)",0.67
+"Taiobeiras (MG)",0.67
+"São Gonçalo do Abaeté (MG)",0.67
+"Ribeirão Cascalheira (MT)",0.67
+"Resplendor (MG)",0.67
+"Ariranha do Ivaí (PR)",0.67
+"Mimoso do Sul (ES)",0.67
+"Dois Irmãos das Missões (RS)",0.67
+"Bonito (MS)",0.67
+"Triunfo (PE)",0.67
+"Boa Vista da Aparecida (PR)",0.67
+"Leme do Prado (MG)",0.67
+"General Carneiro (MT)",0.67
+"Anaurilândia (MS)",0.67
+"Ipiaú (BA)",0.67
+"Augustinópolis (TO)",0.67
+"Francisco Alves (PR)",0.669
+"Amaporã (PR)",0.669
+"Itati (RS)",0.669
+"Paineiras (MG)",0.669
+"Pugmil (TO)",0.669
+"Domingos Martins (ES)",0.669
+"Guamiranga (PR)",0.669
+"Santo Antônio do Rio Abaixo (MG)",0.669
+"Nova Ubiratã (MT)",0.669
+"Presidente Kennedy (TO)",0.669
+"Planaltina (GO)",0.669
+"Volta Grande (MG)",0.669
+"Coronel Pacheco (MG)",0.669
+"Santa Terezinha (SC)",0.669
+"Ponto Belo (ES)",0.669
+"Arroio do Padre (RS)",0.669
+"Martinho Campos (MG)",0.669
+"Delfim Moreira (MG)",0.669
+"Buenópolis (MG)",0.669
+"Coimbra (MG)",0.669
+"São Luíz do Norte (GO)",0.669
+"Pirapó (RS)",0.669
+"Balbinos (SP)",0.669
+"Juramento (MG)",0.669
+"Salgueiro (PE)",0.669
+"Doverlândia (GO)",0.668
+"Cristina (MG)",0.668
+"Tejupá (SP)",0.668
+"Rodeiro (MG)",0.668
+"Bom Jesus (PI)",0.668
+"Congonhinhas (PR)",0.668
+"Conceição das Pedras (MG)",0.668
+"Mata de São João (BA)",0.668
+"Sousa (PB)",0.668
+"Centenário do Sul (PR)",0.668
+"Alterosa (MG)",0.668
+"Jacuí (MG)",0.668
+"Alfredo Wagner (SC)",0.668
+"Vieiras (MG)",0.668
+"Confresa (MT)",0.668
+"Cabeceiras (GO)",0.668
+"Laje do Muriaé (RJ)",0.668
+"São Félix do Araguaia (MT)",0.668
+"Aiuruoca (MG)",0.668
+"Santa Maria Madalena (RJ)",0.668
+"Luiziana (PR)",0.668
+"Marabá (PA)",0.668
+"Afonso Cláudio (ES)",0.667
+"Montanha (ES)",0.667
+"São Miguel das Missões (RS)",0.667
+"Canabrava do Norte (MT)",0.667
+"Sucupira (TO)",0.667
+"São Gonçalo do Rio Abaixo (MG)",0.667
+"Adrianópolis (PR)",0.667
+"Santana do Garambéu (MG)",0.667
+"Pancas (ES)",0.667
+"Buri (SP)",0.667
+"Altamira do Paraná (PR)",0.667
+"Veríssimo (MG)",0.667
+"Paranatinga (MT)",0.667
+"Tapiraí (MG)",0.667
+"Itapetinga (BA)",0.667
+"Arcoverde (PE)",0.667
+"Imaruí (SC)",0.667
+"São Thomé das Letras (MG)",0.667
+"Bituruna (PR)",0.667
+"Trajano de Moraes (RJ)",0.667
+"Nepomuceno (MG)",0.667
+"Mucurici (ES)",0.666
+"Papagaios (MG)",0.666
+"Senhor do Bonfim (BA)",0.666
+"Iúna (ES)",0.666
+"Lindoeste (PR)",0.666
+"Icaraíma (PR)",0.666
+"Pojuca (BA)",0.666
+"Bom Jesus (RS)",0.666
+"Faxinalzinho (RS)",0.666
+"Salto do Céu (MT)",0.666
+"São José do Goiabal (MG)",0.666
+"Amélia Rodrigues (BA)",0.666
+"Cruzmaltina (PR)",0.666
+"Várzea da Palma (MG)",0.666
+"Tucuruí (PA)",0.666
+"Bodoquena (MS)",0.666
+"Porto Murtinho (MS)",0.666
+"Castanheira (MT)",0.665
+"Pimenteiras do Oeste (RO)",0.665
+"Igarassu (PE)",0.665
+"Santa Tereza de Goiás (GO)",0.665
+"Iretama (PR)",0.665
+"Santo Antônio do Descoberto (GO)",0.665
+"Mucajaí (RR)",0.665
+"Coronel Bicaco (RS)",0.665
+"Laranjal do Jari (AP)",0.665
+"São Cristovão do Sul (SC)",0.665
+"Quevedos (RS)",0.665
+"Jequié (BA)",0.665
+"Mimoso de Goiás (GO)",0.665
+"Carlinda (MT)",0.665
+"União do Sul (MT)",0.665
+"Conceição do Rio Verde (MG)",0.665
+"Abreulândia (TO)",0.665
+"São Gonçalo do Amarante (CE)",0.665
+"Macau (RN)",0.665
+"Altamira (PA)",0.665
+"Benevides (PA)",0.665
+"Mucuri (BA)",0.665
+"Mirabela (MG)",0.665
+"Central de Minas (MG)",0.665
+"Ipaba (MG)",0.665
+"Santana do Riacho (MG)",0.665
+"São Brás do Suaçuí (MG)",0.664
+"Ribas do Rio Pardo (MS)",0.664
+"São João do Caiuá (PR)",0.664
+"Alto Rio Novo (ES)",0.664
+"Inimutaba (MG)",0.664
+"Rio Doce (MG)",0.664
+"Novo Horizonte do Norte (MT)",0.664
+"São Miguel do Araguaia (GO)",0.664
+"Mercês (MG)",0.664
+"Garanhuns (PE)",0.664
+"São Pedro das Missões (RS)",0.664
+"Itapuca (RS)",0.664
+"Serra Nova Dourada (MT)",0.664
+"Riversul (SP)",0.664
+"Chácara (MG)",0.664
+"Nossa Senhora do Socorro (SE)",0.664
+"Uruana de Minas (MG)",0.664
+"Painel (SC)",0.664
+"Mostardas (RS)",0.664
+"Presidente Médici (RO)",0.664
+"Jaraguari (MS)",0.664
+"Tibagi (PR)",0.664
+"Cruzeiro do Sul (AC)",0.664
+"Caturaí (GO)",0.664
+"Grossos (RN)",0.664
+"Cruz Machado (PR)",0.664
+"Araçuaí (MG)",0.663
+"Aliança do Tocantins (TO)",0.663
+"Miradouro (MG)",0.663
+"Jardim do Seridó (RN)",0.663
+"Novo Machado (RS)",0.663
+"Espera Feliz (MG)",0.663
+"Floriano Peixoto (RS)",0.663
+"Vargem Alta (ES)",0.663
+"Santa Margarida do Sul (RS)",0.663
+"Conceição do Jacuípe (BA)",0.663
+"Sengés (PR)",0.663
+"Limoeiro (PE)",0.663
+"Nova Maringá (MT)",0.663
+"Anastácio (MS)",0.663
+"Aguanil (MG)",0.663
+"São José dos Ausentes (RS)",0.663
+"São Francisco do Glória (MG)",0.663
+"Onça de Pitangui (MG)",0.663
+"Ecoporanga (ES)",0.662
+"Miranorte (TO)",0.662
+"Jaú do Tocantins (TO)",0.662
+"Jacuizinho (RS)",0.662
+"Barcarena (PA)",0.662
+"São Joaquim de Bicas (MG)",0.662
+"Três Forquilhas (RS)",0.662
+"Vila Nova do Sul (RS)",0.662
+"São Cristóvão (SE)",0.662
+"Barra do Quaraí (RS)",0.662
+"Rosário da Limeira (MG)",0.662
+"Rosário do Ivaí (PR)",0.662
+"Mato Verde (MG)",0.662
+"Cacique Doble (RS)",0.662
+"Nova União (MG)",0.662
+"Iguatemi (MS)",0.662
+"Juruena (MT)",0.662
+"Conselheiro Pena (MG)",0.662
+"Nazaré da Mata (PE)",0.662
+"Santa Tereza do Tocantins (TO)",0.662
+"Macieira (SC)",0.662
+"Sooretama (ES)",0.662
+"Cariri do Tocantins (TO)",0.662
+"São Tiago (MG)",0.662
+"São Gonçalo do Amarante (RN)",0.661
+"Nova Rosalândia (TO)",0.661
+"Capela de Santana (RS)",0.661
+"Propriá (SE)",0.661
+"Itapirapuã Paulista (SP)",0.661
+"Divino das Laranjeiras (MG)",0.661
+"Cerro Branco (RS)",0.661
+"Serra Talhada (PE)",0.661
+"São José do Povo (MT)",0.661
+"Aracitaba (MG)",0.661
+"Açu (RN)",0.661
+"Pinheiro Machado (RS)",0.661
+"Fontoura Xavier (RS)",0.661
+"Pau D'Arco (TO)",0.661
+"Senador Amaral (MG)",0.661
+"Teresina de Goiás (GO)",0.661
+"Campo Limpo de Goiás (GO)",0.661
+"Indiavaí (MT)",0.661
+"São Raimundo Nonato (PI)",0.661
+"Alto Caparaó (MG)",0.661
+"Riozinho (RS)",0.661
+"Bom Jesus do Araguaia (MT)",0.661
+"Lajinha (MG)",0.661
+"Jeceaba (MG)",0.661
+"Esperança do Sul (RS)",0.661
+"Brunópolis (SC)",0.661
+"Toledo (MG)",0.661
+"Pantano Grande (RS)",0.661
+"Lavandeira (TO)",0.66
+"Bom Jesus do Tocantins (TO)",0.66
+"Belmiro Braga (MG)",0.66
+"Bom Sucesso de Itararé (SP)",0.66
+"Avelinópolis (GO)",0.66
+"Bom Jardim (RJ)",0.66
+"Figueirão (MS)",0.66
+"Alvorada do Norte (GO)",0.66
+"Satuba (AL)",0.66
+"Palmas (PR)",0.66
+"Barra do Chapéu (SP)",0.66
+"São José do Vale do Rio Preto (RJ)",0.66
+"Ipuaçu (SC)",0.66
+"Cocalinho (MT)",0.66
+"Alto Jequitibá (MG)",0.66
+"Seritinga (MG)",0.66
+"Extremoz (RN)",0.66
+"Muritiba (BA)",0.66
+"Imbituva (PR)",0.66
+"Cordislândia (MG)",0.66
+"Cristal do Sul (RS)",0.66
+"São Pedro da Cipa (MT)",0.66
+"Cerro Grande do Sul (RS)",0.66
+"São Francisco de Paula (MG)",0.66
+"São Sebastião da Vargem Alegre (MG)",0.66
+"Agudos do Sul (PR)",0.66
+"Sandolândia (TO)",0.659
+"Carnaúba dos Dantas (RN)",0.659
+"Monte Azul (MG)",0.659
+"Japeri (RJ)",0.659
+"Posse (GO)",0.659
+"Varre-Sai (RJ)",0.659
+"Maranguape (CE)",0.659
+"Couto de Magalhães de Minas (MG)",0.659
+"Fortaleza do Tabocão (TO)",0.659
+"Segredo (RS)",0.659
+"São Pedro dos Ferros (MG)",0.659
+"Estreito (MA)",0.659
+"Pacajus (CE)",0.659
+"Quixadá (CE)",0.659
+"Santa Isabel do Pará (PA)",0.659
+"Leopoldo de Bulhões (GO)",0.659
+"Duas Barras (RJ)",0.659
+"Tucumã (PA)",0.659
+"Jaguarari (BA)",0.659
+"Passos Maia (SC)",0.659
+"Gameleira de Goiás (GO)",0.659
+"Timbó Grande (SC)",0.659
+"Nova Cantu (PR)",0.658
+"Minduri (MG)",0.658
+"Bueno Brandão (MG)",0.658
+"Jesuânia (MG)",0.658
+"Colinas do Sul (GO)",0.658
+"Inhapim (MG)",0.658
+"Oiapoque (AP)",0.658
+"Caseara (TO)",0.658
+"Castanheiras (RO)",0.658
+"Novo Planalto (GO)",0.658
+"Grandes Rios (PR)",0.658
+"Piratini (RS)",0.658
+"Januária (MG)",0.658
+"Terenos (MS)",0.658
+"Horizonte (CE)",0.658
+"Parintins (AM)",0.658
+"São José do Divino (MG)",0.658
+"Jaboticaba (RS)",0.658
+"Itacurubi (RS)",0.657
+"Presidente Kennedy (ES)",0.657
+"Redenção da Serra (SP)",0.657
+"Arroio Grande (RS)",0.657
+"Cocalzinho de Goiás (GO)",0.657
+"Matos Costa (SC)",0.657
+"Mantenópolis (ES)",0.657
+"Ibertioga (MG)",0.657
+"Heliodora (MG)",0.657
+"São José do Xingu (MT)",0.657
+"São José do Mantimento (MG)",0.657
+"Santo Hipólito (MG)",0.657
+"Entre Rios (SC)",0.657
+"Divinésia (MG)",0.657
+"Marliéria (MG)",0.657
+"São Sebastião do Passé (BA)",0.657
+"Aguiarnópolis (TO)",0.657
+"Tianguá (CE)",0.657
+"Encruzilhada do Sul (RS)",0.657
+"Tunas (RS)",0.657
+"Afogados da Ingazeira (PE)",0.657
+"Guajará-Mirim (RO)",0.657
+"Serro (MG)",0.656
+"Mesquita (MG)",0.656
+"Brejetuba (ES)",0.656
+"Itaiçaba (CE)",0.656
+"Augusto de Lima (MG)",0.656
+"Santo Antônio do Leverger (MT)",0.656
+"Cordisburgo (MG)",0.656
+"Brumado (BA)",0.656
+"Tavares (RS)",0.656
+"Ferreira Gomes (AP)",0.656
+"Itaúna do Sul (PR)",0.656
+"Vale de São Domingos (MT)",0.656
+"Pescador (MG)",0.656
+"Antônio Olinto (PR)",0.656
+"Planalto da Serra (MT)",0.656
+"Laranja da Terra (ES)",0.656
+"Campo Maior (PI)",0.656
+"Mata (RS)",0.656
+"Brasília de Minas (MG)",0.656
+"Rio dos Índios (RS)",0.656
+"Curiúva (PR)",0.656
+"Arinos (MG)",0.656
+"Belo Vale (MG)",0.655
+"Chalé (MG)",0.655
+"Nova Iguaçu de Goiás (GO)",0.655
+"Sapopema (PR)",0.655
+"Santo Antônio do Leste (MT)",0.655
+"Raul Soares (MG)",0.655
+"São João do Sabugi (RN)",0.655
+"Manoel Viana (RS)",0.655
+"Aracati (CE)",0.655
+"Engenheiro Navarro (MG)",0.655
+"Mandirituba (PR)",0.655
+"São João da Baliza (RR)",0.655
+"Vitória das Missões (RS)",0.655
+"Lamim (MG)",0.655
+"Tesouro (MT)",0.655
+"Carmo da Cachoeira (MG)",0.655
+"Natividade da Serra (SP)",0.655
+"Boa Ventura de São Roque (PR)",0.655
+"Baliza (GO)",0.655
+"Pedra Dourada (MG)",0.655
+"Funilândia (MG)",0.655
+"Capanema (PA)",0.655
+"Damianópolis (GO)",0.654
+"Portelândia (GO)",0.654
+"Galiléia (MG)",0.654
+"Nova Viçosa (BA)",0.654
+"Francisco Sá (MG)",0.654
+"Saltinho (SC)",0.654
+"Itaporã (MS)",0.654
+"Sem-Peixe (MG)",0.654
+"Tanguá (RJ)",0.654
+"Rafael Godeiro (RN)",0.654
+"Campos Verdes (GO)",0.654
+"Pedro Canário (ES)",0.654
+"Pinhão (PR)",0.654
+"São João do Jaguaribe (CE)",0.654
+"Capão Alto (SC)",0.654
+"Silva Jardim (RJ)",0.654
+"Abre Campo (MG)",0.654
+"Itapemirim (ES)",0.654
+"Iapu (MG)",0.654
+"Itapiranga (AM)",0.654
+"Talismã (TO)",0.654
+"Dezesseis de Novembro (RS)",0.654
+"Cruzeta (RN)",0.654
+"Dores do Rio Preto (ES)",0.654
+"Santa Cruz Cabrália (BA)",0.654
+"Ritápolis (MG)",0.653
+"São Lourenço da Mata (PE)",0.653
+"Presidente Dutra (MA)",0.653
+"Campestre de Goiás (GO)",0.653
+"Epitaciolândia (AC)",0.653
+"Divinópolis de Goiás (GO)",0.653
+"Ilha de Itamaracá (PE)",0.653
+"Trombas (GO)",0.653
+"Itabirinha (MG)",0.653
+"Rio Rufino (SC)",0.653
+"Capelinha (MG)",0.653
+"Santa Amélia (PR)",0.653
+"Novo Santo Antônio (MT)",0.653
+"Bom Repouso (MG)",0.653
+"São João da Mata (MG)",0.653
+"Guarinos (GO)",0.652
+"Ibarama (RS)",0.652
+"Guarará (MG)",0.652
+"Ipiranga (PR)",0.652
+"General Carneiro (PR)",0.652
+"Caraá (RS)",0.652
+"São José de Ubá (RJ)",0.652
+"Água Doce do Norte (ES)",0.652
+"Campestre do Maranhão (MA)",0.652
+"São Martinho da Serra (RS)",0.652
+"Casa Grande (MG)",0.652
+"Moreno (PE)",0.652
+"Chupinguaia (RO)",0.652
+"Poconé (MT)",0.652
+"Iracema (CE)",0.652
+"Porto Esperidião (MT)",0.652
+"Silveirânia (MG)",0.652
+"Jijoca de Jericoacoara (CE)",0.652
+"Mauá da Serra (PR)",0.652
+"Sério (RS)",0.652
+"Santa Rita do Tocantins (TO)",0.651
+"Goiana (PE)",0.651
+"Arraias (TO)",0.651
+"Igaratinga (MG)",0.651
+"Padre Bernardo (GO)",0.651
+"Virgínia (MG)",0.651
+"São Geraldo (MG)",0.651
+"Crucilândia (MG)",0.651
+"Taquaraçu de Minas (MG)",0.651
+"Jati (CE)",0.651
+"Taquarussu (MS)",0.651
+"Aparecida do Rio Negro (TO)",0.651
+"Ivaí (PR)",0.651
+"Santana do Deserto (MG)",0.651
+"Rochedo (MS)",0.651
+"Alto Boa Vista (MT)",0.651
+"Serra dos Aimorés (MG)",0.651
+"São José das Missões (RS)",0.651
+"Nova Tebas (PR)",0.651
+"Nova Campina (SP)",0.651
+"Porteirinha (MG)",0.651
+"Periquito (MG)",0.651
+"São Francisco de Goiás (GO)",0.651
+"Bacabal (MA)",0.651
+"Nova Brasilândia (MT)",0.651
+"São João do Manhuaçu (MG)",0.65
+"Barros Cassal (RS)",0.65
+"Carmésia (MG)",0.65
+"Itaporã do Tocantins (TO)",0.65
+"Ventania (PR)",0.65
+"Pinhal da Serra (RS)",0.65
+"Cana Verde (MG)",0.65
+"Pacaraima (RR)",0.65
+"Monte Alegre dos Campos (RS)",0.65
+"Cabixi (RO)",0.65
+"Nova Bandeirantes (MT)",0.65
+"Guadalupe (PI)",0.65
+"Rio Casca (MG)",0.65
+"Itanhomi (MG)",0.65
+"Faina (GO)",0.65
+"Rosário Oeste (MT)",0.65
+"Pium (TO)",0.65
+"Canguçu (RS)",0.65
+"Marmelópolis (MG)",0.65
+"Gameleiras (MG)",0.65
+"Monjolos (MG)",0.65
+"Mampituba (RS)",0.649
+"Jacobina (BA)",0.649
+"São Luiz (RR)",0.649
+"Novo Horizonte do Sul (MS)",0.649
+"Canaã (MG)",0.649
+"Candeias do Jamari (RO)",0.649
+"Barão de Monte Alto (MG)",0.649
+"Bayeux (PB)",0.649
+"Alagoa (MG)",0.649
+"Arapiraca (AL)",0.649
+"Barra dos Coqueiros (SE)",0.649
+"Lebon Régis (SC)",0.649
+"Boa Vista (PB)",0.649
+"Unistalda (RS)",0.649
+"Jesúpolis (GO)",0.649
+"Novo São Joaquim (MT)",0.649
+"Timon (MA)",0.649
+"Cerrito (RS)",0.649
+"São Felipe D'Oeste (RO)",0.649
+"Peixoto de Azevedo (MT)",0.649
+"Capela Nova (MG)",0.648
+"Carlos Chagas (MG)",0.648
+"Santa Cruz do Capibaribe (PE)",0.648
+"Ubajara (CE)",0.648
+"Cardoso Moreira (RJ)",0.648
+"Morro da Garça (MG)",0.648
+"Frei Inocêncio (MG)",0.648
+"Passa-Vinte (MG)",0.648
+"Angico (TO)",0.648
+"Felixlândia (MG)",0.648
+"Dilermando de Aguiar (RS)",0.648
+"Cabeceira Grande (MG)",0.648
+"Reserva do Iguaçu (PR)",0.648
+"Santa Maria de Itabira (MG)",0.648
+"Rio Manso (MG)",0.648
+"São João do Oriente (MG)",0.648
+"Brejo Santo (CE)",0.647
+"Ibatiba (ES)",0.647
+"Santana dos Montes (MG)",0.647
+"Estância (SE)",0.647
+"Munhoz (MG)",0.647
+"Caracol (MS)",0.647
+"Cachoeira (BA)",0.647
+"Salinópolis (PA)",0.647
+"Santana do Jacaré (MG)",0.647
+"Bocaina do Sul (SC)",0.647
+"Valença do Piauí (PI)",0.647
+"Vila Boa (GO)",0.647
+"Goiabeira (MG)",0.647
+"Presidente Figueiredo (AM)",0.647
+"Carvalhos (MG)",0.646
+"Alpercata (MG)",0.646
+"Piracema (MG)",0.646
+"Santo Amaro (BA)",0.646
+"Vale Verde (RS)",0.646
+"Fernandes Tourinho (MG)",0.646
+"Penaforte (CE)",0.646
+"Cacaulândia (RO)",0.646
+"Lontra (MG)",0.646
+"Lucrécia (RN)",0.646
+"São Miguel do Guaporé (RO)",0.646
+"Xinguara (PA)",0.646
+"Cascavel (CE)",0.646
+"São Sebastião do Alto (RJ)",0.646
+"Itamarandiba (MG)",0.646
+"Tibau do Sul (RN)",0.645
+"Águas Formosas (MG)",0.645
+"General Maynard (SE)",0.645
+"Simolândia (GO)",0.645
+"São João do Piauí (PI)",0.645
+"Bocaina de Minas (MG)",0.645
+"Muniz Freire (ES)",0.645
+"Vera Cruz (BA)",0.645
+"Manfrinópolis (PR)",0.645
+"Paragominas (PA)",0.645
+"Foz do Jordão (PR)",0.645
+"Vila Bela da Santíssima Trindade (MT)",0.645
+"Porto Alegre do Tocantins (TO)",0.645
+"Tabuleiro do Norte (CE)",0.645
+"Durandé (MG)",0.645
+"Jatobá (PE)",0.645
+"Antônio Dias (MG)",0.645
+"Taparuba (MG)",0.645
+"Ouro Branco (RN)",0.645
+"Fernandes Pinheiro (PR)",0.645
+"São Nicolau (RS)",0.645
+"Iaciara (GO)",0.644
+"Cristal (RS)",0.644
+"Itacoatiara (AM)",0.644
+"Forquilha (CE)",0.644
+"São Miguel do Anta (MG)",0.644
+"Mutum (MG)",0.644
+"Crateús (CE)",0.644
+"Diamante D'Oeste (PR)",0.644
+"Senador Firmino (MG)",0.644
+"Crixás do Tocantins (TO)",0.644
+"Messias Targino (RN)",0.644
+"Engenheiro Caldas (MG)",0.644
+"Teixeirópolis (RO)",0.643
+"Serranos (MG)",0.643
+"Rio Crespo (RO)",0.643
+"Calçoene (AP)",0.643
+"Hulha Negra (RS)",0.643
+"Nova Crixás (GO)",0.643
+"Monte Carlo (SC)",0.643
+"Jequitaí (MG)",0.643
+"Nazaré (TO)",0.643
+"Nova Brasilândia D'Oeste (RO)",0.643
+"São Valério (TO)",0.643
+"Mirante da Serra (RO)",0.643
+"Lagoão (RS)",0.643
+"Antônio João (MS)",0.643
+"Argirita (MG)",0.643
+"Carmópolis (SE)",0.643
+"Governador Mangabeira (BA)",0.643
+"Rio Largo (AL)",0.643
+"Palmeiras (BA)",0.643
+"Alvorada D'Oeste (RO)",0.643
+"São Valério do Sul (RS)",0.642
+"Corrente (PI)",0.642
+"Almeirim (PA)",0.642
+"Amapá (AP)",0.642
+"Belém do São Francisco (PE)",0.642
+"Florânia (RN)",0.642
+"Nova Laranjeiras (PR)",0.642
+"Manga (MG)",0.642
+"Santa Rita do Pardo (MS)",0.642
+"São Vicente (RN)",0.642
+"Passabém (MG)",0.642
+"Itabaiana (SE)",0.642
+"Babaçulândia (TO)",0.642
+"Quixeramobim (CE)",0.642
+"Laranjeiras (SE)",0.642
+"Malta (PB)",0.642
+"Almenara (MG)",0.642
+"Barrolândia (TO)",0.642
+"Marechal Deodoro (AL)",0.642
+"Santana do Seridó (RN)",0.642
+"Coração de Jesus (MG)",0.642
+"Axixá (MA)",0.641
+"Nova Porteirinha (MG)",0.641
+"João Lisboa (MA)",0.641
+"Coxixola (PB)",0.641
+"Barra do Turvo (SP)",0.641
+"Nazaré (BA)",0.641
+"Alta Floresta D'Oeste (RO)",0.641
+"Frei Martinho (PB)",0.641
+"Goioxim (PR)",0.641
+"Campo Belo do Sul (SC)",0.641
+"Amparo do Serra (MG)",0.641
+"Taquaritinga do Norte (PE)",0.641
+"Aquiraz (CE)",0.641
+"Primavera de Rondônia (RO)",0.641
+"Itacarambi (MG)",0.641
+"São Mamede (PB)",0.641
+"São Gonçalo do Rio Preto (MG)",0.64
+"Carmolândia (TO)",0.64
+"Rio Branco do Ivaí (PR)",0.64
+"Itaituba (PA)",0.64
+"São Domingos (BA)",0.64
+"Porto Grande (AP)",0.64
+"Pedras Altas (RS)",0.64
+"Catolé do Rocha (PB)",0.64
+"Macaíba (RN)",0.64
+"Timbaúba dos Batistas (RN)",0.64
+"Rondolândia (MT)",0.64
+"São Romão (MG)",0.64
+"Formoso (MG)",0.64
+"Itapipoca (CE)",0.64
+"Conceição do Araguaia (PA)",0.64
+"Santa Maria do Suaçuí (MG)",0.64
+"Vitória de Santo Antão (PE)",0.64
+"São João do Manteninha (MG)",0.64
+"Bocaiúva do Sul (PR)",0.64
+"Senador Guiomard (AC)",0.64
+"Machacalis (MG)",0.64
+"Apodi (RN)",0.639
+"Capitão Enéas (MG)",0.639
+"Desterro de Entre Rios (MG)",0.639
+"Araguacema (TO)",0.639
+"Ribeirão Branco (SP)",0.639
+"São Félix (BA)",0.639
+"Piedade de Ponte Nova (MG)",0.639
+"São Félix do Coribe (BA)",0.639
+"Água Branca (PI)",0.639
+"Nioaque (MS)",0.639
+"Dois Irmãos do Buriti (MS)",0.639
+"Tefé (AM)",0.639
+"Palmital (PR)",0.639
+"Luzinópolis (TO)",0.639
+"Paudalho (PE)",0.639
+"Caroebe (RR)",0.639
+"Novo Acordo (TO)",0.639
+"Delta (MG)",0.639
+"Uruburetama (CE)",0.639
+"São Francisco de Itabapoana (RJ)",0.639
+"Mariluz (PR)",0.639
+"Vicente Dutra (RS)",0.638
+"Palmeira dos Índios (AL)",0.638
+"São João Evangelista (MG)",0.638
+"Umburatiba (MG)",0.638
+"Rio Maria (PA)",0.638
+"Bernardo Sayão (TO)",0.638
+"Sabinópolis (MG)",0.638
+"São Francisco (MG)",0.638
+"Ministro Andreazza (RO)",0.638
+"Caraúbas (RN)",0.638
+"Goianinha (RN)",0.638
+"Simão Pereira (MG)",0.638
+"Beberibe (CE)",0.638
+"Wanderlândia (TO)",0.638
+"Alto Paraguai (MT)",0.638
+"Jaíba (MG)",0.638
+"São Domingos das Dores (MG)",0.638
+"Carbonita (MG)",0.638
+"Corumbataí do Sul (PR)",0.638
+"Ibirapuitã (RS)",0.638
+"Bandeirantes do Tocantins (TO)",0.638
+"Palhano (CE)",0.638
+"Moeda (MG)",0.638
+"Nossa Senhora do Livramento (MT)",0.638
+"São Jerônimo da Serra (PR)",0.637
+"Santa Terezinha do Tocantins (TO)",0.637
+"Joaquim Felício (MG)",0.637
+"Santo Amaro das Brotas (SE)",0.637
+"Guaramiranga (CE)",0.637
+"Pedro Teixeira (MG)",0.637
+"Caculé (BA)",0.637
+"Irupi (ES)",0.637
+"Guarani de Goiás (GO)",0.637
+"Apuí (AM)",0.637
+"Capão do Leão (RS)",0.637
+"Paula Cândido (MG)",0.637
+"Bonfim (MG)",0.637
+"Oratórios (MG)",0.637
+"Valente (BA)",0.637
+"Itanhém (BA)",0.637
+"Itaperuçu (PR)",0.637
+"Capão Bonito do Sul (RS)",0.637
+"Pinheiro (MA)",0.637
+"Paracuru (CE)",0.637
+"Santa Bárbara do Tugúrio (MG)",0.637
+"Sardoá (MG)",0.636
+"Felipe Guerra (RN)",0.636
+"São José do Cerrito (SC)",0.636
+"Olaria (MG)",0.636
+"Uiraúna (PB)",0.636
+"Pindoretama (CE)",0.636
+"Nova Lacerda (MT)",0.636
+"Curionópolis (PA)",0.636
+"Retirolândia (BA)",0.636
+"Dores de Guanhães (MG)",0.636
+"Ibotirama (BA)",0.636
+"Orós (CE)",0.636
+"Espigão Alto do Iguaçu (PR)",0.636
+"Almas (TO)",0.636
+"Tijucas do Sul (PR)",0.636
+"Candói (PR)",0.635
+"Tibau (RN)",0.635
+"Oliveira Fortes (MG)",0.635
+"Itueta (MG)",0.635
+"Pacoti (CE)",0.635
+"Cantagalo (PR)",0.635
+"Piripiri (PI)",0.635
+"São José do Egito (PE)",0.635
+"Terra Santa (PA)",0.635
+"Seabra (BA)",0.635
+"Chapada Gaúcha (MG)",0.635
+"Martins Soares (MG)",0.635
+"Santa Cruz (RN)",0.635
+"Surubim (PE)",0.635
+"Tuparetama (PE)",0.634
+"Conceição do Mato Dentro (MG)",0.634
+"Vila Propício (GO)",0.634
+"Santa Maria do Tocantins (TO)",0.634
+"Gramado Xavier (RS)",0.634
+"Santa Rita do Novo Destino (GO)",0.634
+"Nova Roma (GO)",0.634
+"Paraipaba (CE)",0.634
+"Lagoa dos Patos (MG)",0.634
+"Conceição da Feira (BA)",0.634
+"Carolina (MA)",0.634
+"Porto Firme (MG)",0.634
+"Vargem Grande do Rio Pardo (MG)",0.634
+"São João da Lagoa (MG)",0.634
+"Serrinha (BA)",0.634
+"Itambé do Mato Dentro (MG)",0.634
+"Oeiras (PI)",0.634
+"Pombal (PB)",0.634
+"Mundo Novo (GO)",0.634
+"Itagimirim (BA)",0.634
+"Gravatá (PE)",0.634
+"Novo Horizonte do Oeste (RO)",0.634
+"Taguatinga (TO)",0.634
+"Caranaíba (MG)",0.634
+"Itambacuri (MG)",0.634
+"Entre Folhas (MG)",0.634
+"Tauá (CE)",0.633
+"Bom Jesus da Lapa (BA)",0.633
+"Itapissuma (PE)",0.633
+"Groaíras (CE)",0.633
+"Urucânia (MG)",0.633
+"Minas Novas (MG)",0.633
+"Santana da Boa Vista (RS)",0.633
+"Farias Brito (CE)",0.633
+"Alto Parnaíba (MA)",0.633
+"Tarumirim (MG)",0.633
+"Serranópolis de Minas (MG)",0.633
+"Santo Antônio do Grama (MG)",0.633
+"Aral Moreira (MS)",0.633
+"Caiana (MG)",0.633
+"Pindaré-Mirim (MA)",0.633
+"Gandu (BA)",0.632
+"Miranda (MS)",0.632
+"Cruz (CE)",0.632
+"Dom Macedo Costa (BA)",0.632
+"Presidente Bernardes (MG)",0.632
+"Mato Rico (PR)",0.632
+"Simonésia (MG)",0.632
+"Divino de São Lourenço (ES)",0.632
+"Bocaina (PI)",0.632
+"Veredinha (MG)",0.632
+"Rodelas (BA)",0.632
+"Riachinho (MG)",0.632
+"Córrego Novo (MG)",0.632
+"Silves (AM)",0.632
+"Escada (PE)",0.632
+"José Gonçalves de Minas (MG)",0.632
+"Santo Antônio do Tauá (PA)",0.632
+"Independência (CE)",0.632
+"São Sebastião do Rio Preto (MG)",0.632
+"Rosário (MA)",0.632
+"Lajedão (BA)",0.632
+"Jari (RS)",0.631
+"Desterro do Melo (MG)",0.631
+"Sobrália (MG)",0.631
+"Sobradinho (BA)",0.631
+"Pendências (RN)",0.631
+"Rosário do Catete (SE)",0.631
+"Senhora de Oliveira (MG)",0.631
+"Vargem Alegre (MG)",0.631
+"Nova Olinda (TO)",0.631
+"Sinimbu (RS)",0.631
+"Redentora (RS)",0.631
+"Campinaçu (GO)",0.631
+"Marianópolis do Tocantins (TO)",0.631
+"Cantagalo (MG)",0.631
+"Matipó (MG)",0.631
+"Araguatins (TO)",0.631
+"Uruçuí (PI)",0.631
+"Ichu (BA)",0.631
+"Itinga do Maranhão (MA)",0.63
+"Bonópolis (GO)",0.63
+"Nova Módica (MG)",0.63
+"Penedo (AL)",0.63
+"Santa Rita de Ibitipoca (MG)",0.63
+"Ipiranga do Piauí (PI)",0.63
+"Acaiaca (MG)",0.63
+"São Geraldo do Baixio (MG)",0.63
+"Campos Sales (CE)",0.63
+"Barra do Mendes (BA)",0.63
+"Angical do Piauí (PI)",0.63
+"Ramilândia (PR)",0.63
+"Jangada (MT)",0.63
+"Campina do Simão (PR)",0.63
+"Bacabeira (MA)",0.629
+"Várzea Alegre (CE)",0.629
+"Nova Cruz (RN)",0.629
+"Encanto (RN)",0.629
+"Turuçu (RS)",0.629
+"Vargem (SC)",0.629
+"Itaobim (MG)",0.629
+"Piau (MG)",0.629
+"Pentecoste (CE)",0.629
+"Dores do Turvo (MG)",0.629
+"Bodó (RN)",0.629
+"Reduto (MG)",0.629
+"Rio Bonito do Iguaçu (PR)",0.629
+"São João do Triunfo (PR)",0.629
+"Cândido de Abreu (PR)",0.629
+"Governador Edison Lobão (MA)",0.629
+"Belo Jardim (PE)",0.629
+"Lassance (MG)",0.629
+"São Francisco do Oeste (RN)",0.628
+"Jordânia (MG)",0.628
+"Abaetetuba (PA)",0.628
+"Serra Branca (PB)",0.628
+"Berilo (MG)",0.628
+"Acorizal (MT)",0.628
+"Colônia do Gurguéia (PI)",0.628
+"Riachão do Jacuípe (BA)",0.628
+"Palmeiras do Tocantins (TO)",0.628
+"Abaiara (CE)",0.628
+"Santana de Pirapama (MG)",0.628
+"Milagres (CE)",0.628
+"Itacambira (MG)",0.628
+"Cutias (AP)",0.628
+"Monteiro (PB)",0.628
+"Buriti do Tocantins (TO)",0.627
+"Santa Rita (PB)",0.627
+"Cairu (BA)",0.627
+"Baixio (CE)",0.627
+"Pequizeiro (TO)",0.627
+"Cuparaque (MG)",0.627
+"Itamaraju (BA)",0.627
+"Axixá do Tocantins (TO)",0.627
+"Sumé (PB)",0.627
+"Riacho dos Machados (MG)",0.627
+"Cedro (CE)",0.627
+"Itaverava (MG)",0.627
+"Lagoa Seca (PB)",0.627
+"Lagoa da Confusão (TO)",0.627
+"Espinosa (MG)",0.627
+"Simplício Mendes (PI)",0.627
+"Peçanha (MG)",0.627
+"Pedra Azul (MG)",0.627
+"Santa Bárbara do Pará (PA)",0.627
+"Santa Teresinha (PB)",0.627
+"Lambari D'Oeste (MT)",0.627
+"Coronel Murta (MG)",0.627
+"Cachoeirinha (TO)",0.627
+"Bugre (MG)",0.627
+"São Gonçalo dos Campos (BA)",0.627
+"Vale do Paraíso (RO)",0.627
+"Pavão (MG)",0.627
+"Olhos-D'Água (MG)",0.626
+"Pocrane (MG)",0.626
+"Santo Estêvão (BA)",0.626
+"Pedra Branca do Amapari (AP)",0.626
+"Joanésia (MG)",0.626
+"Mambaí (GO)",0.626
+"Guamaré (RN)",0.626
+"Floresta (PE)",0.626
+"Milhã (CE)",0.626
+"Coroaci (MG)",0.626
+"Coruripe (AL)",0.626
+"São Sebastião do Oeste (MG)",0.626
+"Bonfim (RR)",0.626
+"Arari (MA)",0.626
+"Redenção (CE)",0.626
+"Piedade dos Gerais (MG)",0.626
+"Muribeca (SE)",0.626
+"Tumiritinga (MG)",0.626
+"Várzea (RN)",0.626
+"Serra da Raiz (PB)",0.626
+"Senhora dos Remédios (MG)",0.626
+"Itaitinga (CE)",0.626
+"Mendes Pimentel (MG)",0.626
+"Campo Redondo (RN)",0.626
+"Raposa (MA)",0.626
+"Santa Leopoldina (ES)",0.626
+"Solonópole (CE)",0.625
+"Gurjão (PB)",0.625
+"Medeiros Neto (BA)",0.625
+"Alto Paraíso (RO)",0.625
+"Brás Pires (MG)",0.625
+"Amargosa (BA)",0.625
+"Ibicaraí (BA)",0.625
+"Guimarães (MA)",0.625
+"Mâncio Lima (AC)",0.625
+"Caetité (BA)",0.625
+"Lajes Pintadas (RN)",0.625
+"Paulistas (MG)",0.625
+"Santa Cruz do Escalvado (MG)",0.625
+"Potiraguá (BA)",0.625
+"Nova Olinda (CE)",0.625
+"São João do Pacuí (MG)",0.625
+"Angical (BA)",0.625
+"Lagarto (SE)",0.625
+"Francisco Dumont (MG)",0.625
+"Ervália (MG)",0.625
+"Jaguaruana (CE)",0.624
+"Jenipapo de Minas (MG)",0.624
+"Caxias (MA)",0.624
+"Icaraí de Minas (MG)",0.624
+"Lajes (RN)",0.624
+"Rio Pardo de Minas (MG)",0.624
+"Fortim (CE)",0.624
+"Pedra do Anta (MG)",0.624
+"Buritizeiro (MG)",0.624
+"Itajá (RN)",0.624
+"Amaral Ferrador (RS)",0.624
+"Poté (MG)",0.624
+"Caparaó (MG)",0.624
+"Inhuma (PI)",0.624
+"Medina (MG)",0.624
+"Ponte Alta do Tocantins (TO)",0.624
+"Caracaraí (RR)",0.624
+"Capitão Andrade (MG)",0.624
+"Vale do Sol (RS)",0.624
+"Braúnas (MG)",0.624
+"Almino Afonso (RN)",0.624
+"Barra Longa (MG)",0.624
+"Angicos (RN)",0.624
+"Ourilândia do Norte (PA)",0.624
+"Bom Jesus do Galho (MG)",0.623
+"Miguel Leão (PI)",0.623
+"Divinolândia de Minas (MG)",0.623
+"Guaraciaba (MG)",0.623
+"Zabelê (PB)",0.623
+"Lençóis (BA)",0.623
+"Bela Cruz (CE)",0.623
+"São Miguel dos Campos (AL)",0.623
+"Oriximiná (PA)",0.623
+"Juti (MS)",0.623
+"Valença (BA)",0.623
+"São Miguel do Tocantins (TO)",0.623
+"Itapagé (CE)",0.623
+"Petrolândia (PE)",0.623
+"Cabrobó (PE)",0.623
+"Tenente Laurentino Cruz (RN)",0.623
+"Equador (RN)",0.623
+"São José do Norte (RS)",0.623
+"Esperança (PB)",0.623
+"Elísio Medrado (BA)",0.623
+"Caturité (PB)",0.623
+"Cedro de São João (SE)",0.623
+"Ferreiros (PE)",0.622
+"Mirinzal (MA)",0.622
+"Palmares (PE)",0.622
+"Dom Pedro (MA)",0.622
+"Imbaú (PR)",0.622
+"Ibitirama (ES)",0.622
+"Quixeré (CE)",0.622
+"São Paulo do Potengi (RN)",0.622
+"Porteiras (CE)",0.622
+"Francisco Badaró (MG)",0.622
+"Monte do Carmo (TO)",0.622
+"Aratuba (CE)",0.622
+"Missão Velha (CE)",0.622
+"Santarém (PB)",0.622
+"Abel Figueiredo (PA)",0.622
+"Passa Sete (RS)",0.622
+"Milagres (BA)",0.622
+"Dom Joaquim (MG)",0.622
+"Nísia Floresta (RN)",0.622
+"Plácido de Castro (AC)",0.622
+"Jacundá (PA)",0.622
+"Quixabá (PB)",0.622
+"São João do Cariri (PB)",0.622
+"Calmon (SC)",0.622
+"São Pedro do Suaçuí (MG)",0.622
+"Palmácia (CE)",0.622
+"Martins (RN)",0.622
+"Maragogipe (BA)",0.621
+"Campo Azul (MG)",0.621
+"Catuti (MG)",0.621
+"Piancó (PB)",0.621
+"Japaratuba (SE)",0.621
+"Cônego Marinho (MG)",0.621
+"Jaguaribe (CE)",0.621
+"Sertãozinho (PB)",0.621
+"Doutor Severiano (RN)",0.621
+"Licínio de Almeida (BA)",0.621
+"Pacujá (CE)",0.621
+"Cerro Negro (SC)",0.621
+"Filadélfia (TO)",0.621
+"Capim Grosso (BA)",0.621
+"Piraquê (TO)",0.621
+"Santana do Manhuaçu (MG)",0.621
+"Tamarana (PR)",0.621
+"Goianorte (TO)",0.621
+"Prado (BA)",0.621
+"Augusto Severo (RN)",0.621
+"Portalegre (RN)",0.621
+"Campo do Brito (SE)",0.621
+"Virgolândia (MG)",0.62
+"Antônio Almeida (PI)",0.62
+"Senador Modestino Gonçalves (MG)",0.62
+"Camocim (CE)",0.62
+"Bias Fortes (MG)",0.62
+"Itaberaba (BA)",0.62
+"São Félix de Minas (MG)",0.62
+"Alto Rio Doce (MG)",0.62
+"Monte Santo do Tocantins (TO)",0.62
+"Santo Antônio (RN)",0.62
+"Itaquiraí (MS)",0.62
+"Jacinto (MG)",0.62
+"Chapada da Natividade (TO)",0.62
+"Ipueiras (TO)",0.62
+"Passagem (PB)",0.62
+"São Luís do Curu (CE)",0.62
+"Charrua (RS)",0.62
+"Irará (BA)",0.62
+"Urucará (AM)",0.62
+"Urucuia (MG)",0.619
+"Cantá (RR)",0.619
+"Benjamin Constant do Sul (RS)",0.619
+"Pingo-D'Água (MG)",0.619
+"Chapada de Areia (TO)",0.619
+"Ipojuca (PE)",0.619
+"Rorainópolis (RR)",0.619
+"Brejo dos Santos (PB)",0.619
+"Vitória do Jari (AP)",0.619
+"Fronteiras (PI)",0.619
+"Santo Antônio dos Milagres (PI)",0.619
+"Matinha (MA)",0.619
+"Baturité (CE)",0.619
+"Senador Pompeu (CE)",0.619
+"Jaguaribara (CE)",0.618
+"Toritama (PE)",0.618
+"Meruoca (CE)",0.618
+"Mamonas (MG)",0.618
+"Viana (MA)",0.618
+"Catarina (CE)",0.618
+"Formosa do Rio Preto (BA)",0.618
+"Arneiroz (CE)",0.618
+"Ipu (CE)",0.618
+"Reserva (PR)",0.618
+"Patu (RN)",0.618
+"Conde (PB)",0.618
+"Mortugaba (BA)",0.618
+"Malacacheta (MG)",0.618
+"Apuiarés (CE)",0.618
+"Umarizal (RN)",0.618
+"José de Freitas (PI)",0.618
+"Timbaúba (PE)",0.618
+"Santa Cruz (PB)",0.618
+"Demerval Lobão (PI)",0.618
+"Maruim (SE)",0.618
+"Guaiúba (CE)",0.617
+"São José do Sabugi (PB)",0.617
+"Puxinanã (PB)",0.617
+"José Raydan (MG)",0.617
+"Parecis (RO)",0.617
+"Uibaí (BA)",0.617
+"Vigia (PA)",0.617
+"Major Sales (RN)",0.617
+"Muniz Ferreira (BA)",0.617
+"Saubara (BA)",0.617
+"Salinas da Margarida (BA)",0.617
+"Sítio D'Abadia (GO)",0.617
+"Riachuelo (SE)",0.617
+"Cajuri (MG)",0.617
+"Junco do Seridó (PB)",0.617
+"São Felipe (BA)",0.616
+"São Gonçalo do Piauí (PI)",0.616
+"Itaguatins (TO)",0.616
+"Datas (MG)",0.616
+"Uruçuca (BA)",0.616
+"Soledade (PB)",0.616
+"Caravelas (BA)",0.616
+"Ceará-Mirim (RN)",0.616
+"Tabatinga (AM)",0.616
+"Água Nova (RN)",0.616
+"Matias Cardoso (MG)",0.616
+"Rio dos Bois (TO)",0.616
+"Campanário (MG)",0.616
+"Novorizonte (MG)",0.616
+"Herveiras (RS)",0.616
+"Fortaleza dos Nogueiras (MA)",0.616
+"Buritis (RO)",0.616
+"Chuvisca (RS)",0.616
+"Icapuí (CE)",0.616
+"Massapê (CE)",0.616
+"Santa Fé do Araguaia (TO)",0.616
+"Santa Quitéria (CE)",0.616
+"Barreira (CE)",0.616
+"Ibipeba (BA)",0.616
+"São Mateus do Maranhão (MA)",0.616
+"Entre Rios (BA)",0.615
+"Aracoiaba (CE)",0.615
+"São José do Campestre (RN)",0.615
+"Santa Fé de Minas (MG)",0.615
+"Gaúcha do Norte (MT)",0.615
+"Ribamar Fiquene (MA)",0.615
+"Capela (SE)",0.615
+"Janduís (RN)",0.615
+"Riacho de Santana (BA)",0.615
+"Marilac (MG)",0.615
+"Dom Eliseu (PA)",0.615
+"Monte Alegre de Goiás (GO)",0.615
+"Caputira (MG)",0.615
+"Jequitinhonha (MG)",0.615
+"Barra de São Miguel (AL)",0.615
+"São João dos Patos (MA)",0.615
+"Sebastião Laranjeiras (BA)",0.615
+"Paramirim (BA)",0.615
+"Itaporanga (PB)",0.615
+"Porto Rico do Maranhão (MA)",0.615
+"Cedro (PE)",0.615
+"Monsenhor Gil (PI)",0.615
+"Soure (PA)",0.615
+"São João do Paraíso (MG)",0.615
+"Jaquirana (RS)",0.614
+"Pilões (RN)",0.614
+"Igarapé Grande (MA)",0.614
+"Sapeaçu (BA)",0.614
+"Manacapuru (AM)",0.614
+"Ubaporanga (MG)",0.614
+"Cristópolis (BA)",0.614
+"Itapuã do Oeste (RO)",0.614
+"Igaporã (BA)",0.614
+"Presidente Juscelino (MG)",0.614
+"Serra do Mel (RN)",0.614
+"Sete Quedas (MS)",0.614
+"Ibirapuã (BA)",0.614
+"Marquinho (PR)",0.614
+"Altos (PI)",0.614
+"Pracuúba (AP)",0.614
+"Itaú (RN)",0.614
+"Pedras de Maria da Cruz (MG)",0.614
+"Luislândia (MG)",0.614
+"Nova Russas (CE)",0.614
+"Jardim (CE)",0.614
+"Brasiléia (AC)",0.614
+"Patis (MG)",0.614
+"Ibiaí (MG)",0.614
+"Santa Maria da Vitória (BA)",0.614
+"Ouro Velho (PB)",0.614
+"Presidente Dutra (BA)",0.614
+"Sertânia (PE)",0.613
+"Montalvânia (MG)",0.613
+"Lajeado do Bugre (RS)",0.613
+"Castro Alves (BA)",0.613
+"Santa Rita de Minas (MG)",0.613
+"Montividiu do Norte (GO)",0.613
+"Santo Inácio do Piauí (PI)",0.613
+"Jaborandi (BA)",0.613
+"Iranduba (AM)",0.613
+"Santa Maria do Salto (MG)",0.613
+"Itabaiana (PB)",0.613
+"Ribeirópolis (SE)",0.613
+"Buerarema (BA)",0.613
+"Brasil Novo (PA)",0.613
+"Coaraci (BA)",0.613
+"Santa Bárbara do Leste (MG)",0.613
+"Rio Formoso (PE)",0.613
+"Corumbiara (RO)",0.613
+"Lavras da Mangabeira (CE)",0.613
+"Cujubim (RO)",0.612
+"Bertolínia (PI)",0.612
+"Pintadas (BA)",0.612
+"Canindé (CE)",0.612
+"Poço de José de Moura (PB)",0.612
+"Jaguaretama (CE)",0.612
+"Marco (CE)",0.612
+"Cururupu (MA)",0.612
+"Santana do Cariri (CE)",0.612
+"Delmiro Gouveia (AL)",0.612
+"Boninal (BA)",0.612
+"Taboleiro Grande (RN)",0.612
+"Barro Duro (PI)",0.612
+"Santa Cruz da Baixa Verde (PE)",0.612
+"Mathias Lobato (MG)",0.612
+"Vermelho Novo (MG)",0.612
+"Itacajá (TO)",0.612
+"Piedade de Caratinga (MG)",0.612
+"Conceição do Coité (BA)",0.611
+"Rio Preto da Eva (AM)",0.611
+"Sumidouro (RJ)",0.611
+"Livramento de Nossa Senhora (BA)",0.611
+"Amparo de São Francisco (SE)",0.611
+"Capistrano (CE)",0.611
+"Cabaceiras (PB)",0.611
+"São José de Mipibu (RN)",0.611
+"São Benedito (CE)",0.611
+"Varjota (CE)",0.611
+"São Rafael (RN)",0.611
+"Lajedo (PE)",0.611
+"Ibiassucê (BA)",0.611
+"São Francisco do Guaporé (RO)",0.611
+"Colniza (MT)",0.611
+"Costa Marques (RO)",0.611
+"Ubaitaba (BA)",0.611
+"Tunas do Paraná (PR)",0.611
+"Miranda do Norte (MA)",0.61
+"Virgem da Lapa (MG)",0.61
+"São Félix do Piauí (PI)",0.61
+"Pilar (AL)",0.61
+"São José do Belmonte (PE)",0.61
+"Madalena (CE)",0.61
+"Barão do Triunfo (RS)",0.61
+"Indaiabira (MG)",0.61
+"Orocó (PE)",0.61
+"Pesqueira (PE)",0.61
+"Morada Nova (CE)",0.61
+"São Raimundo das Mangabeiras (MA)",0.61
+"Ruy Barbosa (BA)",0.61
+"Santa Margarida (MG)",0.61
+"Santa Cruz da Vitória (BA)",0.61
+"Monsenhor Tabosa (CE)",0.61
+"Barrocas (BA)",0.61
+"Açucena (MG)",0.61
+"Pastos Bons (MA)",0.61
+"Divina Pastora (SE)",0.61
+"Ererê (CE)",0.61
+"Orobó (PE)",0.61
+"Coreaú (CE)",0.61
+"Igaracy (PB)",0.61
+"Itarantim (BA)",0.61
+"Macaúbas (BA)",0.609
+"Rubim (MG)",0.609
+"São Gabriel da Cachoeira (AM)",0.609
+"Marapanim (PA)",0.609
+"São João do Paraíso (MA)",0.609
+"Baía Formosa (RN)",0.609
+"Divisópolis (MG)",0.609
+"Urupá (RO)",0.609
+"Macaparana (PE)",0.609
+"Ubaí (MG)",0.609
+"Santa Terezinha (MT)",0.609
+"Catunda (CE)",0.609
+"Catende (PE)",0.609
+"Amaralina (GO)",0.609
+"Assunção (PB)",0.609
+"Triunfo (PB)",0.609
+"Deputado Irapuan Pinheiro (CE)",0.609
+"Ortigueira (PR)",0.609
+"Santa Helena (PB)",0.609
+"Santa Maria do Oeste (PR)",0.609
+"Jampruca (MG)",0.609
+"Siriri (SE)",0.609
+"Santa Rita (MA)",0.609
+"Monte Alegre (RN)",0.609
+"Nova Timboteua (PA)",0.609
+"Lagoa do Carro (PE)",0.609
+"Grajaú (MA)",0.609
+"Salgado (SE)",0.609
+"Marcelino Vieira (RN)",0.609
+"Guaraciaba do Norte (CE)",0.609
+"Diamante do Sul (PR)",0.608
+"Marizópolis (PB)",0.608
+"José da Penha (RN)",0.608
+"Areial (PB)",0.608
+"Picuí (PB)",0.608
+"Luisburgo (MG)",0.608
+"Prata (PB)",0.608
+"Maxaranguape (RN)",0.608
+"Queimadas (PB)",0.608
+"São Francisco do Pará (PA)",0.608
+"Rafael Fernandes (RN)",0.608
+"Francisco Santos (PI)",0.608
+"São João do Rio do Peixe (PB)",0.608
+"Santana (BA)",0.608
+"Alcobaça (BA)",0.608
+"São Fernando (RN)",0.608
+"Ingazeira (PE)",0.608
+"Salto da Divisa (MG)",0.608
+"Salvaterra (PA)",0.608
+"São José da Coroa Grande (PE)",0.608
+"Japonvar (MG)",0.608
+"Luís Gomes (RN)",0.608
+"Divisa Alegre (MG)",0.608
+"Tangará (RN)",0.608
+"Rio da Conceição (TO)",0.608
+"Serra Dourada (BA)",0.608
+"Ibiapina (CE)",0.608
+"Mulungu (CE)",0.607
+"Remígio (PB)",0.607
+"Curimatá (PI)",0.607
+"Santa Efigênia de Minas (MG)",0.607
+"Boqueirão (PB)",0.607
+"Barro Alto (BA)",0.607
+"Ouriçangas (BA)",0.607
+"Mucambo (CE)",0.607
+"Maracás (BA)",0.607
+"São Sebastião do Anta (MG)",0.607
+"Cerro Corá (RN)",0.607
+"Santa Rita do Itueto (MG)",0.607
+"Mateiros (TO)",0.607
+"Davinópolis (MA)",0.607
+"Monte Negro (RO)",0.607
+"Amparo (PB)",0.606
+"Sampaio (TO)",0.606
+"Tururu (CE)",0.606
+"Francisco Dantas (RN)",0.606
+"Arês (RN)",0.606
+"São Miguel (RN)",0.606
+"Ibicuitinga (CE)",0.606
+"Bezerros (PE)",0.606
+"Banabuiú (CE)",0.606
+"Amontada (CE)",0.606
+"Acarape (CE)",0.606
+"Barra do Corda (MA)",0.606
+"Santa Bárbara do Monte Verde (MG)",0.606
+"Trizidela do Vale (MA)",0.606
+"Conceição do Almeida (BA)",0.606
+"Icó (CE)",0.606
+"Mucugê (BA)",0.606
+"Camutanga (PE)",0.606
+"Princesa Isabel (PB)",0.606
+"Felício dos Santos (MG)",0.606
+"Itarema (CE)",0.606
+"Ponto Chique (MG)",0.606
+"Curral Velho (PB)",0.606
+"São Bentinho (PB)",0.606
+"Gonzaga (MG)",0.606
+"Alexandria (RN)",0.606
+"Ituberá (BA)",0.606
+"Ipaumirim (CE)",0.606
+"Trairi (CE)",0.606
+"Passa E Fica (RN)",0.606
+"Vicência (PE)",0.605
+"Aurora (CE)",0.605
+"Novo Oriente (CE)",0.605
+"Cedral (MA)",0.605
+"Divino (MG)",0.605
+"Verdejante (PE)",0.605
+"Irauçuba (CE)",0.605
+"Couto Magalhães (TO)",0.605
+"Paripueira (AL)",0.605
+"Esperantina (PI)",0.605
+"São Pedro da Água Branca (MA)",0.605
+"Macarani (BA)",0.605
+"Pindorama do Tocantins (TO)",0.605
+"Uauá (BA)",0.605
+"Humaitá (AM)",0.605
+"São Bento do Tocantins (TO)",0.605
+"Terra Alta (PA)",0.605
+"Santa Rita de Cássia (BA)",0.605
+"São Salvador do Tocantins (TO)",0.605
+"Rio do Prado (MG)",0.605
+"Mauriti (CE)",0.605
+"Tabira (PE)",0.605
+"Tracunhaém (PE)",0.605
+"Teixeira (PB)",0.605
+"Ruy Barbosa (RN)",0.605
+"Rio de Contas (BA)",0.605
+"Glória do Goitá (PE)",0.604
+"Severiano Melo (RN)",0.604
+"Poções (BA)",0.604
+"Chapadinha (MA)",0.604
+"Potiretama (CE)",0.604
+"Telha (SE)",0.604
+"Araguanã (TO)",0.604
+"Grão Mogol (MG)",0.604
+"Simão Dias (SE)",0.604
+"Godofredo Viana (MA)",0.604
+"Berizal (MG)",0.604
+"Aliança (PE)",0.604
+"Itapiúna (CE)",0.604
+"Jaçanã (RN)",0.604
+"Frecheirinha (CE)",0.604
+"Chã de Alegria (PE)",0.604
+"Boquim (SE)",0.604
+"Boca da Mata (AL)",0.604
+"Rodolfo Fernandes (RN)",0.604
+"Acrelândia (AC)",0.604
+"Ulianópolis (PA)",0.604
+"Cumbe (SE)",0.604
+"Chorozinho (CE)",0.604
+"Bernardo do Mearim (MA)",0.604
+"Sítio Novo do Tocantins (TO)",0.604
+"Macururé (BA)",0.604
+"Sanharó (PE)",0.603
+"Ipanguaçu (RN)",0.603
+"Paraú (RN)",0.603
+"Boquira (BA)",0.603
+"Sena Madureira (AC)",0.603
+"Jericó (PB)",0.603
+"Duas Estradas (PB)",0.603
+"Jardim de Piranhas (RN)",0.603
+"Pedra Branca (CE)",0.603
+"Olivedos (PB)",0.603
+"Pirambu (SE)",0.603
+"Ponte Alta do Bom Jesus (TO)",0.603
+"Correntina (BA)",0.603
+"Abaíra (BA)",0.603
+"Carrapateira (PB)",0.603
+"Ferros (MG)",0.603
+"Senador Sá (CE)",0.603
+"Pindaí (BA)",0.603
+"Franciscópolis (MG)",0.603
+"Barra do Ouro (TO)",0.603
+"São Bento (MA)",0.602
+"Barro Preto (BA)",0.602
+"Rio Espera (MG)",0.602
+"Altaneira (CE)",0.602
+"Gameleira (PE)",0.602
+"Senador La Rocque (MA)",0.602
+"Bom Jardim (PE)",0.602
+"Santana do Araguaia (PA)",0.602
+"Caaporã (PB)",0.602
+"Colares (PA)",0.602
+"Jussiape (BA)",0.602
+"Condado (PE)",0.602
+"Ribeirão (PE)",0.602
+"Araripina (PE)",0.602
+"Rondon do Pará (PA)",0.602
+"Botumirim (MG)",0.602
+"Ibititá (BA)",0.602
+"Itabi (SE)",0.602
+"Lago dos Rodrigues (MA)",0.602
+"Lagoa de Itaenga (PE)",0.602
+"Triunfo Potiguar (RN)",0.602
+"Nazária (PI)",0.602
+"Nova Floresta (PB)",0.601
+"Acaraú (CE)",0.601
+"Ribeira do Pombal (BA)",0.601
+"Mutuípe (BA)",0.601
+"Jucurutu (RN)",0.601
+"Itapiratins (TO)",0.601
+"Cotriguaçu (MT)",0.601
+"Cândido Sales (BA)",0.601
+"Reriutaba (CE)",0.601
+"Jequeri (MG)",0.601
+"Cipó (BA)",0.601
+"Águas Vermelhas (MG)",0.601
+"Santa Cruz do Piauí (PI)",0.601
+"Dom Expedito Lopes (PI)",0.601
+"Lagoa D'Anta (RN)",0.601
+"Pereiro (CE)",0.601
+"Ribeiro Gonçalves (PI)",0.601
+"Alto Santo (CE)",0.601
+"Bequimão (MA)",0.601
+"Taipas do Tocantins (TO)",0.601
+"Diogo de Vasconcelos (MG)",0.601
+"São Pedro dos Crentes (MA)",0.6
+"Chorrochó (BA)",0.6
+"Itiruçu (BA)",0.6
+"Assaré (CE)",0.6
+"Santo André (PB)",0.6
+"Cidelândia (MA)",0.6
+"Coribe (BA)",0.6
+"Bragança (PA)",0.6
+"Nossa Senhora das Dores (SE)",0.6
+"Itinga (MG)",0.6
+"Feira Nova (PE)",0.6
+"Wanderley (BA)",0.6
+"Catas Altas da Noruega (MG)",0.6
+"Alcântaras (CE)",0.6
+"Inácio Martins (PR)",0.6
+"Rio Sono (TO)",0.6
+"Coronel Domingos Soares (PR)",0.6
+"Barão de Melgaço (MT)",0.6
+"Piquet Carneiro (CE)",0.6
+"Moreilândia (PE)",0.6
+"Piranga (MG)",0.6
+"Paulistana (PI)",0.6
+"São Geraldo da Piedade (MG)",0.6
+"Cravolândia (BA)",0.599
+"Tanque Novo (BA)",0.599
+"Boa Ventura (PB)",0.599
+"Barro (CE)",0.599
+"Itapé (BA)",0.599
+"Malhada dos Bois (SE)",0.599
+"Hugo Napoleão (PI)",0.599
+"Lafaiete Coutinho (BA)",0.599
+"Mãe do Rio (PA)",0.599
+"Parnamirim (PE)",0.599
+"Pedra Branca (PB)",0.599
+"Bandeira (MG)",0.599
+"Alagoinha (PE)",0.599
+"Itajuípe (BA)",0.599
+"Iraquara (BA)",0.599
+"Porto Estrela (MT)",0.599
+"Padre Carvalho (MG)",0.599
+"Gavião (BA)",0.599
+"Peri Mirim (MA)",0.599
+"Xapuri (AC)",0.599
+"Mansidão (BA)",0.599
+"Itapecuru Mirim (MA)",0.599
+"Itabela (BA)",0.599
+"Agricolândia (PI)",0.599
+"Chã Grande (PE)",0.599
+"Terra Nova (PE)",0.599
+"Santa Luzia do Paruá (MA)",0.599
+"Tasso Fragoso (MA)",0.599
+"Martinópole (CE)",0.599
+"Antonina do Norte (CE)",0.599
+"Capela do Alto Alegre (BA)",0.599
+"Amarante (PI)",0.598
+"Belmonte (BA)",0.598
+"Nossa Senhora de Lourdes (SE)",0.598
+"Iguaraci (PE)",0.598
+"Urandi (BA)",0.598
+"São João Batista (MA)",0.598
+"Santaluz (BA)",0.598
+"Seringueiras (RO)",0.598
+"Monte das Gameleiras (RN)",0.598
+"Jucás (CE)",0.598
+"Chapada do Norte (MG)",0.598
+"Altinho (PE)",0.598
+"Santa Maria do Pará (PA)",0.598
+"Boa Viagem (CE)",0.598
+"Pombos (PE)",0.598
+"Antônio Gonçalves (BA)",0.598
+"Serrinha dos Pintos (RN)",0.598
+"Angelândia (MG)",0.597
+"Lagoa Grande (PE)",0.597
+"Fernando Pedroza (RN)",0.597
+"Cariús (CE)",0.597
+"Frutuoso Gomes (RN)",0.597
+"Magalhães Barata (PA)",0.597
+"Novo Horizonte (BA)",0.597
+"Nova Fátima (BA)",0.597
+"Hidrolândia (CE)",0.597
+"Materlândia (MG)",0.597
+"Morro do Pilar (MG)",0.597
+"Sirinhaém (PE)",0.597
+"Brejões (BA)",0.597
+"Tanquinho (BA)",0.597
+"Lagoinha do Piauí (PI)",0.597
+"Maribondo (AL)",0.597
+"Bom Jesus (PB)",0.597
+"Santa Luzia do Norte (AL)",0.597
+"São Domingos (GO)",0.597
+"Aguiar (PB)",0.597
+"Serra Negra do Norte (RN)",0.597
+"Brejo do Cruz (PB)",0.597
+"Flores de Goiás (GO)",0.597
+"Piracuruca (PI)",0.596
+"Vitória do Xingu (PA)",0.596
+"Central (BA)",0.596
+"Upanema (RN)",0.596
+"Colinas (MA)",0.596
+"Vitória do Mearim (MA)",0.596
+"Machadinho D'Oeste (RO)",0.596
+"Muricilândia (TO)",0.596
+"Manaquiri (AM)",0.596
+"Lapão (BA)",0.596
+"Padre Paraíso (MG)",0.596
+"Cacimba de Areia (PB)",0.596
+"Novo Jardim (TO)",0.596
+"Cocos (BA)",0.596
+"Cariré (CE)",0.596
+"São Braz do Piauí (PI)",0.596
+"Governador Jorge Teixeira (RO)",0.596
+"Paranã (TO)",0.595
+"Santa Rosa do Tocantins (TO)",0.595
+"Ouro Verde de Minas (MG)",0.595
+"Igarapé-Açu (PA)",0.595
+"Acopiara (CE)",0.595
+"Presidente Kubitschek (MG)",0.595
+"Zé Doca (MA)",0.595
+"Solânea (PB)",0.595
+"São Geraldo do Araguaia (PA)",0.595
+"Nova Palmeira (PB)",0.595
+"Codó (MA)",0.595
+"Itacuruba (PE)",0.595
+"Pirpirituba (PB)",0.595
+"Jundiá (RN)",0.595
+"São Bento do Trairí (RN)",0.595
+"Emas (PB)",0.595
+"Trindade (PE)",0.595
+"São Pedro do Piauí (PI)",0.595
+"São Lourenço do Piauí (PI)",0.595
+"Alagoinha (PB)",0.595
+"Ponto dos Volantes (MG)",0.595
+"Eliseu Martins (PI)",0.595
+"Granito (PE)",0.595
+"Serrita (PE)",0.595
+"Barras (PI)",0.595
+"Serra do Ramalho (BA)",0.595
+"Arauá (SE)",0.595
+"Nova Nazaré (MT)",0.595
+"João Câmara (RN)",0.595
+"Custódia (PE)",0.594
+"Itororó (BA)",0.594
+"Riacho de Santo Antônio (PB)",0.594
+"Normandia (RR)",0.594
+"Carrasco Bonito (TO)",0.594
+"Anamã (AM)",0.594
+"Bertópolis (MG)",0.594
+"São Julião (PI)",0.594
+"Areia (PB)",0.594
+"Rio do Pires (BA)",0.594
+"Ocara (CE)",0.594
+"Quiterianópolis (CE)",0.594
+"Pintópolis (MG)",0.594
+"São Domingos do Araguaia (PA)",0.594
+"Anísio de Abreu (PI)",0.594
+"Batalha (AL)",0.594
+"Santana dos Garrotes (PB)",0.594
+"São Sebastião de Lagoa de Roça (PB)",0.594
+"São Félix do Xingu (PA)",0.594
+"Bannach (PA)",0.594
+"Teodoro Sampaio (BA)",0.594
+"Tapiramutá (BA)",0.594
+"Óbidos (PA)",0.594
+"Varzelândia (MG)",0.594
+"Condado (PB)",0.594
+"Santa Terezinha (PE)",0.593
+"Ubatã (BA)",0.593
+"Jacaraci (BA)",0.593
+"União dos Palmares (AL)",0.593
+"Carnaubal (CE)",0.593
+"Buenos Aires (PE)",0.593
+"João Dourado (BA)",0.593
+"Glória (BA)",0.593
+"Comercinho (MG)",0.593
+"Pedra Mole (SE)",0.593
+"Diamante (PB)",0.593
+"Belém (AL)",0.593
+"Campo Novo de Rondônia (RO)",0.593
+"São Bento do Una (PE)",0.593
+"Jardim do Mulato (PI)",0.593
+"Tamandaré (PE)",0.593
+"Miravânia (MG)",0.593
+"São Miguel das Matas (BA)",0.593
+"Tacuru (MS)",0.593
+"Maraú (BA)",0.593
+"Aragominas (TO)",0.593
+"Pão de Açúcar (AL)",0.593
+"Antas (BA)",0.592
+"Brejinho (RN)",0.592
+"Tartarugalzinho (AP)",0.592
+"Belém (PB)",0.592
+"São Gabriel (BA)",0.592
+"Pedrinhas (SE)",0.592
+"Passira (PE)",0.592
+"Araçoiaba (PE)",0.592
+"Agrestina (PE)",0.592
+"Riachuelo (RN)",0.592
+"Barão de Grajaú (MA)",0.592
+"Santa Rosa de Lima (SE)",0.592
+"Santanópolis (BA)",0.592
+"Brejolândia (BA)",0.592
+"Venturosa (PE)",0.592
+"Queimadas (BA)",0.592
+"Souto Soares (BA)",0.592
+"Governador Dix-Sept Rosado (RN)",0.592
+"Alvarenga (MG)",0.592
+"São Vicente Ferrer (MA)",0.592
+"Conceição do Tocantins (TO)",0.592
+"Nova Belém (MG)",0.592
+"Cupira (PE)",0.592
+"Coração de Maria (BA)",0.592
+"Ingá (PB)",0.592
+"Alto Alegre dos Parecis (RO)",0.592
+"Serrinha (RN)",0.592
+"Caridade (CE)",0.592
+"Viçosa (RN)",0.592
+"Juruti (PA)",0.592
+"Bom Sucesso (PB)",0.592
+"Conceição (PB)",0.592
+"Mazagão (AP)",0.592
+"Itaju do Colônia (BA)",0.592
+"Juvenília (MG)",0.592
+"Miraíma (CE)",0.592
+"Itapetim (PE)",0.592
+"Caiçara (PB)",0.592
+"Fronteira dos Vales (MG)",0.592
+"Tenente Ananias (RN)",0.592
+"Coremas (PB)",0.592
+"São Caitano (PE)",0.591
+"Quixelô (CE)",0.591
+"São José de Piranhas (PB)",0.591
+"São Miguel do Gostoso (RN)",0.591
+"Iuiú (BA)",0.591
+"Candiba (BA)",0.591
+"Cuité (PB)",0.591
+"São Miguel dos Milagres (AL)",0.591
+"Ibiracatu (MG)",0.591
+"Pocinhos (PB)",0.591
+"Riacho de Santana (RN)",0.591
+"Umari (CE)",0.591
+"Regeneração (PI)",0.591
+"Ibicoara (BA)",0.591
+"Jerumenha (PI)",0.591
+"Santana do Ipanema (AL)",0.591
+"São Miguel do Guamá (PA)",0.591
+"Brejo Grande do Araguaia (PA)",0.591
+"Santana do Matos (RN)",0.591
+"Mirandiba (PE)",0.591
+"Dom Basílio (BA)",0.591
+"Pires Ferreira (CE)",0.591
+"Presidente Médici (MA)",0.591
+"Cotegipe (BA)",0.59
+"Sapucaia (PA)",0.59
+"Buriti Bravo (MA)",0.59
+"Montadas (PB)",0.59
+"Utinga (BA)",0.59
+"Croatá (CE)",0.59
+"Pai Pedro (MG)",0.59
+"Ararendá (CE)",0.59
+"Marcos Parente (PI)",0.59
+"Porto do Mangue (RN)",0.59
+"Frei Gaspar (MG)",0.59
+"Mundo Novo (BA)",0.59
+"São Domingos do Azeitão (MA)",0.59
+"Santana do São Francisco (SE)",0.59
+"Canavieiras (BA)",0.59
+"Pedras de Fogo (PB)",0.59
+"Santa Maria (RN)",0.59
+"Santa Maria da Boa Vista (PE)",0.59
+"Serrolândia (BA)",0.59
+"Paratinga (BA)",0.59
+"Ipupiara (BA)",0.59
+"Bom Jesus do Tocantins (PA)",0.589
+"Frei Paulo (SE)",0.589
+"Conceição do Canindé (PI)",0.589
+"Olho D'Água das Cunhãs (MA)",0.589
+"Baianópolis (BA)",0.589
+"Theobroma (RO)",0.589
+"Lajeado Novo (MA)",0.589
+"Monte Alegre (PA)",0.589
+"Dormentes (PE)",0.589
+"Paraná (RN)",0.589
+"São Domingos do Cariri (PB)",0.589
+"Bujari (AC)",0.589
+"Redenção do Gurguéia (PI)",0.589
+"Uruará (PA)",0.589
+"Carnaubais (RN)",0.589
+"Passagem (RN)",0.589
+"Lago da Pedra (MA)",0.589
+"Neópolis (SE)",0.589
+"Coronel Sapucaia (MS)",0.589
+"Paulo Jacinto (AL)",0.589
+"Anguera (BA)",0.589
+"São Pedro (RN)",0.589
+"Esplanada (BA)",0.589
+"Itagibá (BA)",0.589
+"Palestina do Pará (PA)",0.589
+"Lagoa de Velhos (RN)",0.589
+"Tocantínia (TO)",0.589
+"Piranhas (AL)",0.589
+"Santa Luz (PI)",0.588
+"Caldeirão Grande do Piauí (PI)",0.588
+"Urbano Santos (MA)",0.588
+"Tailândia (PA)",0.588
+"Paranhos (MS)",0.588
+"Morrinhos (CE)",0.588
+"Maués (AM)",0.588
+"Camocim de São Félix (PE)",0.588
+"Belterra (PA)",0.588
+"São Domingos (SE)",0.588
+"Ataléia (MG)",0.588
+"Morro do Chapéu (BA)",0.588
+"Andorinha (BA)",0.588
+"Assis Brasil (AC)",0.588
+"Boca do Acre (AM)",0.588
+"Luís Domingues (MA)",0.588
+"Colônia do Piauí (PI)",0.588
+"Aramari (BA)",0.588
+"Urucurituba (AM)",0.588
+"Pedrão (BA)",0.588
+"Afrânio (PE)",0.588
+"Carira (SE)",0.588
+"Feira da Mata (BA)",0.588
+"Dom Feliciano (RS)",0.587
+"Canarana (BA)",0.587
+"Wagner (BA)",0.587
+"Paulista (PB)",0.587
+"Santa Teresinha (BA)",0.587
+"Malhador (SE)",0.587
+"Tupiratins (TO)",0.587
+"Montezuma (MG)",0.587
+"Monte Horebe (PB)",0.587
+"Moita Bonita (SE)",0.587
+"Presidente Vargas (MA)",0.587
+"Santana do Acaraú (CE)",0.587
+"Castelo do Piauí (PI)",0.587
+"São Francisco (SE)",0.587
+"Nossa Senhora da Glória (SE)",0.587
+"Nova Mamoré (RO)",0.587
+"Coronel Ezequiel (RN)",0.587
+"Candeal (BA)",0.587
+"Nova União (RO)",0.587
+"Pé de Serra (BA)",0.587
+"Umirim (CE)",0.587
+"Joaíma (MG)",0.587
+"Cachoeira dos Índios (PB)",0.587
+"Caiçara do Rio do Vento (RN)",0.587
+"Poço Branco (RN)",0.587
+"Guaraqueçaba (PR)",0.587
+"Santarém Novo (PA)",0.587
+"Vera Cruz (RN)",0.587
+"Esperantinópolis (MA)",0.586
+"Campo Formoso (BA)",0.586
+"Palmas de Monte Alto (BA)",0.586
+"Chaval (CE)",0.586
+"Coqueiro Seco (AL)",0.586
+"Porto Calvo (AL)",0.586
+"Sussuapara (PI)",0.586
+"Nhamundá (AM)",0.586
+"Laje (BA)",0.586
+"Itaquitinga (PE)",0.586
+"Tavares (PB)",0.586
+"Ibiara (PB)",0.586
+"Varzedo (BA)",0.586
+"Barreiros (PE)",0.586
+"Nossa Senhora de Nazaré (PI)",0.586
+"Viçosa (AL)",0.586
+"Serra Grande (PB)",0.586
+"Miguel Calmon (BA)",0.586
+"Coari (AM)",0.586
+"Tomé-Açu (PA)",0.586
+"Granjeiro (CE)",0.585
+"Nina Rodrigues (MA)",0.585
+"São Caetano de Odivelas (PA)",0.585
+"Sairé (PE)",0.585
+"Cícero Dantas (BA)",0.585
+"Baixa Grande (BA)",0.585
+"Solidão (PE)",0.585
+"Xique-Xique (BA)",0.585
+"Alto Longá (PI)",0.585
+"Rio Tinto (PB)",0.585
+"Sento Sé (BA)",0.585
+"Laranjal (PR)",0.585
+"Mamanguape (PB)",0.585
+"Choró (CE)",0.585
+"Nacip Raydan (MG)",0.585
+"Olho-D'Água do Borges (RN)",0.585
+"Crisólita (MG)",0.585
+"Lagoa Nova (RN)",0.585
+"Central do Maranhão (MA)",0.585
+"Ibitiara (BA)",0.585
+"São Tomé (RN)",0.585
+"Caraúbas (PB)",0.585
+"Curral de Dentro (MG)",0.585
+"Afonso Bezerra (RN)",0.585
+"Alegrete do Piauí (PI)",0.585
+"Juarina (TO)",0.584
+"Nova Iorque (MA)",0.584
+"Matriz de Camaragibe (AL)",0.584
+"Cavalcante (GO)",0.584
+"Santo Antônio de Lisboa (PI)",0.584
+"Verdelândia (MG)",0.584
+"Umbuzeiro (PB)",0.584
+"Ibipitanga (BA)",0.584
+"Landri Sales (PI)",0.584
+"Parari (PB)",0.584
+"Lajedo do Tabocal (BA)",0.584
+"Cafarnaum (BA)",0.584
+"Tejuçuoca (CE)",0.584
+"Tabocas do Brejo Velho (BA)",0.584
+"Ibicuí (BA)",0.584
+"Feira Nova (SE)",0.584
+"Bom Jesus (RN)",0.584
+"São Francisco do Brejão (MA)",0.584
+"Vale do Anari (RO)",0.584
+"Érico Cardoso (BA)",0.584
+"Itanagra (BA)",0.584
+"Riacho da Cruz (RN)",0.584
+"Buritirana (MA)",0.583
+"Logradouro (PB)",0.583
+"Cabeceiras do Piauí (PI)",0.583
+"São João da Ponta (PA)",0.583
+"Itaueira (PI)",0.583
+"Dois Irmãos do Tocantins (TO)",0.583
+"Santa Bárbara (BA)",0.583
+"Pau Brasil (BA)",0.583
+"Lagoa do Piauí (PI)",0.583
+"Itacaré (BA)",0.583
+"Praia Norte (TO)",0.583
+"Cristália (MG)",0.583
+"Coluna (MG)",0.583
+"Capitão de Campos (PI)",0.583
+"Pinhão (SE)",0.583
+"Floresta do Araguaia (PA)",0.583
+"Pedro Avelino (RN)",0.583
+"Paramoti (CE)",0.583
+"Lucena (PB)",0.583
+"Macambira (SE)",0.583
+"Aroazes (PI)",0.583
+"Senador Elói de Souza (RN)",0.583
+"Felisburgo (MG)",0.583
+"São José da Safira (MG)",0.583
+"Aiquara (BA)",0.583
+"Canavieira (PI)",0.583
+"Carnaíba (PE)",0.583
+"Jacaré dos Homens (AL)",0.583
+"Medicilândia (PA)",0.582
+"Loreto (MA)",0.582
+"Itatim (BA)",0.582
+"Bento Fernandes (RN)",0.582
+"Catolândia (BA)",0.582
+"Curuçá (PA)",0.582
+"Isaías Coelho (PI)",0.582
+"Iracema (RR)",0.582
+"São João da Serra (PI)",0.582
+"Júlio Borges (PI)",0.582
+"Rubelita (MG)",0.582
+"Aricanduva (MG)",0.582
+"Serra de São Bento (RN)",0.582
+"Condeúba (BA)",0.582
+"Alagoa Grande (PB)",0.582
+"Alhandra (PB)",0.582
+"Lagoa Salgada (RN)",0.582
+"Manicoré (AM)",0.582
+"Ubaíra (BA)",0.582
+"Maracaçumé (MA)",0.582
+"Acajutiba (BA)",0.582
+"São Domingos do Maranhão (MA)",0.582
+"Mombaça (CE)",0.582
+"Vertentes (PE)",0.582
+"Darcinópolis (TO)",0.581
+"Mascote (BA)",0.581
+"Cabaceiras do Paraguaçu (BA)",0.581
+"Poranga (CE)",0.581
+"Tenório (PB)",0.581
+"Sigefredo Pacheco (PI)",0.581
+"Camacan (BA)",0.581
+"Curaçá (BA)",0.581
+"Nova Olinda do Maranhão (MA)",0.581
+"Lago do Junco (MA)",0.581
+"São Sebastião do Maranhão (MG)",0.581
+"Moraújo (CE)",0.581
+"Anapurus (MA)",0.581
+"Anajatuba (MA)",0.581
+"Baía da Traição (PB)",0.581
+"São Sebastião do Umbuzeiro (PB)",0.581
+"Mata Verde (MG)",0.581
+"Lima Campos (MA)",0.581
+"Peixe-Boi (PA)",0.581
+"Nova Ipixuna (PA)",0.581
+"Aracatu (BA)",0.581
+"Congo (PB)",0.581
+"Vila Nova dos Martírios (MA)",0.581
+"São José do Brejo do Cruz (PB)",0.581
+"Fortuna (MA)",0.58
+"São Francisco (PB)",0.58
+"Fervedouro (MG)",0.58
+"Paraibano (MA)",0.58
+"Indiaroba (SE)",0.58
+"Tamboril (CE)",0.58
+"Ibirajuba (PE)",0.58
+"Maurilândia do Tocantins (TO)",0.58
+"Ponto Novo (BA)",0.58
+"Elesbão Veloso (PI)",0.58
+"Jaguaquara (BA)",0.58
+"Desterro (PB)",0.58
+"Amaraji (PE)",0.58
+"Primavera (PE)",0.58
+"São Bento (PB)",0.58
+"Limoeiro de Anadia (AL)",0.58
+"Sucupira do Norte (MA)",0.579
+"Ipaporanga (CE)",0.579
+"Tucano (BA)",0.579
+"Tanque do Piauí (PI)",0.579
+"Pilar (PB)",0.579
+"Remanso (BA)",0.579
+"São Desidério (BA)",0.579
+"Banzaê (BA)",0.579
+"Lagoa do Tocantins (TO)",0.579
+"Canguaretama (RN)",0.579
+"Areia Branca (SE)",0.579
+"Cordeiros (BA)",0.579
+"Cachoeirinha (PE)",0.579
+"Juarez Távora (PB)",0.579
+"Cipotânea (MG)",0.579
+"Umbaúba (SE)",0.579
+"Firmino Alves (BA)",0.578
+"Alvorada do Gurguéia (PI)",0.578
+"Curuá (PA)",0.578
+"São José do Bonfim (PB)",0.578
+"Bacuri (MA)",0.578
+"Caririaçu (CE)",0.578
+"Belém de Maria (PE)",0.578
+"Monte Alegre do Piauí (PI)",0.578
+"Terra Nova (BA)",0.578
+"Coronel João Pessoa (RN)",0.578
+"Malhada de Pedras (BA)",0.578
+"Riachão das Neves (BA)",0.578
+"Quixabeira (BA)",0.578
+"Baião (PA)",0.578
+"Machados (PE)",0.578
+"Alcantil (PB)",0.578
+"Antônio Martins (RN)",0.578
+"Aparecida (PB)",0.578
+"Taperoá (PB)",0.578
+"Itamari (BA)",0.578
+"Aquidabã (SE)",0.578
+"Belém do Brejo do Cruz (PB)",0.578
+"Piritiba (BA)",0.578
+"Cachoeira de Pajeú (MG)",0.578
+"Itambé (BA)",0.578
+"Francisco Ayres (PI)",0.577
+"Contendas do Sincorá (BA)",0.577
+"Vereda (BA)",0.577
+"São Sebastião do Uatumã (AM)",0.577
+"Quixaba (PE)",0.577
+"Brasileira (PI)",0.577
+"União (PI)",0.577
+"Barra do Rocha (BA)",0.577
+"Barra D'Alcântara (PI)",0.577
+"Autazes (AM)",0.577
+"São José de Espinharas (PB)",0.577
+"Tanhaçu (BA)",0.577
+"Ibaretama (CE)",0.577
+"Primavera (PA)",0.577
+"Santa Cruz de Salinas (MG)",0.577
+"Nossa Senhora Aparecida (SE)",0.577
+"Santa Cruz dos Milagres (PI)",0.577
+"Pindobaçu (BA)",0.577
+"Barra de Guabiraba (PE)",0.577
+"Mar Vermelho (AL)",0.577
+"Cametá (PA)",0.577
+"Gracho Cardoso (SE)",0.577
+"Paripiranga (BA)",0.577
+"Exu (PE)",0.576
+"Vila Flor (RN)",0.576
+"Rio do Antônio (BA)",0.576
+"Goiatins (TO)",0.576
+"João Alfredo (PE)",0.576
+"Itaubal (AP)",0.576
+"Água Boa (MG)",0.576
+"Coroatá (MA)",0.576
+"Bela Vista do Piauí (PI)",0.576
+"Carinhanha (BA)",0.576
+"Nazaré do Piauí (PI)",0.576
+"Olho D'Água do Piauí (PI)",0.576
+"Poção de Pedras (MA)",0.576
+"Canto do Buriti (PI)",0.576
+"Maiquinique (BA)",0.576
+"Riachão (MA)",0.576
+"Frei Miguelinho (PE)",0.576
+"Ibirataia (BA)",0.576
+"Porto Acre (AC)",0.576
+"Irajuba (BA)",0.576
+"Pirapemas (MA)",0.576
+"Tarrafas (CE)",0.576
+"Gongogi (BA)",0.576
+"Alagoa Nova (PB)",0.576
+"Montes Altos (MA)",0.575
+"Chã Preta (AL)",0.575
+"Itambé (PE)",0.575
+"Simões (PI)",0.575
+"Boa Hora (PI)",0.575
+"Paes Landim (PI)",0.575
+"Jitaúna (BA)",0.575
+"Várzea do Poço (BA)",0.575
+"Mocajuba (PA)",0.575
+"Belo Campo (BA)",0.575
+"Capixaba (AC)",0.575
+"Jaqueira (PE)",0.575
+"Abaré (BA)",0.575
+"Piripá (BA)",0.575
+"Olinda Nova do Maranhão (MA)",0.575
+"Aratuípe (BA)",0.575
+"Jupi (PE)",0.575
+"Parnaguá (PI)",0.575
+"Saboeiro (CE)",0.575
+"Botuporã (BA)",0.575
+"Junqueiro (AL)",0.575
+"Barra da Estiva (BA)",0.575
+"Bonito de Santa Fé (PB)",0.574
+"Buriti dos Montes (PI)",0.574
+"Igrapiúna (BA)",0.574
+"Mogeiro (PB)",0.574
+"Pau D'Arco (PA)",0.574
+"Iaçu (BA)",0.574
+"Pedra Lavrada (PB)",0.574
+"Carutapera (MA)",0.574
+"Januário Cicco (RN)",0.574
+"Brejinho (PE)",0.574
+"Santana do Piauí (PI)",0.574
+"Barreirinha (AM)",0.574
+"Santa Inês (BA)",0.574
+"Riachão (PB)",0.574
+"Pindoba (AL)",0.574
+"Santo Antônio do Jacinto (MG)",0.574
+"Catingueira (PB)",0.574
+"São Félix do Tocantins (TO)",0.574
+"Caiçara do Norte (RN)",0.574
+"Baraúna (RN)",0.574
+"Benjamin Constant (AM)",0.574
+"Maragogi (AL)",0.574
+"Alcântara (MA)",0.573
+"São Sebastião do Tocantins (TO)",0.573
+"Nova Olinda (PB)",0.573
+"Cristalândia do Piauí (PI)",0.573
+"Cerro Azul (PR)",0.573
+"Pedra Bonita (MG)",0.573
+"Caldeirão Grande (BA)",0.573
+"São José da Laje (AL)",0.573
+"São José do Peixe (PI)",0.573
+"Ipueiras (CE)",0.573
+"Tacaratu (PE)",0.573
+"Manoel Emídio (PI)",0.573
+"Carnaubeira da Penha (PE)",0.573
+"Sossêgo (PB)",0.573
+"Sobrado (PB)",0.573
+"Capela (AL)",0.573
+"Maturéia (PB)",0.572
+"Governador Eugênio Barros (MA)",0.572
+"Tuntum (MA)",0.572
+"Planaltino (BA)",0.572
+"Água Branca (PB)",0.572
+"Itapebi (BA)",0.572
+"Itaeté (BA)",0.572
+"Inhangapi (PA)",0.572
+"São Brás (AL)",0.572
+"Touros (RN)",0.572
+"Riachinho (TO)",0.572
+"Sítio Novo (RN)",0.572
+"Santa Inês (PB)",0.572
+"Piaçabuçu (AL)",0.572
+"Mairi (BA)",0.572
+"Matina (BA)",0.572
+"Olho D'Água (PB)",0.572
+"São Bernardo (MA)",0.572
+"Rio Real (BA)",0.572
+"Cumaru (PE)",0.572
+"Barra de São Miguel (PB)",0.572
+"Alvorada de Minas (MG)",0.572
+"Rio Grande do Piauí (PI)",0.572
+"Angelim (PE)",0.572
+"Ouricuri (PE)",0.572
+"Santa Helena (MA)",0.571
+"Caturama (BA)",0.571
+"Calumbi (PE)",0.571
+"Piatã (BA)",0.571
+"Jussara (BA)",0.571
+"Vieirópolis (PB)",0.571
+"Novo Cruzeiro (MG)",0.571
+"Pedro Ii (PI)",0.571
+"Itapitanga (BA)",0.571
+"Viçosa do Ceará (CE)",0.571
+"Iramaia (BA)",0.571
+"Palmeirante (TO)",0.571
+"Barroquinha (CE)",0.571
+"Várzea Grande (PI)",0.571
+"Graça Aranha (MA)",0.57
+"Juazeiro do Piauí (PI)",0.57
+"Vitorino Freire (MA)",0.57
+"Campo Alegre (AL)",0.57
+"Maracanã (PA)",0.57
+"Ituaçu (BA)",0.57
+"São João (PE)",0.57
+"Senador Georgino Avelino (RN)",0.57
+"Casa Nova (BA)",0.57
+"Cuitegi (PB)",0.57
+"Graça (CE)",0.57
+"Pitimbu (PB)",0.57
+"Brotas de Macaúbas (BA)",0.57
+"Esperantina (TO)",0.57
+"Novo Airão (AM)",0.57
+"São Francisco do Piauí (PI)",0.57
+"Lizarda (TO)",0.57
+"Mata Roma (MA)",0.57
+"Riacho das Almas (PE)",0.57
+"Araças (BA)",0.57
+"Juru (PB)",0.57
+"Nova Ibiá (BA)",0.57
+"Lagoa de Dentro (PB)",0.57
+"Serra Redonda (PB)",0.57
+"Barreirinhas (MA)",0.57
+"Parambu (CE)",0.57
+"Santo Antônio do Retiro (MG)",0.57
+"Japaratinga (AL)",0.57
+"Caapiranga (AM)",0.569
+"Japi (RN)",0.569
+"Jandaíra (RN)",0.569
+"Aiuaba (CE)",0.569
+"São João da Ponte (MG)",0.569
+"Governador Nunes Freire (MA)",0.569
+"Igarapé do Meio (MA)",0.569
+"Panelas (PE)",0.569
+"Centenário (TO)",0.569
+"Guajeru (BA)",0.569
+"Maravilha (AL)",0.569
+"Rio do Fogo (RN)",0.569
+"Canhoba (SE)",0.569
+"Taipu (RN)",0.569
+"Sapé (PB)",0.569
+"Congonhas do Norte (MG)",0.568
+"Salgado de São Félix (PB)",0.568
+"Messias (AL)",0.568
+"Apicum-Açu (MA)",0.568
+"Ourém (PA)",0.568
+"Gonçalves Dias (MA)",0.568
+"Careiro da Várzea (AM)",0.568
+"Cortês (PE)",0.568
+"Aurelino Leal (BA)",0.568
+"Breu Branco (PA)",0.568
+"Igreja Nova (AL)",0.568
+"Anadia (AL)",0.568
+"Porto da Folha (SE)",0.568
+"Sucupira do Riachão (MA)",0.568
+"Pedro Velho (RN)",0.568
+"Caldas Brandão (PB)",0.568
+"General Sampaio (CE)",0.568
+"Riacho dos Cavalos (PB)",0.568
+"Bananeiras (PB)",0.568
+"Canindé de São Francisco (SE)",0.567
+"Euclides da Cunha (BA)",0.567
+"Camalaú (PB)",0.567
+"Barra de Santana (PB)",0.567
+"Pureza (RN)",0.567
+"Boa Nova (BA)",0.567
+"Jussari (BA)",0.567
+"Nova Redenção (BA)",0.567
+"Pedra (PE)",0.567
+"Santa Helena de Minas (MG)",0.567
+"Magalhães de Almeida (MA)",0.567
+"Massaranduba (PB)",0.567
+"Rodrigues Alves (AC)",0.567
+"Araruna (PB)",0.567
+"São Miguel do Aleixo (SE)",0.567
+"Casinhas (PE)",0.567
+"Juazeirinho (PB)",0.567
+"Santa Rosa do Piauí (PI)",0.567
+"Lagoa do Mato (MA)",0.566
+"Livramento (PB)",0.566
+"Manoel Vitorino (BA)",0.566
+"São José do Jacuri (MG)",0.566
+"Pimenteiras (PI)",0.566
+"Santo Antônio dos Lopes (MA)",0.566
+"Nova Colinas (MA)",0.566
+"Serra Preta (BA)",0.566
+"Taperoá (BA)",0.566
+"Cubati (PB)",0.566
+"Mulungu do Morro (BA)",0.566
+"Major Isidoro (AL)",0.566
+"Calçado (PE)",0.566
+"Barcelona (RN)",0.566
+"Jatobá do Piauí (PI)",0.566
+"Teofilândia (BA)",0.566
+"Cristino Castro (PI)",0.566
+"Uruoca (CE)",0.566
+"Vista Serrana (PB)",0.566
+"Concórdia do Pará (PA)",0.566
+"Jardim de Angicos (RN)",0.565
+"Coivaras (PI)",0.565
+"Bodocó (PE)",0.565
+"Cantanhede (MA)",0.565
+"Mulungu (PB)",0.565
+"Mato Grosso (PB)",0.565
+"Camamu (BA)",0.565
+"Buriti dos Lopes (PI)",0.565
+"Feliz Deserto (AL)",0.565
+"Boa Vista do Ramos (AM)",0.565
+"Governador Archer (MA)",0.565
+"São José de Princesa (PB)",0.565
+"Prata do Piauí (PI)",0.565
+"Inhambupe (BA)",0.565
+"São José de Caiana (PB)",0.565
+"Canápolis (BA)",0.565
+"Senhora do Porto (MG)",0.565
+"Vila Nova do Piauí (PI)",0.565
+"Sambaíba (MA)",0.565
+"Filadélfia (BA)",0.565
+"Olho D'Água das Flores (AL)",0.565
+"Buritirama (BA)",0.565
+"São José do Divino (PI)",0.565
+"Palmópolis (MG)",0.565
+"Cacimba de Dentro (PB)",0.564
+"Francinópolis (PI)",0.564
+"Pilõezinhos (PB)",0.564
+"Gararu (SE)",0.564
+"Pio Ix (PI)",0.564
+"Sítio do Mato (BA)",0.564
+"Josenópolis (MG)",0.564
+"Igaci (AL)",0.564
+"Itapororoca (PB)",0.564
+"Alenquer (PA)",0.564
+"Teotônio Vilela (AL)",0.564
+"Coelho Neto (MA)",0.564
+"Rafael Jambeiro (BA)",0.564
+"Água Azul do Norte (PA)",0.564
+"Sítio Novo (MA)",0.564
+"Peritoró (MA)",0.564
+"Galinhos (RN)",0.564
+"Araripe (CE)",0.564
+"Baixa Grande do Ribeiro (PI)",0.564
+"Madeiro (PI)",0.563
+"Almadina (BA)",0.563
+"Bom Conselho (PE)",0.563
+"Presidente Juscelino (RN)",0.563
+"Eirunepé (AM)",0.563
+"Codajás (AM)",0.563
+"Salgadinho (PB)",0.563
+"Presidente Juscelino (MA)",0.563
+"Minador do Negrão (AL)",0.563
+"Vertente do Lério (PE)",0.563
+"Heliópolis (BA)",0.563
+"Faro (PA)",0.563
+"Patos do Piauí (PI)",0.563
+"Porto Alegre do Piauí (PI)",0.563
+"Lagoa (PB)",0.563
+"São Miguel da Baixa Grande (PI)",0.563
+"Ilha Grande (PI)",0.563
+"Piçarra (PA)",0.563
+"Cajueiro (AL)",0.562
+"Marcolândia (PI)",0.562
+"Canudos (BA)",0.562
+"Brejo da Madre de Deus (PE)",0.562
+"Ponta de Pedras (PA)",0.562
+"Sebastião Leal (PI)",0.562
+"Brejo (MA)",0.562
+"Malhada (BA)",0.562
+"Itatuba (PB)",0.562
+"Itaguaçu da Bahia (BA)",0.562
+"Orizânia (MG)",0.562
+"Potengi (CE)",0.562
+"Novo Oriente do Piauí (PI)",0.562
+"Trairão (PA)",0.562
+"Nazarezinho (PB)",0.562
+"Itatira (CE)",0.562
+"Cajazeiras do Piauí (PI)",0.562
+"Palmeirais (PI)",0.562
+"Jundiá (AL)",0.562
+"Barra de Santa Rosa (PB)",0.562
+"Pedro Laurentino (PI)",0.562
+"Areia de Baraúnas (PB)",0.562
+"Ilha das Flores (SE)",0.562
+"Matias Olímpio (PI)",0.562
+"Bom Lugar (MA)",0.562
+"Cândido Mendes (MA)",0.561
+"Tutóia (MA)",0.561
+"Marcionílio Souza (BA)",0.561
+"Caatiba (BA)",0.561
+"Poço Verde (SE)",0.561
+"Bonito (BA)",0.561
+"Jatobá (MA)",0.561
+"Paulino Neves (MA)",0.561
+"Geminiano (PI)",0.561
+"Dirceu Arcoverde (PI)",0.561
+"Monsenhor Hipólito (PI)",0.561
+"Atalaia (AL)",0.561
+"Turiaçu (MA)",0.561
+"Bonito (PE)",0.561
+"Socorro do Piauí (PI)",0.561
+"Joselândia (MA)",0.561
+"Passagem Franca do Piauí (PI)",0.561
+"Itaporanga D'Ajuda (SE)",0.561
+"Anori (AM)",0.561
+"Antônio Cardoso (BA)",0.561
+"América Dourada (BA)",0.561
+"João Costa (PI)",0.561
+"Una (BA)",0.56
+"São Gonçalo do Gurguéia (PI)",0.56
+"Campo Grande do Piauí (PI)",0.56
+"Nordestina (BA)",0.56
+"Boqueirão do Piauí (PI)",0.56
+"Planalto (BA)",0.56
+"Eldorado dos Carajás (PA)",0.56
+"Amaturá (AM)",0.56
+"Pilões (PB)",0.56
+"Arraial (PI)",0.56
+"Sericita (MG)",0.56
+"Borba (AM)",0.56
+"Conde (BA)",0.56
+"Fagundes (PB)",0.56
+"Ourolândia (BA)",0.56
+"Goianésia do Pará (PA)",0.56
+"Japoatã (SE)",0.56
+"São João da Varjota (PI)",0.559
+"Fátima (BA)",0.559
+"Granja (CE)",0.559
+"Gentio do Ouro (BA)",0.559
+"São João da Canabrava (PI)",0.559
+"Betânia (PE)",0.559
+"Campestre (AL)",0.559
+"Pedra Grande (RN)",0.559
+"Pajeú do Piauí (PI)",0.559
+"Irituia (PA)",0.559
+"Presidente Tancredo Neves (BA)",0.559
+"Quebrangulo (AL)",0.559
+"Saloá (PE)",0.559
+"Arataca (BA)",0.559
+"Olindina (BA)",0.559
+"Nova Olinda do Norte (AM)",0.558
+"São Sebastião da Boa Vista (PA)",0.558
+"Espírito Santo (RN)",0.558
+"Alto Alegre do Pindaré (MA)",0.558
+"Morpará (BA)",0.558
+"Ibirapitanga (BA)",0.558
+"Pedra Preta (RN)",0.558
+"Borborema (PB)",0.558
+"Caraí (MG)",0.558
+"Bom Jesus das Selvas (MA)",0.558
+"Jacaraú (PB)",0.558
+"Palestina (AL)",0.558
+"Bernardino Batista (PB)",0.558
+"Rio Vermelho (MG)",0.558
+"Guaratinga (BA)",0.558
+"Santo Antônio do Itambé (MG)",0.558
+"Baraúna (PB)",0.558
+"Beneditinos (PI)",0.557
+"Campo Alegre de Lourdes (BA)",0.557
+"Careiro (AM)",0.557
+"São Félix de Balsas (MA)",0.557
+"Imaculada (PB)",0.557
+"Palmeira do Piauí (PI)",0.557
+"Lago Verde (MA)",0.557
+"Tobias Barreto (SE)",0.557
+"Barra de Santo Antônio (AL)",0.557
+"Barra (BA)",0.557
+"Montanhas (RN)",0.557
+"Serra Azul de Minas (MG)",0.557
+"Cansanção (BA)",0.557
+"Floresta Azul (BA)",0.557
+"Barreiras do Piauí (PI)",0.557
+"Santa Cruz do Arari (PA)",0.557
+"São José dos Basílios (MA)",0.557
+"Presidente Sarney (MA)",0.557
+"Jequiá da Praia (AL)",0.556
+"Jaguaripe (BA)",0.556
+"São José dos Cordeiros (PB)",0.556
+"Palmeirândia (MA)",0.556
+"Gurinhém (PB)",0.556
+"Flores (PE)",0.556
+"Ninheira (MG)",0.556
+"Buriticupu (MA)",0.556
+"Santa Luzia (BA)",0.556
+"São Miguel do Tapuio (PI)",0.556
+"Itabaianinha (SE)",0.556
+"Formosa da Serra Negra (MA)",0.556
+"Venha-Ver (RN)",0.555
+"Andaraí (BA)",0.555
+"Tufilândia (MA)",0.555
+"Cocal de Telha (PI)",0.555
+"Novo Oriente de Minas (MG)",0.555
+"Várzea Nova (BA)",0.555
+"Jurema (PI)",0.555
+"Tanque D'Arca (AL)",0.555
+"Riachão do Poço (PB)",0.555
+"Pacatuba (SE)",0.555
+"Seridó (PB)",0.555
+"Teolândia (BA)",0.555
+"Santa Quitéria do Maranhão (MA)",0.555
+"Caraíbas (BA)",0.555
+"Amarante do Maranhão (MA)",0.555
+"Curralinhos (PI)",0.555
+"Nova Soure (BA)",0.555
+"São Bento do Norte (RN)",0.555
+"Joaquim Nabuco (PE)",0.554
+"Novo Aripuanã (AM)",0.554
+"Tacaimbó (PE)",0.554
+"Nova Santa Rita (PI)",0.554
+"Novo Triunfo (BA)",0.554
+"Avelino Lopes (PI)",0.554
+"Alto Alegre do Maranhão (MA)",0.554
+"São Luis do Piauí (PI)",0.554
+"Oliveira dos Brejinhos (BA)",0.554
+"Penalva (MA)",0.554
+"Bela Vista do Maranhão (MA)",0.554
+"Itaquara (BA)",0.553
+"Cajapió (MA)",0.553
+"Riachão do Bacamarte (PB)",0.553
+"Imbé de Minas (MG)",0.553
+"Jiquiriçá (BA)",0.553
+"Monte Alegre de Sergipe (SE)",0.553
+"Francisco Macedo (PI)",0.553
+"Lagoa de Pedras (RN)",0.553
+"Água Preta (PE)",0.553
+"Capitão Gervásio Oliveira (PI)",0.553
+"Várzea Branca (PI)",0.553
+"Cristinápolis (SE)",0.553
+"Cruz do Espírito Santo (PB)",0.552
+"Placas (PA)",0.552
+"Bujaru (PA)",0.552
+"Lagoa da Canoa (AL)",0.552
+"Quipapá (PE)",0.552
+"Jaramataia (AL)",0.552
+"Itaipé (MG)",0.552
+"Cardeal da Silva (BA)",0.552
+"São João do Tigre (PB)",0.552
+"Ibimirim (PE)",0.552
+"Xexéu (PE)",0.552
+"Caracol (PI)",0.552
+"Apuarema (BA)",0.552
+"São José do Jacuípe (BA)",0.552
+"Iguaí (BA)",0.552
+"São José do Piauí (PI)",0.552
+"Junco do Maranhão (MA)",0.552
+"Lagoa dos Gatos (PE)",0.551
+"Manoel Urbano (AC)",0.551
+"Barra do Choça (BA)",0.551
+"Tacima (PB)",0.551
+"Boa Vista do Tupim (BA)",0.551
+"Belém do Piauí (PI)",0.551
+"Tomar do Geru (SE)",0.551
+"Porto Real do Colégio (AL)",0.551
+"Matões (MA)",0.55
+"Jucati (PE)",0.55
+"Lagoa Alegre (PI)",0.55
+"Ielmo Marinho (RN)",0.55
+"Ipubi (PE)",0.55
+"Maranhãozinho (MA)",0.55
+"Cumaru do Norte (PA)",0.55
+"Ipecaetá (BA)",0.55
+"Santa Luzia (MA)",0.55
+"Morro do Chapéu do Piauí (PI)",0.55
+"São João do Araguaia (PA)",0.55
+"Água Fria (BA)",0.55
+"Cajazeirinhas (PB)",0.55
+"Domingos Mourão (PI)",0.55
+"Jandaíra (BA)",0.55
+"Parazinho (RN)",0.549
+"São Sebastião (AL)",0.549
+"Água Branca (AL)",0.549
+"Palmeirina (PE)",0.549
+"Santa Cruz (PE)",0.549
+"Dom Inocêncio (PI)",0.549
+"Saúde (BA)",0.549
+"Capoeiras (PE)",0.549
+"Muquém de São Francisco (BA)",0.549
+"Altamira do Maranhão (MA)",0.549
+"Paulo Ramos (MA)",0.549
+"Carauari (AM)",0.549
+"São Vicente Ferrer (PE)",0.549
+"Araçagi (PB)",0.549
+"Porto (PI)",0.549
+"Ipirá (BA)",0.549
+"Mari (PB)",0.548
+"Anapu (PA)",0.548
+"Pariconha (AL)",0.548
+"Juripiranga (PB)",0.548
+"Capitão Poço (PA)",0.548
+"Aporá (BA)",0.548
+"Rurópolis (PA)",0.548
+"Buriti (MA)",0.548
+"Arara (PB)",0.548
+"Algodão de Jandaíra (PB)",0.548
+"Santa Maria do Cambucá (PE)",0.548
+"São Domingos (PB)",0.548
+"Gilbués (PI)",0.548
+"Fartura do Piauí (PI)",0.548
+"São Miguel de Taipu (PB)",0.548
+"Tonantins (AM)",0.548
+"Aroeiras (PB)",0.548
+"Jacuípe (AL)",0.548
+"Morros (MA)",0.548
+"Serraria (PB)",0.547
+"Brejão (PE)",0.547
+"Ouro Branco (AL)",0.547
+"Moju (PA)",0.547
+"Muaná (PA)",0.547
+"Nilo Peçanha (BA)",0.547
+"Flores do Piauí (PI)",0.547
+"Igarapé-Miri (PA)",0.547
+"Jeremoabo (BA)",0.547
+"Santa Brígida (BA)",0.546
+"Caém (BA)",0.546
+"Monção (MA)",0.546
+"Coronel José Dias (PI)",0.546
+"Icatu (MA)",0.546
+"Bom Jesus da Serra (BA)",0.546
+"Adustina (BA)",0.546
+"Cajueiro da Praia (PI)",0.546
+"Lajedinho (BA)",0.546
+"Doutor Ulysses (PR)",0.546
+"Benedito Leite (MA)",0.546
+"Bonito (PA)",0.546
+"São José da Vitória (BA)",0.546
+"Cachoeira do Arari (PA)",0.546
+"Santa Luzia do Pará (PA)",0.546
+"Mirador (MA)",0.545
+"Terezinha (PE)",0.545
+"Luzilândia (PI)",0.545
+"Dona Inês (PB)",0.545
+"Santa Luzia do Itanhy (SE)",0.545
+"Lagoa Real (BA)",0.545
+"Batalha (PI)",0.545
+"Boa Vista do Gurupi (MA)",0.545
+"Nova Canaã (BA)",0.545
+"Santa Maria das Barreiras (PA)",0.544
+"Campinas do Piauí (PI)",0.544
+"Quijingue (BA)",0.544
+"Itiúba (BA)",0.544
+"Fruta de Leite (MG)",0.544
+"Wenceslau Guimarães (BA)",0.544
+"Encruzilhada (BA)",0.544
+"Santa Filomena (PI)",0.544
+"Governador Luiz Rocha (MA)",0.544
+"Wall Ferraz (PI)",0.544
+"Campos Lindos (TO)",0.544
+"Quatipuru (PA)",0.543
+"Frei Lagonegro (MG)",0.543
+"Crisópolis (BA)",0.543
+"Itagi (BA)",0.543
+"Manaíra (PB)",0.543
+"Presidente Jânio Quadros (BA)",0.542
+"Parnarama (MA)",0.542
+"Bonfim do Piauí (PI)",0.542
+"Centro do Guilherme (MA)",0.542
+"Caetanos (BA)",0.542
+"Currais (PI)",0.542
+"Vargem Grande (MA)",0.542
+"Morro Cabeça no Tempo (PI)",0.542
+"Mirangaba (BA)",0.542
+"Setubinha (MG)",0.542
+"Alto Alegre (RR)",0.542
+"Pedro Régis (PB)",0.542
+"Mãe D'Água (PB)",0.542
+"Pio Xii (MA)",0.541
+"São Benedito do Rio Preto (MA)",0.541
+"São José dos Ramos (PB)",0.541
+"Matinhas (PB)",0.541
+"Limoeiro do Ajuru (PA)",0.541
+"Natuba (PB)",0.541
+"Aveiro (PA)",0.541
+"Riacho Frio (PI)",0.541
+"Taquarana (AL)",0.541
+"Luís Correia (PI)",0.541
+"Monte Formoso (MG)",0.541
+"Jucuruçu (BA)",0.541
+"Porto de Pedras (AL)",0.541
+"Caridade do Piauí (PI)",0.541
+"Canhotinho (PE)",0.541
+"Padre Marcos (PI)",0.541
+"Lagoa do Sítio (PI)",0.541
+"Ladainha (MG)",0.541
+"Itainópolis (PI)",0.541
+"Brejo Grande (SE)",0.54
+"Dário Meira (BA)",0.54
+"Ribeirão do Largo (BA)",0.54
+"São Luís Gonzaga do Maranhão (MA)",0.54
+"Salitre (CE)",0.54
+"Anagé (BA)",0.54
+"Catuji (MG)",0.54
+"Miguel Alves (PI)",0.539
+"Várzea da Roça (BA)",0.539
+"Feijó (AC)",0.539
+"Tarauacá (AC)",0.539
+"Monteirópolis (AL)",0.539
+"São João de Pirabas (PA)",0.539
+"Riachão do Dantas (SE)",0.539
+"Floresta do Piauí (PI)",0.538
+"Bom Jardim (MA)",0.538
+"Maetinga (BA)",0.538
+"Senador Alexandre Costa (MA)",0.538
+"Campinápolis (MT)",0.538
+"Biritinga (BA)",0.538
+"Timbiras (MA)",0.537
+"Paranatama (PE)",0.537
+"Novo Repartimento (PA)",0.537
+"São Joaquim do Monte (PE)",0.537
+"Cachoeira Grande (MA)",0.537
+"Bacurituba (MA)",0.537
+"Campo Alegre do Fidalgo (PI)",0.537
+"Bonito de Minas (MG)",0.537
+"Capinzal do Norte (MA)",0.537
+"Correntes (PE)",0.536
+"São Luís do Quitunde (AL)",0.536
+"Araponga (MG)",0.536
+"Sebastião Barros (PI)",0.536
+"Turilândia (MA)",0.536
+"Girau do Ponciano (AL)",0.536
+"Mataraca (PB)",0.536
+"Coronel João Sá (BA)",0.535
+"Humberto de Campos (MA)",0.535
+"Jacobina do Piauí (PI)",0.535
+"São Miguel do Fidalgo (PI)",0.535
+"Santana de Mangueira (PB)",0.535
+"Araci (BA)",0.534
+"Estrela de Alagoas (AL)",0.534
+"Salgadinho (PE)",0.534
+"Maraial (PE)",0.534
+"Sítio do Quinto (BA)",0.533
+"Nossa Senhora dos Remédios (PI)",0.533
+"Passo de Camaragibe (AL)",0.533
+"Piraí do Norte (BA)",0.533
+"Lastro (PB)",0.533
+"Coité do Nóia (AL)",0.533
+"Araguanã (MA)",0.533
+"Santa Filomena (PE)",0.533
+"Capim (PB)",0.533
+"Matões do Norte (MA)",0.533
+"Feira Grande (AL)",0.533
+"Duque Bacelar (MA)",0.533
+"Guajará (AM)",0.532
+"Passagem Franca (MA)",0.532
+"São Domingos do Capim (PA)",0.532
+"Feira Nova do Maranhão (MA)",0.532
+"Dois Riachos (AL)",0.532
+"Porto Walter (AC)",0.532
+"Bom Princípio do Piauí (PI)",0.532
+"Traipu (AL)",0.532
+"Cacimbinhas (AL)",0.531
+"Lábrea (AM)",0.531
+"Alagoinha do Piauí (PI)",0.531
+"Tracuateua (PA)",0.531
+"Joaquim Gomes (AL)",0.531
+"Jataúba (PE)",0.53
+"Fonte Boa (AM)",0.53
+"Murici dos Portelas (PI)",0.53
+"São Benedito do Sul (PE)",0.53
+"São José da Lagoa Tapada (PB)",0.53
+"Canutama (AM)",0.53
+"João Dias (RN)",0.53
+"Curral de Cima (PB)",0.529
+"Afonso Cunha (MA)",0.529
+"Marcação (PB)",0.529
+"Lagoa de São Francisco (PI)",0.529
+"São João das Missões (MG)",0.529
+"Poço Redondo (SE)",0.529
+"Iati (PE)",0.528
+"Novo Santo Antônio (PI)",0.528
+"Acauã (PI)",0.528
+"Itupiranga (PA)",0.528
+"Tremedal (BA)",0.528
+"Poção (PE)",0.528
+"Campo Largo do Piauí (PI)",0.528
+"São Francisco do Maranhão (MA)",0.528
+"Flexeiras (AL)",0.527
+"Mirante (BA)",0.527
+"Curral Novo do Piauí (PI)",0.527
+"Murici (AL)",0.527
+"Buíque (PE)",0.527
+"Sátiro Dias (BA)",0.527
+"Uarini (AM)",0.527
+"Alvarães (AM)",0.527
+"Milagres do Maranhão (MA)",0.527
+"São José da Tapera (AL)",0.527
+"Japorã (MS)",0.526
+"Pavussu (PI)",0.526
+"Poço das Trincheiras (AL)",0.526
+"Águas Belas (PE)",0.526
+"Garrafão do Norte (PA)",0.526
+"Carneiros (AL)",0.526
+"Olho D'Água do Casado (AL)",0.525
+"Craíbas (AL)",0.525
+"Santa Filomena do Maranhão (MA)",0.525
+"Poço Dantas (PB)",0.525
+"Massapê do Piauí (PI)",0.525
+"Santa Cecília (PB)",0.525
+"Lagoa do Ouro (PE)",0.525
+"Campo Grande (AL)",0.524
+"Nova Itarana (BA)",0.524
+"Jaicós (PI)",0.524
+"Cuité de Mamanguape (PB)",0.524
+"Macajuba (BA)",0.524
+"Cajari (MA)",0.523
+"Cacimbas (PB)",0.523
+"Inajá (PE)",0.523
+"Prainha (PA)",0.523
+"São João do Arraial (PI)",0.523
+"Caetés (PE)",0.522
+"Japurá (AM)",0.522
+"Joaquim Pires (PI)",0.522
+"Juruá (AM)",0.522
+"Araioses (MA)",0.521
+"Damião (PB)",0.521
+"São Paulo de Olivença (AM)",0.521
+"Novo Lino (AL)",0.521
+"Governador Newton Bello (MA)",0.521
+"Ribeira do Piauí (PI)",0.52
+"Augusto Corrêa (PA)",0.52
+"Amapá do Maranhão (MA)",0.52
+"Tupanatinga (PE)",0.519
+"Brejo de Areia (MA)",0.519
+"Aroeiras do Itaim (PI)",0.519
+"Serrano do Maranhão (MA)",0.519
+"Aurora do Pará (PA)",0.519
+"Santana do Mundaú (AL)",0.519
+"Centro Novo do Maranhão (MA)",0.518
+"Itaipava do Grajaú (MA)",0.518
+"Ibateguara (AL)",0.518
+"Lamarão (BA)",0.518
+"Santo Amaro do Maranhão (MA)",0.518
+"Senador Rui Palmeira (AL)",0.518
+"São João do Soter (MA)",0.517
+"Belo Monte (AL)",0.517
+"Colônia Leopoldina (AL)",0.517
+"Santa Rosa do Purus (AC)",0.517
+"São Roberto (MA)",0.516
+"Jutaí (AM)",0.516
+"Pedro do Rosário (MA)",0.516
+"São Raimundo do Doca Bezerra (MA)",0.516
+"Pacajá (PA)",0.515
+"Viseu (PA)",0.515
+"São João da Fronteira (PI)",0.515
+"Brejo do Piauí (PI)",0.515
+"Queimada Nova (PI)",0.515
+"Umburanas (BA)",0.515
+"Senador José Porfírio (PA)",0.514
+"Pau D'Arco do Piauí (PI)",0.514
+"Casserengue (PB)",0.514
+"Pedro Alexandre (BA)",0.513
+"Gado Bravo (PB)",0.513
+"Aldeias Altas (MA)",0.513
+"Branquinha (AL)",0.513
+"Ribeira do Amparo (BA)",0.512
+"Arame (MA)",0.512
+"Primeira Cruz (MA)",0.512
+"Belágua (MA)",0.512
+"Conceição do Lago-Açu (MA)",0.512
+"Ibiquera (BA)",0.511
+"Santana do Maranhão (MA)",0.51
+"Itaíba (PE)",0.51
+"Jurema (PE)",0.509
+"São João do Carú (MA)",0.509
+"Gurupá (PA)",0.509
+"Envira (AM)",0.509
+"Paquetá (PI)",0.509
+"Guaribas (PI)",0.508
+"Milton Brandão (PI)",0.508
+"Oeiras do Pará (PA)",0.507
+"Pilão Arcado (BA)",0.506
+"Acará (PA)",0.506
+"Canapi (AL)",0.506
+"Beruri (AM)",0.506
+"Monte Santo (BA)",0.506
+"Roteiro (AL)",0.505
+"Caraúbas do Piauí (PI)",0.505
+"Jacareacanga (PA)",0.505
+"Mata Grande (AL)",0.504
+"Joca Marques (PI)",0.504
+"Breves (PA)",0.503
+"Porto de Moz (PA)",0.503
+"Olho D'Água Grande (AL)",0.503
+"Vera Mendes (PI)",0.503
+"Curralinho (PA)",0.502
+"Lagoa do Barro do Piauí (PI)",0.502
+"Nova Esperança do Piriá (PA)",0.502
+"Lagoa Grande do Maranhão (MA)",0.502
+"Tapauá (AM)",0.502
+"Marechal Thaumaturgo (AC)",0.501
+"Tamboril do Piauí (PI)",0.501
+"Água Doce do Maranhão (MA)",0.5
+"Barcelos (AM)",0.5
+"Recursolândia (TO)",0.5
+"Assunção do Piauí (PI)",0.499
+"Maraã (AM)",0.498
+"Cocal dos Alves (PI)",0.498
+"Cocal (PI)",0.497
+"Pauini (AM)",0.496
+"Olivença (AL)",0.493
+"Satubinha (MA)",0.493
+"Santo Antônio do Içá (AM)",0.49
+"Jenipapo dos Vieiras (MA)",0.49
+"Betânia do Piauí (PI)",0.489
+"Ipixuna do Pará (PA)",0.489
+"Afuá (PA)",0.489
+"Caxingó (PI)",0.488
+"Manari (PE)",0.487
+"Itapicuru (BA)",0.486
+"São Francisco de Assis do Piauí (PI)",0.485
+"Amajari (RR)",0.484
+"Inhapi (AL)",0.484
+"Anajás (PA)",0.484
+"Portel (PA)",0.483
+"Ipixuna (AM)",0.481
+"Santa Isabel do Rio Negro (AM)",0.479
+"Itamarati (AM)",0.477
+"Cachoeira do Piriá (PA)",0.473
+"Bagre (PA)",0.471
+"Jordão (AC)",0.469
+"Chaves (PA)",0.453
+"Uiramutã (RR)",0.453
+"Marajá do Sena (MA)",0.452
+"Atalaia do Norte (AM)",0.45
+"Fernando Falcão (MA)",0.443
+"Melgaço (PA)",0.418
